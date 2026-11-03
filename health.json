@@ -1,0 +1,3870 @@
+{
+"cg.en.kingofshojo": {
+"chapters": 129,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 40,
+"sample": "Tears on a Withered Flower",
+"status": "ok"
+},
+"cg.en.linkmanga": {
+"chapters": 166,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 22,
+"popular": 20,
+"sample": "The Lazy Prince Becomes a Genius",
+"status": "ok"
+},
+"cg.en.mangamaniacs": {
+"chapters": 61,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 33,
+"popular": 20,
+"sample": "A Man of Virtue",
+"status": "ok"
+},
+"cursed.en.hentai20": {
+"chapters": 336,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 30,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.all.allporncomicsco": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.all.comicsvalley": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.all.grabberzone": {
+"chapters": 90,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 29,
+"popular": 20,
+"sample": "IDW Sonic The Hedgehog (#1-90)",
+"status": "ok"
+},
+"kei.all.mangacrazy": {
+"chapters": 116,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 20,
+"sample": "Summer Vacation (Uncensored)",
+"status": "ok"
+},
+"kei.all.manhwadashraw": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.anyonemanga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.arbxcomix": {
+"cfg": {},
+"chapters": 307,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 58,
+"popular": 20,
+"sample": "صف سري",
+"status": "ok"
+},
+"kei.ar.areamanga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.arhentai": {
+"cfg": {
+"mangaSubString": "title"
+},
+"chapters": 10,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 18,
+"sample": "Mom Swap Pact",
+"status": "partial"
+},
+"kei.ar.detectiveconanar": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.goonscans": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.hijala": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.hizomanga": {
+"cfg": {
+"mangaSubString": "serie"
+},
+"chapters": 81,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 3,
+"popular": 20,
+"sample": "Your Eternal Lies",
+"status": "ok"
+},
+"kei.ar.lavascans": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.mangahub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.mangalek": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Otherworldly Evil Monarch",
+"status": "partial"
+},
+"kei.ar.mangalionz": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Otherworldly Evil Monarch",
+"status": "partial"
+},
+"kei.ar.mangaspark": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Otherworldly Evil Monarch",
+"status": "partial"
+},
+"kei.ar.mangastarz": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Otherworldly Evil Monarch",
+"status": "partial"
+},
+"kei.ar.nijitranslations": {
+"cfg": {},
+"chapters": 82,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 1,
+"popular": 20,
+"sample": "Mage & Demon Queen",
+"status": "ok"
+},
+"kei.ar.paradisebl": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ar.yonabar": {
+"cfg": {
+"mangaSubString": "yaoi"
+},
+"chapters": 113,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 24,
+"popular": 20,
+"sample": "Jinx",
+"status": "ok"
+},
+"kei.cs.evilproduction": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.akazascans": {
+"chapters": 16,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 175,
+"popular": 20,
+"sample": "Shadow Slave",
+"status": "ok"
+},
+"kei.en.allporncomic": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.allporncomicio": {
+"chapters": 25,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 103,
+"popular": 20,
+"sample": "Sinful Lust All Latest chapters",
+"status": "ok"
+},
+"kei.en.anisascans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.apcomics": {
+"chapters": 14,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 175,
+"popular": 20,
+"sample": "Sinful Lust",
+"status": "ok"
+},
+"kei.en.aquamanga": {
+"chapters": 937,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 4,
+"popular": 24,
+"sample": "Magic Emperor",
+"status": "ok"
+},
+"kei.en.arenascans": {
+"chapters": 137,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 20,
+"sample": "How to Get My Husband on My Side",
+"status": "ok"
+},
+"kei.en.artlapsa": {
+"chapters": 5,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "My Sisters Smeared My Name, Yet the Neighboring Grand Duke Dotes on Me",
+"status": "partial"
+},
+"kei.en.asmotoon": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.asterscans": {
+"chapters": 15,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 19,
+"sample": "My husband hid the child",
+"status": "ok"
+},
+"kei.en.athreascans": {
+"chapters": 82,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 11,
+"popular": 35,
+"sample": "Falling",
+"status": "ok"
+},
+"kei.en.auntmanhwa": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.battleinfivesecondsaftermeeting": {
+"chapters": 8,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 1,
+"sample": "Battle in 5 Seconds After Meeting",
+"status": "ok"
+},
+"kei.en.boratscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.brainrotcomics": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.bunmanga": {
+"chapters": 238,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 6,
+"popular": 20,
+"sample": "Seize My Boyfriend",
+"status": "ok"
+},
+"kei.en.cartoonporn": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.cocomic": {
+"chapters": 105,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 20,
+"sample": "The Cheat Batter Takes All",
+"status": "ok"
+},
+"kei.en.comicasura": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.cucumbermanga": {
+"chapters": 95,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 20,
+"sample": "Blossoms of The White Night [Cucumbermanga]",
+"status": "ok"
+},
+"kei.en.dankefurslesen": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 2,
+"popular": 656,
+"sample": "\"When you're crossdressing, what do you do about your underwear?\"",
+"status": "ok"
+},
+"kei.en.deathtollscans": {
+"chapters": 3,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 6,
+"popular": 25,
+"sample": "A Diary of Embellished Patches",
+"status": "partial"
+},
+"kei.en.decadencescans": {
+"chapters": 64,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 50,
+"popular": 20,
+"sample": "Koi to Yobu ni wa Kimochi Warui",
+"status": "ok"
+},
+"kei.en.divascans": {
+"chapters": 44,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 24,
+"sample": "Obedient Pregnancy",
+"status": "ok"
+},
+"kei.en.dragontea": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.drakescans": {
+"chapters": 317,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 24,
+"sample": "Disastrous Necromancer",
+"status": "ok"
+},
+"kei.en.elftoon": {
+"chapters": 137,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 24,
+"sample": "Infinite Evolution From Zero",
+"status": "ok"
+},
+"kei.en.erisscans": {
+"chapters": 46,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 11,
+"popular": 9,
+"sample": "Obedient Pregnancy",
+"status": "partial"
+},
+"kei.en.ero18x": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.erosscans": {
+"chapters": 295,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 20,
+"sample": "Hero Killer",
+"status": "ok"
+},
+"kei.en.evascans": {
+"chapters": 114,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 40,
+"sample": "I’ve Fallen for the Empire’s Greatest Villainess",
+"status": "ok"
+},
+"kei.en.fourporncomic": {
+"chapters": 68,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 102,
+"popular": 24,
+"sample": "Father-In-Law At Home [CrazyDad3D]",
+"status": "ok"
+},
+"kei.en.frierenonline": {
+"chapters": 8,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 1,
+"sample": "Frieren: Beyond Journey’s End",
+"status": "ok"
+},
+"kei.en.gakamangas": {
+"chapters": 4,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 2,
+"popular": 10,
+"sample": "Battle of anime’s strongest",
+"status": "ok"
+},
+"kei.en.galaxydegenscans": {
+"chapters": 44,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 34,
+"popular": 20,
+"sample": "Reincarnated • The Hero Marries the Sage",
+"status": "ok"
+},
+"kei.en.gedecomix": {
+"chapters": 5,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 19,
+"popular": 20,
+"sample": "AI Collab [Redoxa]",
+"status": "ok"
+},
+"kei.en.gingertoon": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.gourmetscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.grimscans": {
+"chapters": 28,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 7,
+"sample": "Turn-Based Wizard",
+"status": "ok"
+},
+"kei.en.guya": {
+"chapters": 35,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 6,
+"sample": "Kaguya Wants To Be Confessed To Official Doujin",
+"status": "ok"
+},
+"kei.en.hachirumi": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 5,
+"popular": 110,
+"sample": "A Boy And His Crossdressing Older Brother",
+"status": "ok"
+},
+"kei.en.hadesscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.hentai1io": {
+"chapters": 118,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 32,
+"popular": 20,
+"sample": "Stop Smoking",
+"status": "ok"
+},
+"kei.en.hentai20lol": {
+"chapters": 118,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 32,
+"popular": 24,
+"sample": "Stop Smoking",
+"status": "ok"
+},
+"kei.en.hentai4free": {
+"chapters": 1,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Milf Massage NTR♥",
+"status": "partial"
+},
+"kei.en.hentaidesi": {
+"chapters": 21,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 30,
+"sample": "Teach Me First! (Uncensored)",
+"status": "ok"
+},
+"kei.en.hentaixcomic": {
+"chapters": 5,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 20,
+"sample": "Boruto Erotic Adventure (Boruto)",
+"status": "ok"
+},
+"kei.en.hentaixdickgirl": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 7,
+"popular": 20,
+"sample": "Anya to Yor (Spy x Family)",
+"status": "ok"
+},
+"kei.en.hentaixyuri": {
+"chapters": 9,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 54,
+"popular": 20,
+"sample": "3P Yuri Ecchi Anthology",
+"status": "ok"
+},
+"kei.en.hm2d": {
+"chapters": 12,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 9,
+"sample": "Ponpharse",
+"status": "ok"
+},
+"kei.en.hunlightcomics": {
+"chapters": 26,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 22,
+"popular": 20,
+"sample": "Reincarnated Fighting Gamer",
+"status": "ok"
+},
+"kei.en.jinmangas": {
+"chapters": 151,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 4,
+"popular": 20,
+"sample": "Someone Stop Her!",
+"status": "ok"
+},
+"kei.en.kaizenscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.kaliscanorg": {
+"chapters": 32,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 15,
+"popular": 20,
+"sample": "JINX [UNCENSORED VERSION R19+]",
+"status": "partial"
+},
+"kei.en.kaynscans": {
+"chapters": 109,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 24,
+"sample": "The Second Eunuch Regains His Manhood",
+"status": "ok"
+},
+"kei.en.keroscans": {
+"chapters": 22,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 26,
+"popular": 24,
+"sample": "Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatete Mita",
+"status": "ok"
+},
+"kei.en.kewnscans": {
+"chapters": 35,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 25,
+"popular": 7,
+"sample": "Snow Mountain Monster Princess - Season 1",
+"status": "ok"
+},
+"kei.en.kissmangain": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.kitsunedawn": {
+"chapters": 5,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 10,
+"sample": "Miyahara-senpai and Fujiwara-kun: Thanks to Fujikuma-kun, I Finally Graduated from Plushies?!",
+"status": "partial"
+},
+"kei.en.ksgroupscans": {
+"chapters": 131,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 20,
+"sample": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
+"status": "ok"
+},
+"kei.en.kunmangaonline": {
+"chapters": 2000,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 9,
+"popular": 12,
+"sample": "Tales of Demons and Gods",
+"status": "partial"
+},
+"kei.en.lagoonscans": {
+"chapters": 47,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 20,
+"sample": "The Regressed Mercenary’s Machinations",
+"status": "ok"
+},
+"kei.en.lgbtics": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.lhtranslation": {
+"chapters": 139,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 20,
+"sample": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+"status": "ok"
+},
+"kei.en.lilymanga": {
+"chapters": 62,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 49,
+"popular": 12,
+"sample": "My Food Seems To Be Very Cute",
+"status": "ok"
+},
+"kei.en.lovesjanescans": {
+"chapters": 21,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 4,
+"popular": 4,
+"sample": "Miyeon",
+"status": "ok"
+},
+"kei.en.luascans": {
+"chapters": 169,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 9,
+"popular": 12,
+"sample": "I Need to Raise My Sister Properly",
+"status": "ok"
+},
+"kei.en.lunatoons": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.madaradex": {
+"chapters": 171,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 41,
+"popular": 20,
+"sample": "Secret Class (Uncensored)",
+"status": "partial"
+},
+"kei.en.madarascans": {
+"chapters": 50,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 24,
+"popular": 30,
+"sample": "I Became a Swordsmanship Instructor at the Academy",
+"status": "ok"
+},
+"kei.en.manga18free": {
+"chapters": 198,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 20,
+"sample": "Stop Smoking",
+"status": "ok"
+},
+"kei.en.manga18x": {
+"chapters": 110,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 107,
+"popular": 20,
+"sample": "What’s wrong with this family?",
+"status": "partial"
+},
+"kei.en.mangabuddy": {
+"chapters": 199,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 4,
+"popular": 24,
+"sample": "Shutline",
+"status": "ok"
+},
+"kei.en.mangadass": {
+"chapters": 336,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 23,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.en.mangadistrict": {
+"chapters": 21,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 30,
+"sample": "Teach Me first! (Uncensored)",
+"status": "ok"
+},
+"kei.en.mangaeclipse": {
+"chapters": 57,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 29,
+"popular": 17,
+"sample": "Great Heaven Sovereign",
+"status": "ok"
+},
+"kei.en.mangaforfreecom": {
+"chapters": 356,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 68,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.en.mangagg": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.mangahe": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.mangaowlio": {
+"chapters": 191,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "Dark fall",
+"status": "ok"
+},
+"kei.en.mangaparktv": {
+"chapters": 68,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 9,
+"popular": 20,
+"sample": "Hello! The Nobleman System Is at Your Service",
+"status": "ok"
+},
+"kei.en.mangareadorg": {
+"chapters": 3864,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 20,
+"sample": "Martial Peak",
+"status": "ok"
+},
+"kei.en.mangasushi": {
+"chapters": 339,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 20,
+"sample": "Lonely Attack on the Different World",
+"status": "ok"
+},
+"kei.en.mangatellers": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.mangatrend": {
+"chapters": 25,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 20,
+"sample": "One Piece English",
+"status": "ok"
+},
+"kei.en.manhuahot": {
+"chapters": 445,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 20,
+"sample": "Deliverance of the Counterattack",
+"status": "ok"
+},
+"kei.en.manhuanext": {
+"chapters": 278,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 50,
+"popular": 20,
+"sample": "The Yellow-Haired Villain in the Female Main Character’s Novel Wants Happiness",
+"status": "ok"
+},
+"kei.en.manhuaplus": {
+"chapters": 1108,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 6,
+"sample": "Soul Land IV",
+"status": "ok"
+},
+"kei.en.manhuaus": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhuazonghe": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhwa18today": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhwa18tx": {
+"chapters": 15,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 29,
+"popular": 24,
+"sample": "What Now, Noona?",
+"status": "ok"
+},
+"kei.en.manhwa68": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhwabuddy": {
+"chapters": 126,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 24,
+"sample": "Reborn as the Enemy Prince",
+"status": "ok"
+},
+"kei.en.manhwacomics": {
+"chapters": 8,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 24,
+"popular": 20,
+"sample": "The BJ Manager Who Boosts His Favorability",
+"status": "partial"
+},
+"kei.en.manhwaddict": {
+"chapters": 38,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 27,
+"popular": 24,
+"sample": "The Newlywed Diary of a Witch and a Dragon",
+"status": "ok"
+},
+"kei.en.manhwaden": {
+"chapters": 50,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 10,
+"sample": "Jinx Season 2",
+"status": "ok"
+},
+"kei.en.manhwagalaxy": {
+"chapters": 38,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 27,
+"popular": 24,
+"sample": "The Newlywed Diary of a Witch and a Dragon",
+"status": "ok"
+},
+"kei.en.manhwahubto": {
+"chapters": 12,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 20,
+"sample": "I Banged All My Classmates After Graduation",
+"status": "ok"
+},
+"kei.en.manhwamanhua": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhwanex": {
+"chapters": 19,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 9,
+"popular": 20,
+"sample": "A Glimpse of the Jianghu",
+"status": "ok"
+},
+"kei.en.manhwaonline": {
+"chapters": 36,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 24,
+"sample": "Room of Guilty Pleasure",
+"status": "ok"
+},
+"kei.en.manhwareads": {
+"chapters": 58,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 18,
+"sample": "Steel Ball Run",
+"status": "ok"
+},
+"kei.en.manhwatoon": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 32,
+"popular": 20,
+"sample": "[ratatatat74] tomboy sister bully netorare [English]",
+"status": "ok"
+},
+"kei.en.manhwatop": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.manhwaus": {
+"chapters": 336,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 24,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.en.meitoon": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.mistscans": {
+"chapters": 26,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 11,
+"popular": 214,
+"sample": "All Heroes Are My Enemies",
+"status": "partial"
+},
+"kei.en.murimscan": {
+"chapters": 4,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 5,
+"sample": "The Lone Necromancer",
+"status": "ok"
+},
+"kei.en.myreadingcomic": {
+"chapters": 21,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 24,
+"sample": "Teach Me First! (Uncensored)",
+"status": "ok"
+},
+"kei.en.novelcrow": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.nyanukafe": {
+"chapters": 24,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 11,
+"popular": 6,
+"sample": "Too Many Losing Heroines!",
+"status": "partial"
+},
+"kei.en.octopusmanga": {
+"chapters": 270,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 20,
+"sample": "Jinx [Octopusmanga]",
+"status": "ok"
+},
+"kei.en.omegascans": {
+"chapters": 156,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 12,
+"sample": "Sex Stopwatch",
+"status": "ok"
+},
+"kei.en.orchisasia": {
+"chapters": 166,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 5,
+"popular": 20,
+"sample": "DEAR. DOOR UNCENSORED version",
+"status": "ok"
+},
+"kei.en.paritehaber": {
+"chapters": 164,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 5,
+"popular": 20,
+"sample": "DEAR. DOOR UNCENSORED version",
+"status": "ok"
+},
+"kei.en.petrotechsociety": {
+"chapters": 11,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "Daehyun Laundry ~I Will Wash Anything~",
+"status": "ok"
+},
+"kei.en.pornhwaz": {
+"chapters": 111,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 20,
+"sample": "Moby Dick",
+"status": "ok"
+},
+"kei.en.rackus": {
+"chapters": 92,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 29,
+"sample": "Winning Shot!",
+"status": "ok"
+},
+"kei.en.ragescans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.ravenscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.readattackontitanshingekinokyojinmanga": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 14,
+"sample": "Shingeki No Kyojin",
+"status": "partial"
+},
+"kei.en.readberserkmanga": {
+"chapters": 405,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 24,
+"popular": 7,
+"sample": "Berserk",
+"status": "ok"
+},
+"kei.en.readblackclovermangaonline": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 4,
+"sample": "Black Clover",
+"status": "partial"
+},
+"kei.en.readchainsawmanmangaonline": {
+"chapters": 232,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 27,
+"popular": 12,
+"sample": "Chainsaw Man",
+"status": "ok"
+},
+"kei.en.readfairytailedenszeromangaonline": {
+"chapters": 294,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 30,
+"popular": 20,
+"sample": "Eden's Zero",
+"status": "ok"
+},
+"kei.en.readjujutsukaisenmangaonline": {
+"chapters": 282,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 21,
+"popular": 8,
+"sample": "Jujutsu Kaisen",
+"status": "ok"
+},
+"kei.en.readkingdommangaonline": {
+"chapters": 934,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 19,
+"popular": 3,
+"sample": "Kingdom",
+"status": "ok"
+},
+"kei.en.readmanga18": {
+"chapters": 150,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 41,
+"popular": 23,
+"sample": "MILF Hunting In Another World Raw",
+"status": "ok"
+},
+"kei.en.readnanatsunotaizai7deadlysinsmangaonline": {
+"chapters": 262,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 11,
+"sample": "Four Horsemen of the Apocalypse",
+"status": "ok"
+},
+"kei.en.readonepiecemangaonline": {
+"chapters": 1213,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 18,
+"sample": "One Piece",
+"status": "ok"
+},
+"kei.en.readonepunchmanmangaonlinetwo": {
+"chapters": 276,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 9,
+"sample": "One Punch Man",
+"status": "ok"
+},
+"kei.en.readsololevelingmangamanhwaonline": {
+"chapters": 77,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 46,
+"popular": 4,
+"sample": "Solo Leveling Manhwa",
+"status": "ok"
+},
+"kei.en.readtokyoghoulretokyoghoulmangaonline": {
+"chapters": 145,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 30,
+"popular": 8,
+"sample": "Tokyo Ghoul",
+"status": "ok"
+},
+"kei.en.ritharscans": {
+"chapters": 1,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 10,
+"sample": "Geemu Chuuban De Shinu Akuyaku Kizoku Ni Tensei Shita Node, Hazure Skill \"tame\" Wo Kushi Shite Saikyou Wo Mezashite Mita",
+"status": "partial"
+},
+"kei.en.rizzcomic": {
+"chapters": 127,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 21,
+"popular": 3,
+"sample": "A Bad Person",
+"status": "ok"
+},
+"kei.en.rokaricomics": {
+"chapters": 46,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 20,
+"sample": "I Want To Be Fooled",
+"status": "ok"
+},
+"kei.en.rosesquadscans": {
+"chapters": 2,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Hanagara Tsumi",
+"status": "partial"
+},
+"kei.en.rubycomics": {
+"chapters": 138,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 20,
+"sample": "Love by Mistake",
+"status": "ok"
+},
+"kei.en.s2manga": {
+"chapters": 234,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 11,
+"popular": 20,
+"sample": "Under the Oak Tree",
+"status": "ok"
+},
+"kei.en.seraphicdeviltry": {
+"chapters": 6,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 38,
+"popular": 20,
+"sample": "Heartless",
+"status": "ok"
+},
+"kei.en.setsuscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.sirenscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.sleepytranslations": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.suryascans": {
+"chapters": 46,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 12,
+"popular": 228,
+"sample": "The Rebel of the Tyrant Noble House – Aster",
+"status": "partial"
+},
+"kei.en.thunderscans": {
+"chapters": 302,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 6,
+"popular": 30,
+"sample": "I Got The Weakest Class, Dragon Tamer!?",
+"status": "ok"
+},
+"kei.en.timelesstoons": {
+"chapters": 27,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 13,
+"popular": 197,
+"sample": "The Baby Sprout Blooming in the Villainous Duke's Family",
+"status": "partial"
+},
+"kei.en.toongod": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.toongodcc": {
+"chapters": 336,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 24,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.en.toonily": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.toonilyme": {
+"chapters": 335,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 21,
+"popular": 24,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.en.toonizy": {
+"chapters": 52,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 43,
+"popular": 20,
+"sample": "My Stepmom",
+"status": "ok"
+},
+"kei.en.topmanhua": {
+"chapters": 30,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 20,
+"sample": "CEO Above, Me Below",
+"status": "ok"
+},
+"kei.en.topmanhuafan": {
+"chapters": 2144,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 9,
+"popular": 12,
+"sample": "Tales of Demons and Gods",
+"status": "partial"
+},
+"kei.en.topmanhuanet": {
+"chapters": 193,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 1,
+"popular": 20,
+"sample": "The Return of the Crazy Demon",
+"status": "partial"
+},
+"kei.en.towerofgodmangaonline": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.tritiniascans": {
+"chapters": 212,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 20,
+"sample": "Back from the Grave",
+"status": "ok"
+},
+"kei.en.valirscans": {
+"chapters": 115,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 49,
+"popular": 24,
+"sample": "Not Your Typical Reincarnation Story",
+"status": "ok"
+},
+"kei.en.violetscans": {
+"chapters": 258,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 4,
+"popular": 30,
+"sample": "I’ll Be The Matriarch In This Life",
+"status": "ok"
+},
+"kei.en.wearehunger": {
+"chapters": 19,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 20,
+"sample": "You Did It, Didn’t You!?",
+"status": "ok"
+},
+"kei.en.webtoonscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.webtoonxyz": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.wildtoon": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.witchscans": {
+"chapters": 401,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 6,
+"popular": 24,
+"sample": "Ultimate Son-in-Law",
+"status": "ok"
+},
+"kei.en.writerscans": {
+"chapters": 36,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 9,
+"popular": 27,
+"sample": "The Glutton",
+"status": "partial"
+},
+"kei.en.wuxiaworld": {
+"chapters": 20,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 100,
+"popular": 4,
+"sample": "The Boss’s Shotgun Wedding",
+"status": "ok"
+},
+"kei.en.yakshacomics": {
+"chapters": 139,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 6,
+"popular": 20,
+"sample": "Infinite Evolution Starting From Zero",
+"status": "ok"
+},
+"kei.en.yaoihub": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.yaoiscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.yaoiscanme": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.en.zazamanga": {
+"chapters": 2144,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 9,
+"popular": 24,
+"sample": "Tales of Demons and Gods on ZazaManga",
+"status": "partial"
+},
+"kei.en.zinmanga": {
+"chapters": 661,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 18,
+"popular": 20,
+"sample": "CEO Above, Me Below",
+"status": "partial"
+},
+"kei.en.zinmanganet": {
+"chapters": 2000,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 9,
+"popular": 12,
+"sample": "Tales of Demons and Gods",
+"status": "partial"
+},
+"kei.es.apollcomics": {
+"chapters": 50,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 29,
+"popular": 20,
+"sample": "Dos por una",
+"status": "partial"
+},
+"kei.es.asialotus": {
+"chapters": 31,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 20,
+"sample": "Lluvia de Verano",
+"status": "ok"
+},
+"kei.es.barmanga": {
+"chapters": 130,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 25,
+"popular": 20,
+"sample": "Cállate, malvado dragón, ya no quiero criar hijos contigo.",
+"status": "ok"
+},
+"kei.es.begatranslation": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.bloomscans": {
+"chapters": 136,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 4,
+"popular": 50,
+"sample": "Campos Marchitos (Novela)",
+"status": "partial"
+},
+"kei.es.bokugentranslation": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.bymichiscan": {
+"chapters": 9,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 66,
+"popular": 20,
+"sample": "Hattori-sensei no quiere tener novia",
+"status": "ok"
+},
+"kei.es.cerberusseries": {
+"chapters": 234,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 28,
+"popular": 20,
+"sample": "GACHA INFINITA",
+"status": "ok"
+},
+"kei.es.darkroomfansub": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 36,
+"popular": 20,
+"sample": "Smoky Nectar Renew",
+"status": "ok"
+},
+"kei.es.datgarscanlation": {
+"chapters": 60,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 19,
+"popular": 20,
+"sample": "Tsumi to Batsu no Spica",
+"status": "ok"
+},
+"kei.es.doujinshell": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 12,
+"sample": "ESCUELA EN CASA 1",
+"status": "ok"
+},
+"kei.es.esmi2manga": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.hadesnofansub": {
+"chapters": 528,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 20,
+"sample": "El Antiguo Soberano",
+"status": "ok"
+},
+"kei.es.houseofotakus": {
+"chapters": 165,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 20,
+"sample": "Soy el único con una desafortunada habilidad en otro mundo que Invoca a la Rebelión ~ Hasta que la habilidad más débil [Absorción] se lo trague todo ~",
+"status": "ok"
+},
+"kei.es.infrafandub": {
+"chapters": 700,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 18,
+"sample": "Combat Continent IV",
+"status": "ok"
+},
+"kei.es.inmortalscan": {
+"chapters": 57,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "La admisión es una pérdida de tiempo",
+"status": "ok"
+},
+"kei.es.inventariooculto": {
+"chapters": 29,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 23,
+"popular": 20,
+"sample": "Jujutsu Kaisen Módulo",
+"status": "ok"
+},
+"kei.es.kazokuden": {
+"chapters": 68,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 15,
+"sample": "Un harem en un apocalipsis zombie",
+"status": "ok"
+},
+"kei.es.leermanhwas": {
+"chapters": 17,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 24,
+"sample": "Telepathic Aristocrat ~Villainous Young Noble in a World with a 1:99 Male-to-Female Ratio~",
+"status": "ok"
+},
+"kei.es.lolivault": {
+"chapters": 11,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 22,
+"popular": 25,
+"sample": "A mi joven esposa y yo",
+"status": "ok"
+},
+"kei.es.mangaromance": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.mangasnosekai": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.mangatv": {
+"chapters": 1,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 25,
+"sample": "Mairimashita Senpai",
+"status": "partial"
+},
+"kei.es.manhuaonline": {
+"chapters": 1181,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "El Heredero del Dragón Ancestral",
+"status": "partial"
+},
+"kei.es.manhwalatino": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.manhwaonline": {
+"chapters": 117,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 1,
+"popular": 20,
+"sample": "Jinx",
+"status": "partial"
+},
+"kei.es.marmota": {
+"chapters": 26,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 22,
+"popular": 20,
+"sample": "Absolute Batman (2024)",
+"status": "ok"
+},
+"kei.es.menudofansub": {
+"chapters": 50,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 7,
+"popular": 25,
+"sample": "A channel",
+"status": "partial"
+},
+"kei.es.mhscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.monopolyscan": {
+"chapters": 130,
+"checked": "2026-11-02",
+"image": "avif",
+"pages": 9,
+"popular": 20,
+"sample": "Todo comienza con un balance de mil billones en el Inframundo",
+"status": "partial"
+},
+"kei.es.mundomanhwa": {
+"chapters": 141,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 81,
+"popular": 20,
+"sample": "Mi tia",
+"status": "partial"
+},
+"kei.es.nekoscans": {
+"chapters": 75,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 20,
+"popular": 10,
+"sample": "Cruzando los muros del amor contigo",
+"status": "ok"
+},
+"kei.es.pzykosis666hfansub": {
+"chapters": 9,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 31,
+"popular": 25,
+"sample": "El Secreto de la Hermosa Editora en Jefe",
+"status": "ok"
+},
+"kei.es.ragnarokscanlation": {
+"chapters": 53,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Blue Lock",
+"status": "partial"
+},
+"kei.es.rakuentranslations": {
+"chapters": 6,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 22,
+"popular": 20,
+"sample": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
+"status": "ok"
+},
+"kei.es.richtoscan": {
+"chapters": 105,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 20,
+"sample": "EL SUEÑO DE WOO HOO-YOUNG ROBANDO TALENTOS",
+"status": "ok"
+},
+"kei.es.seraphicdeviltry": {
+"chapters": 11,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 37,
+"popular": 20,
+"sample": "In These Words",
+"status": "ok"
+},
+"kei.es.taurusfansub": {
+"chapters": 350,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 8,
+"popular": 20,
+"sample": "Después de dejar de actuar como un perro, me convertí en un Magnate Celestial Urbano",
+"status": "ok"
+},
+"kei.es.tmomanhwa": {
+"chapters": 67,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 13,
+"popular": 24,
+"sample": "Conviviendo con una fantasma",
+"status": "ok"
+},
+"kei.es.toones": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.topcomicporno": {
+"chapters": 171,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 41,
+"popular": 20,
+"sample": "Clase Secreta Sin Censura",
+"status": "ok"
+},
+"kei.es.topcomicpornonet": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Perdona pero es mi Habitación",
+"status": "partial"
+},
+"kei.es.uchuujinprojects": {
+"chapters": 228,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 27,
+"popular": 20,
+"sample": "La Elegante Flor Florece con Dignidad",
+"status": "ok"
+},
+"kei.es.undertranslations": {
+"chapters": 12,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 20,
+"sample": "El Duque Villano Condenado por su Hija, la ‘Dama de Hielo’",
+"status": "ok"
+},
+"kei.es.vermanhwas": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.es.yurionline": {
+"chapters": 24,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 25,
+"popular": 20,
+"sample": "Ame to Muchi",
+"status": "ok"
+},
+"kei.fr.bananascan": {
+"chapters": 79,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 11,
+"popular": 20,
+"sample": "Law of reincarnation",
+"status": "ok"
+},
+"kei.fr.bluesolo": {
+"chapters": 74,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 9,
+"popular": 97,
+"sample": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+"status": "ok"
+},
+"kei.fr.fmteam": {
+"chapters": 86,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 45,
+"popular": 20,
+"sample": "The Fable : The Second contact",
+"status": "ok"
+},
+"kei.fr.hentaiscantrad": {
+"chapters": 319,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 29,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.fr.hentaizone": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 20,
+"sample": "Stepmother’s Friends",
+"status": "partial"
+},
+"kei.fr.histoiredhentai": {
+"chapters": 147,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 36,
+"popular": 12,
+"sample": "Stepmother’s Friends",
+"status": "ok"
+},
+"kei.fr.lelmanga": {
+"chapters": 192,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 20,
+"sample": "One Piece",
+"status": "ok"
+},
+"kei.fr.mabrute": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.mangacorporation": {
+"chapters": 96,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 23,
+"popular": 21,
+"sample": "Mayonaka Heart Tune",
+"status": "ok"
+},
+"kei.fr.mangahubfr": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.mangascantrad": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.pantheonscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 12,
+"sample": "Solo Leveling",
+"status": "partial"
+},
+"kei.fr.sushiscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.sushiscanfr": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.toonfr": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.fr.yaoiscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.astralscans": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 0,
+"popular": 30,
+"sample": "While You Were Letting Your Guard Down",
+"status": "partial"
+},
+"kei.id.dojingnet": {
+"cfg": {},
+"chapters": 1,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 46,
+"popular": 12,
+"sample": "Lustful Wife Widia",
+"status": "ok"
+},
+"kei.id.izanamiscans": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 0,
+"popular": 20,
+"sample": "It All Starts With Trillions Of Nether Currency",
+"status": "partial"
+},
+"kei.id.kaguya": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.kanzenin": {
+"cfg": {},
+"chapters": 151,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 14,
+"popular": 27,
+"sample": "The Pleasure Shop",
+"status": "ok"
+},
+"kei.id.klikmanga": {
+"cfg": {
+"mangaSubString": "daftar-komik"
+},
+"chapters": 237,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 47,
+"popular": 20,
+"sample": "Kimetsu no Yaiba",
+"status": "ok"
+},
+"kei.id.kombatch": {
+"cfg": {},
+"chapters": 321,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 8,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.id.komikav": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.komikdewasa": {
+"cfg": {
+"mangaUrlDirectory": "/komik"
+},
+"chapters": 107,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 16,
+"popular": 20,
+"sample": "Kebugaran Tanpa Sensor",
+"status": "ok"
+},
+"kei.id.komikdewasaart": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.komikindo": {
+"cfg": {},
+"chapters": 328,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 51,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.id.komikmu": {
+"cfg": {
+"mangaUrlDirectory": "/komik"
+},
+"chapters": 12,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 10,
+"popular": 20,
+"sample": "Komikus Fasik",
+"status": "ok"
+},
+"kei.id.komikstation": {
+"cfg": {},
+"chapters": 988,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 20,
+"popular": 30,
+"sample": "Tales of Demons and Gods",
+"status": "ok"
+},
+"kei.id.komiktap": {
+"cfg": {},
+"chapters": 321,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 8,
+"popular": 25,
+"sample": "Kelas Rahasia",
+"status": "ok"
+},
+"kei.id.kumapoi": {
+"cfg": {},
+"chapters": 321,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 8,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.id.kuromanga": {
+"cfg": {},
+"chapters": 69,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 16,
+"popular": 20,
+"sample": "A Dangerous Deal and the Girl Next Door",
+"status": "ok"
+},
+"kei.id.lianscans": {
+"cfg": {},
+"chapters": 67,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 24,
+"popular": 40,
+"sample": "Tada de wa Dakaremasen",
+"status": "ok"
+},
+"kei.id.luvyaa": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.mangacan": {
+"cfg": {
+"mangaUrlDirectory": ""
+},
+"chapters": 29,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 0,
+"popular": 51,
+"sample": "One Piece Mangacan",
+"status": "partial"
+},
+"kei.id.mangasusu": {
+"cfg": {
+"mangaUrlDirectory": "/komik"
+},
+"chapters": 321,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 8,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.id.manhwalandmom": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.id.manhwalistid": {
+"cfg": {},
+"chapters": 652,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 30,
+"popular": 30,
+"sample": "Lookism",
+"status": "ok"
+},
+"kei.id.manhwalistorg": {
+"cfg": {},
+"chapters": 107,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 93,
+"popular": 30,
+"sample": "The Crow’s Prince",
+"status": "ok"
+},
+"kei.id.mihentai": {
+"cfg": {},
+"chapters": 3,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 43,
+"popular": 30,
+"sample": "Manbiki Mama to Tencho no Musuko",
+"status": "ok"
+},
+"kei.id.ngomik": {
+"cfg": {},
+"chapters": 935,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 11,
+"popular": 22,
+"sample": "Magic Emperor",
+"status": "ok"
+},
+"kei.id.noromax": {
+"cfg": {},
+"chapters": 390,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 16,
+"popular": 20,
+"sample": "All Hail the Sect Leader Bahasa Indonesia",
+"status": "ok"
+},
+"kei.id.otascans": {
+"cfg": {
+"mangaSubString": "series"
+},
+"chapters": 10,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "The Yandere Sister Just Wants Me to Bully Her",
+"status": "partial"
+},
+"kei.id.rosyscans": {
+"cfg": {},
+"chapters": 101,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 3,
+"popular": 30,
+"sample": "Accidental Love",
+"status": "ok"
+},
+"kei.id.sasangeyou": {
+"cfg": {},
+"chapters": 10,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 23,
+"popular": 20,
+"sample": "Saimin Seishidou (Original) Bahasa Indonesia",
+"status": "ok"
+},
+"kei.id.sektedoujin": {
+"cfg": {},
+"chapters": 321,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 8,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.id.siimanga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.animeshinigami": {
+"chapters": 318,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 11,
+"sample": "Nano Machine",
+"status": "ok"
+},
+"kei.it.ddtteam": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.gto": {
+"chapters": 72,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 27,
+"popular": 83,
+"sample": "GTO Paradise Lost",
+"status": "ok"
+},
+"kei.it.hastateam": {
+"chapters": 0,
+"checked": "2026-11-02",
+"cloudflare": true,
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.juinjutsuteamreader": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.lupiteam": {
+"chapters": 73,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 18,
+"popular": 6,
+"sample": "One Piece",
+"status": "ok"
+},
+"kei.it.nifteam": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.phoenixscans": {
+"chapters": 172,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 29,
+"popular": 67,
+"sample": "Oshi no Ko",
+"status": "ok"
+},
+"kei.it.shinobiscans": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.it.tuttoanimemanga": {
+"chapters": 499,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 16,
+"popular": 118,
+"sample": "One Piece",
+"status": "ok"
+},
+"kei.it.walpurgisscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.ja.kmansin09": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.acervohentai": {
+"chapters": 131,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 42,
+"popular": 20,
+"sample": "Minha Nova Família Me Trata Muito Bem",
+"status": "partial"
+},
+"kei.pt.amuy": {
+"chapters": 107,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 9,
+"popular": 9,
+"sample": "Yakuza Apaixonado",
+"status": "ok"
+},
+"kei.pt.apenasumafa": {
+"chapters": 31,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 12,
+"popular": 11,
+"sample": "Nós, Introvertidos",
+"status": "ok"
+},
+"kei.pt.arthurscan": {
+"chapters": 296,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 15,
+"popular": 20,
+"sample": "I Randomly Have a New Career Every Week",
+"status": "ok"
+},
+"kei.pt.borutoexplorer": {
+"chapters": 80,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 42,
+"popular": 12,
+"sample": "Boruto: Naruto Next Generations",
+"status": "ok"
+},
+"kei.pt.cafecomyaoi": {
+"chapters": 80,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 49,
+"popular": 20,
+"sample": "Colheita do Amor",
+"status": "ok"
+},
+"kei.pt.covenscan": {
+"chapters": 19,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 7,
+"popular": 20,
+"sample": "Rebirth as the Villainous Duke",
+"status": "ok"
+},
+"kei.pt.euphoriascan": {
+"chapters": 52,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "A Sedução da Serpente Sagrada",
+"status": "ok"
+},
+"kei.pt.fleurblanche": {
+"chapters": 109,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 6,
+"popular": 20,
+"sample": "Jinx",
+"status": "ok"
+},
+"kei.pt.flowermanga": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Lágrimas Sobre Flores Murchas",
+"status": "partial"
+},
+"kei.pt.galaxscanlator": {
+"chapters": 63,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 11,
+"popular": 14,
+"sample": "Savage Hero",
+"status": "ok"
+},
+"kei.pt.hanmokkuscan": {
+"chapters": 89,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 10,
+"sample": "Cultivator From the Future",
+"status": "ok"
+},
+"kei.pt.hentaiteca": {
+"chapters": 6,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 73,
+"popular": 20,
+"sample": "Minha amiga Gyaru me Deixa Usar a Buceta Dela",
+"status": "ok"
+},
+"kei.pt.hotcabaretscan": {
+"chapters": 34,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 35,
+"popular": 20,
+"sample": "Just Give Me a Child",
+"status": "ok"
+},
+"kei.pt.huntersscans": {
+"chapters": 5,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 21,
+"popular": 20,
+"sample": "Evolução dos Animais de Estimação",
+"status": "ok"
+},
+"kei.pt.inkapk": {
+"chapters": 137,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 3,
+"popular": 20,
+"sample": "Supervisor Access",
+"status": "ok"
+},
+"kei.pt.kamisamaexplorer": {
+"chapters": 106,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 49,
+"popular": 20,
+"sample": "Dragon Ball Super",
+"status": "ok"
+},
+"kei.pt.ler999": {
+"chapters": 2,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 37,
+"popular": 7,
+"sample": "Albanara of the Gods",
+"status": "ok"
+},
+"kei.pt.littletyrant": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.mangalivreto": {
+"chapters": 222,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "The Greatest Estate Developer – O Melhor Engenheiro do Mundo",
+"status": "ok"
+},
+"kei.pt.minitwoscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.montetai": {
+"chapters": 318,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 7,
+"popular": 16,
+"sample": "Necromante: Rei dos Mortos",
+"status": "ok"
+},
+"kei.pt.mrtenzus": {
+"chapters": 4,
+"checked": "2026-11-02",
+"image": "bad",
+"pages": 8,
+"popular": 20,
+"sample": "Meu Namorado Perfeito",
+"status": "partial"
+},
+"kei.pt.nebulosascan": {
+"chapters": 68,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 20,
+"sample": "A reencarnação da gansa dourada do alfa dominante",
+"status": "ok"
+},
+"kei.pt.ninjascan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.nocturnesummer": {
+"chapters": 195,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 1,
+"popular": 20,
+"sample": "Casei com meu sogro?!",
+"status": "ok"
+},
+"kei.pt.noindexscan": {
+"chapters": 122,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 23,
+"popular": 12,
+"sample": "That’s Not What It Does",
+"status": "ok"
+},
+"kei.pt.pinkrosa": {
+"chapters": 22,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 36,
+"popular": 20,
+"sample": "Kuse Tsuyo Kanojo wa Toko ni Izanau",
+"status": "ok"
+},
+"kei.pt.pinkseaunicorn": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 20,
+"sample": "Perdido nas Nuvens",
+"status": "partial"
+},
+"kei.pt.portalyaoi": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.starlightscan": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.tankouhentai": {
+"chapters": 6,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 25,
+"popular": 20,
+"sample": "Rankou de Wakarou!",
+"status": "ok"
+},
+"kei.pt.temakimangas": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.tiamanhwa": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.pt.traducoesdolipe": {
+"chapters": 1,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 14,
+"popular": 20,
+"sample": "Yamisu",
+"status": "ok"
+},
+"kei.pt.tsundokutraducoes": {
+"chapters": 364,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 28,
+"popular": 50,
+"sample": "Mushoku Tensei: Reencarnação do Desempregado",
+"status": "ok"
+},
+"kei.pt.yaoifanclub": {
+"chapters": 114,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 17,
+"popular": 18,
+"sample": "Parceiros Secretos",
+"status": "ok"
+},
+"kei.pt.yuriverso": {
+"chapters": 131,
+"checked": "2026-11-02",
+"image": "ok",
+"pages": 10,
+"popular": 12,
+"sample": "Tamen de Gushi (Tan Jiu)",
+"status": "ok"
+},
+"kei.th.cat300": {
+"cfg": {},
+"chapters": 162,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 116,
+"popular": 20,
+"sample": "สงครามแห่งกามราคะ Silent War",
+"status": "ok"
+},
+"kei.th.doodmanga": {
+"cfg": {},
+"chapters": 282,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 10,
+"sample": "Master Cultivation Return – โคตรเซียนเกรียนกลับมาเกิดใหม่",
+"status": "partial"
+},
+"kei.th.doujin69": {
+"cfg": {
+"mangaUrlDirectory": "/doujin"
+},
+"chapters": 319,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 40,
+"popular": 40,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.th.doujinlc": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.th.doujinmoon": {
+"cfg": {},
+"chapters": 28,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 9,
+"popular": 20,
+"sample": "เกิดใหม่ก็ได้สกิลโกงไว้เย็ดสาวในต่างโลก [Seisui BAR] Isekai Tensei Shite Nouryoku de H na Koto suru Hanashi",
+"status": "ok"
+},
+"kei.th.doujinxh": {
+"cfg": {
+"mangaSubString": "doujin"
+},
+"chapters": 320,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 60,
+"popular": 20,
+"sample": "Secret Class",
+"status": "ok"
+},
+"kei.th.doujinza": {
+"cfg": {
+"mangaSubString": "doujin"
+},
+"chapters": 160,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 15,
+"popular": 20,
+"sample": "Sister Neighbors พี่สาวข้างบ้าน",
+"status": "ok"
+},
+"kei.th.ecchidoujin": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.th.finmanga": {
+"cfg": {},
+"chapters": 18,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 53,
+"popular": 20,
+"sample": "100 Days of Marriage 100 วันแห่งการแต่งงานอันอบอุ่น",
+"status": "ok"
+},
+"kei.th.flashmanga": {
+"cfg": {},
+"chapters": 112,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 26,
+"popular": 20,
+"sample": "Genius Archer’s Streaming",
+"status": "ok"
+},
+"kei.th.goddoujin": {
+"cfg": {},
+"chapters": 153,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 41,
+"popular": 10,
+"sample": "MILF Hunting In Another World",
+"status": "ok"
+},
+"kei.th.godhman": {
+"cfg": {},
+"chapters": 216,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 6,
+"popular": 30,
+"sample": "Theater Society (Circles)",
+"status": "ok"
+},
+"kei.th.gomanga": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 0,
+"popular": 20,
+"sample": "Nano Machine นาโนมาชิน",
+"status": "partial"
+},
+"kei.th.inumanga": {
+"cfg": {},
+"chapters": 215,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 41,
+"popular": 40,
+"sample": "In This Life, I Will Be the Lord เกิดใหม่ชาตินี้ฉันจะเป็นเจ้าตระกูล",
+"status": "ok"
+},
+"kei.th.makimaaaaa": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.th.mangaisekaithai": {
+"cfg": {},
+"chapters": 115,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 10,
+"sample": "Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+"status": "partial"
+},
+"kei.th.mangakimi": {
+"cfg": {},
+"chapters": 151,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 62,
+"popular": 40,
+"sample": "I Became the Male Lead’s Adopted Daughter ฉันกลายเป็นลูกสาวบุญธรรมของท่านดยุก",
+"status": "ok"
+},
+"kei.th.mangalc": {
+"cfg": {},
+"chapters": 229,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 12,
+"sample": "Blue Lock",
+"status": "partial"
+},
+"kei.th.manganeko": {
+"cfg": {},
+"chapters": 822,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 19,
+"popular": 20,
+"sample": "Kingdom  สงครามผงาดบัลลังก์จิ๋นซี",
+"status": "ok"
+},
+"kei.th.mangastep": {
+"cfg": {},
+"chapters": 201,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 154,
+"popular": 30,
+"sample": "Solo Leveling",
+"status": "ok"
+},
+"kei.th.manhuabug": {
+"cfg": {},
+"chapters": 168,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 10,
+"sample": "Necromancer King of The Scourge – ราชันนักอัญเชิญวิญญาณ",
+"status": "partial"
+},
+"kei.th.manhuathai": {
+"cfg": {},
+"chapters": 359,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 10,
+"sample": "Master Cultivation Return – โคตรเซียนเกรียนกลับมาเกิดใหม่",
+"status": "partial"
+},
+"kei.th.manhwabreakup": {
+"cfg": {},
+"chapters": 645,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 10,
+"sample": "Player Who Returned 10,000 Years Later",
+"status": "partial"
+},
+"kei.th.ntrmanga": {
+"cfg": {},
+"chapters": 262,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 37,
+"popular": 30,
+"sample": "A Wonderful New World",
+"status": "ok"
+},
+"kei.th.one08read": {
+"cfg": {},
+"chapters": 199,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 33,
+"popular": 20,
+"sample": "Perfect Half",
+"status": "ok"
+},
+"kei.th.one668manga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.th.reapertrans": {
+"cfg": {},
+"chapters": 158,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 11,
+"popular": 30,
+"sample": "Revenge of the Iron-Blooded Sword Hound",
+"status": "ok"
+},
+"kei.th.singmanga": {
+"cfg": {},
+"chapters": 157,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 25,
+"popular": 20,
+"sample": "Regressor of the Fallen family",
+"status": "ok"
+},
+"kei.th.slowmanga": {
+"cfg": {},
+"chapters": 94,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 12,
+"popular": 30,
+"sample": "I Took over The Academy With a Single Sashimi Knife",
+"status": "ok"
+},
+"kei.th.sodsaime": {
+"cfg": {},
+"chapters": 3859,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 50,
+"popular": 40,
+"sample": "Martial Peak เทพยุทธ์เหนือโลก",
+"status": "ok"
+},
+"kei.th.speedmanga": {
+"cfg": {},
+"chapters": 512,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 41,
+"popular": 20,
+"sample": "The Eternal Supreme",
+"status": "ok"
+},
+"kei.th.tanukimanga": {
+"cfg": {},
+"chapters": 922,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 60,
+"popular": 40,
+"sample": "Magic Emperor",
+"status": "ok"
+},
+"kei.th.thaimanga": {
+"cfg": {},
+"chapters": 149,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 25,
+"popular": 40,
+"sample": "Medical Return",
+"status": "ok"
+},
+"kei.th.toomtammanga": {
+"cfg": {},
+"chapters": 194,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 66,
+"popular": 30,
+"sample": "The World After the end | โลกหลังการล่มสลาย",
+"status": "ok"
+},
+"kei.th.toonhunter": {
+"cfg": {},
+"chapters": 151,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 5,
+"popular": 30,
+"sample": "My Landlady Noona",
+"status": "ok"
+},
+"kei.tr.amangaplanet": {
+"cfg": {},
+"chapters": 101,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 16,
+"popular": 18,
+"sample": "Şeytani Çağ",
+"status": "ok"
+},
+"kei.tr.anikiga": {
+"cfg": {},
+"chapters": 53,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 10,
+"popular": 14,
+"sample": "My Classmate Tanaka-san Is Super Scary",
+"status": "ok"
+},
+"kei.tr.arcurafansub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.diamondfansub": {
+"cfg": {
+"mangaSubString": "seri"
+},
+"chapters": 178,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 1,
+"popular": 20,
+"sample": "Patron Kurt ve Küçük Patates",
+"status": "ok"
+},
+"kei.tr.gafeland": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.gaiatoon": {
+"cfg": {},
+"chapters": 109,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 32,
+"popular": 20,
+"sample": "Ters Harem Oyununa Düştüm!",
+"status": "ok"
+},
+"kei.tr.ghosthentai": {
+"cfg": {},
+"chapters": 50,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 13,
+"popular": 20,
+"sample": "The Kid Is Obsessed With Me",
+"status": "ok"
+},
+"kei.tr.hayalistic": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.koreliscans": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.kuroimanga": {
+"cfg": {},
+"chapters": 49,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Kod Adı Anastasia",
+"status": "partial"
+},
+"kei.tr.laviniafansub": {
+"cfg": {},
+"chapters": 110,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Placebo: Let’s Play",
+"status": "partial"
+},
+"kei.tr.lunascans": {
+"cfg": {},
+"chapters": 104,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "No Arguing With Mr. Mo",
+"status": "partial"
+},
+"kei.tr.mangakusu": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.mangatilkisi": {
+"cfg": {},
+"chapters": 252,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 2,
+"popular": 20,
+"sample": "Murim Dünyasına Giriş",
+"status": "ok"
+},
+"kei.tr.mangawow": {
+"cfg": {},
+"chapters": 0,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Görünüşçülük",
+"status": "partial"
+},
+"kei.tr.milasub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.mindafansub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.moondaisyscans": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.nirvanamanga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.niverafansub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.opiatoon": {
+"cfg": {},
+"chapters": 167,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Painter of the Night",
+"status": "partial"
+},
+"kei.tr.patimanga": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.raindropfansub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.ruyamanga": {
+"cfg": {},
+"chapters": 193,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 17,
+"popular": 20,
+"sample": "Solo Leveling",
+"status": "ok"
+},
+"kei.tr.sereinscan": {
+"cfg": {},
+"chapters": 216,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 11,
+"popular": 20,
+"sample": "Caninin Tek Sonu Ölüm",
+"status": "ok"
+},
+"kei.tr.shijiescans": {
+"cfg": {
+"mangaUrlDirectory": "/seri"
+},
+"chapters": 194,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 13,
+"popular": 20,
+"sample": "Nano Machine",
+"status": "ok"
+},
+"kei.tr.strayfansub": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.summertoon": {
+"cfg": {},
+"chapters": 33,
+"checked": "2026-10-31",
+"engine": "MangaThemesia",
+"pages": 0,
+"popular": 30,
+"sample": "Tears on a Withered Flower",
+"status": "partial"
+},
+"kei.tr.tarotscans": {
+"cfg": {},
+"chapters": 515,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 9,
+"popular": 20,
+"sample": "I’m Actually a Cultivation Bigshot",
+"status": "ok"
+},
+"kei.tr.tonizutoon": {
+"cfg": {},
+"chapters": 16,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 11,
+"popular": 11,
+"sample": "Kayıp Hareket",
+"status": "ok"
+},
+"kei.tr.tortugaceviri": {
+"cfg": {},
+"chapters": 403,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 24,
+"popular": 20,
+"sample": "Berserk",
+"status": "ok"
+},
+"kei.tr.turkcemangaoku": {
+"cfg": {},
+"chapters": 305,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 20,
+"popular": 20,
+"sample": "Blue Lock Manga",
+"status": "ok"
+},
+"kei.tr.webtoonhatti": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.webtoonia": {
+"cfg": {},
+"chapters": 20,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 36,
+"popular": 20,
+"sample": "Aşk Bağımlısı",
+"status": "ok"
+},
+"kei.tr.yaoiflix": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.yaoimangaoku": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.tr.zenithscans": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.uk.mangarama": {
+"cfg": {},
+"chapters": 52,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 0,
+"popular": 20,
+"sample": "Тільки я можу воскресати",
+"status": "partial"
+},
+"kei.vi.jellycomics": {
+"chapters": 0,
+"checked": "2026-10-31",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"kei.vi.roadsteam": {
+"cfg": {},
+"chapters": 11,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 31,
+"popular": 18,
+"sample": "KHÚC NGUYỆN CẦU – BINARI",
+"status": "ok"
+},
+"kei.vi.ruahapchanhday": {
+"cfg": {},
+"chapters": 6,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 22,
+"popular": 20,
+"sample": "Ướt Át Đến Từng Hơi Thở~~",
+"status": "ok"
+},
+"kei.vi.truyentranhdammy": {
+"cfg": {},
+"chapters": 431,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 42,
+"popular": 20,
+"sample": "NGHỊCH TẬP CHI HẢO DỰNG NHÂN SINH",
+"status": "ok"
+},
+"kei.vi.truyentuoitho": {
+"cfg": {},
+"chapters": 41,
+"checked": "2026-10-31",
+"engine": "Madara",
+"pages": 1,
+"popular": 9,
+"sample": "Nhóc Miko",
+"status": "ok"
+},
+"otakio.aralosbd": {
+"chapters": 32,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 17,
+"popular": 24,
+"sample": "GhostBlade",
+"status": "ok"
+},
+"otakio.asurascans": {
+"chapters": 347,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 21,
+"popular": 20,
+"sample": "Overgeared",
+"status": "ok"
+},
+"otakio.comicskingdom": {
+"chapters": 1,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 3,
+"popular": 20,
+"sample": "Sunny with a Chance of Heat",
+"status": "ok"
+},
+"otakio.flamecomics": {
+"chapters": 312,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 17,
+"popular": 154,
+"sample": "Omniscient Reader's Viewpoint",
+"status": "ok"
+},
+"otakio.hqnow": {
+"chapters": 147,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 55,
+"popular": 300,
+"sample": "Invencível (2003)",
+"status": "ok"
+},
+"otakio.leercapitulo": {
+"chapters": 30,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 27,
+"popular": 24,
+"sample": "La magia que presté se cobra forzosamente mediante [pagos a plazos]",
+"status": "ok"
+},
+"otakio.mangadex": {
+"chapters": 95,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 35,
+"popular": 24,
+"sample": "Solo Leveling",
+"status": "ok"
+},
+"otakio.mangaflix": {
+"chapters": 3863,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 6,
+"popular": 30,
+"sample": "Martial Peak",
+"status": "ok"
+},
+"otakio.mangakakalot": {
+"chapters": 3877,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 96,
+"popular": 24,
+"sample": "Martial Peak",
+"status": "ok"
+},
+"otakio.mangapill": {
+"chapters": 405,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 24,
+"popular": 10,
+"sample": "Berserk",
+"status": "ok"
+},
+"otakio.mangaworld": {
+"chapters": 1199,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 16,
+"popular": 16,
+"sample": "One Piece",
+"status": "ok"
+},
+"otakio.mangotoons": {
+"chapters": 57,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 15,
+"popular": 24,
+"sample": "O Filho Abandonado Mais Poderoso",
+"status": "ok"
+},
+"otakio.olympus": {
+"chapters": 191,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 25,
+"popular": 15,
+"sample": "La venganza del sabueso de sangre de hierro",
+"status": "ok"
+},
+"otakio.scantradunion": {
+"chapters": 98,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 27,
+"popular": 210,
+"sample": "Aiki",
+"status": "ok"
+},
+"otakio.toonbr": {
+"chapters": 45,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 41,
+"popular": 60,
+"sample": "Escola de Guerreiros – Departamento de Ataque às Dungeons",
+"status": "ok"
+},
+"otakio.webtoons": {
+"chapters": 10,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 97,
+"popular": 13,
+"sample": "Die neuvermählte Kaiserin",
+"status": "ok"
+},
+"otakio.weebcentral": {
+"chapters": 1197,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 15,
+"popular": 32,
+"sample": "One Piece",
+"status": "ok"
+},
+"otakio.zeurelscan": {
+"chapters": 140,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 15,
+"popular": 23,
+"sample": "Administrator - Kang Jin Lee",
+"status": "ok"
+},
+"otakio.zonatmo": {
+"chapters": 430,
+"checked": "2026-11-03",
+"image": "ok",
+"pages": 18,
+"popular": 50,
+"sample": "Black Clover",
+"status": "ok"
+},
+"yzn.es.dragontranslationorg": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+},
+"yzn.pt.xxxyaoi": {
+"chapters": 0,
+"checked": "2026-11-02",
+"pages": 0,
+"popular": 0,
+"status": "dead"
+}
+}

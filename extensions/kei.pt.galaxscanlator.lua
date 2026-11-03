@@ -1,0 +1,20 @@
+-- Otakio extension (generated from keiyoushi/extensions-source: pt/galaxscanlator)
+Engines.ZeistManga {
+	id = "KEI_PTBRGALAXSCANLATOR",
+	name = "GALAX Scans",
+	baseUrl = "https://galaxscanlator.blogspot.com",
+	lang = "pt-BR",
+	version = 3,
+	nsfw = false,
+	extension = "kei.pt.galaxscanlator",
+	chapterCategory = "Chapter",
+	hasFilters = true,
+	hasLanguageFilter = false,
+	mangaDetailsSelector = ".grid.gta-series",
+	mangaDetailsSelectorGenres = "dt:contains(Genre) + dd a[rel=tag]",
+	pageListSelector = ".separator",
+	popularMangaSelector = "#PopularPosts2 article",
+	popularMangaSelectorTitle = "h4",
+	popularMangaSelectorUrl = "a",
+	useNewChapterFeed = true,
+}
