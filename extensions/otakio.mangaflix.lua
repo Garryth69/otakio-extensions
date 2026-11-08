@@ -1,7 +1,7 @@
 -- @id otakio.mangaflix
 -- @name MangaFlix
 -- @lang pt-BR
--- @version 1
+-- @version 2
 -- @nsfw false
 -- @baseUrl https://mangaflix.net
 -- Native Otakio extension: MangaFlix (Brazilian manga/manhwa catalog, public JSON API).
@@ -10,7 +10,7 @@ local U = Engines.util
 local BASE = "https://mangaflix.net"
 local API = "https://api.mangaflix.net/v1"
 
-local p = U.newParser({id = "OTAKIO_MANGAFLIX", name = "MangaFlix", baseUrl = BASE, lang = "pt-BR", version = 1, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_MANGAFLIX", name = "MangaFlix", baseUrl = BASE, lang = "pt-BR", version = 2, engine = "native"}, {})
 
 local function getJson(url)
 	local body = Http.get(url, {Referer = BASE .. "/", Origin = BASE, Accept = "application/json"})
@@ -89,7 +89,7 @@ function p:prepareChapter(chapter, dt)
 	local id = string.match(chapter.Link, "([^/]+)$")
 	local d = getJson(API .. "/chapters/" .. id .. "?selected_language=pt-br").data
 	for _, img in ipairs(type(d) == "table" and type(d.images) == "table" and d.images or {}) do
-		if str(img.default_url) then
+		if str(img.default_url) and img.default_url ~= "" then -- chapters still being uploaded list pages with empty urls
 			dt[#dt + 1] = Http.image(img.default_url, BASE .. "/")
 		end
 	end

@@ -10,14 +10,16 @@ Copyright 2026 Garryth69 and contributors. Licensed under the Apache License, Ve
 Copyright the Tachiyomi/Mihon open source projects and the keiyoushi contributors.
 
 The site lists, theme logic (Madara, MangaThemesia, Keyoapp, ZeistManga, FoolSlide, MangaCatalog, YiiManga,
-VineTheme, HeanCms, Guya, MangaK, PizzaReader...) and several native extensions in this repository were **adapted
-from their Kotlin sources into Lua** for the Otakio engine. Changes: rewritten in Lua for the PS Vita (lpp-vita /
+VineTheme, HeanCms, Guya, MangaK, PizzaReader, and for Russian/Japanese/Chinese sites Grouple, LibGroup, MultiChan,
+FMReader, NatsuId, MangaReader, Liliana, GalleryAdults...) and several native extensions in this repository (among them
+Desu, AComics, Terra Historicus, BH3, Dongman Manhua, Guazi Manhua, MangaTown, MangaKatana, nhentai.to, HentaiFox,
+AsmHentai, HentaiEra, HentaiEnvy, 9Hentai, HentaiHere, Multporn) were **adapted from their Kotlin sources into Lua** for the Otakio
+engine. Changes: rewritten in Lua for the PS Vita (lpp-vita /
 LuaJIT), reduced to listing, search, chapters and pages, and adjusted to the current state of each site.
 
-### yuzono/tachiyomi-extensions, yuzono/cursed-manga-extensions, codegeasse1/codegeasse-mihon-extension
-<https://github.com/yuzono/tachiyomi-extensions>, <https://github.com/yuzono/cursed-manga-extensions>,
-<https://github.com/codegeasse1/codegeasse-mihon-extension> — site configurations for the same themes, adapted the
-same way. Licensed by their authors under the Apache License 2.0.
+### yuzono/tachiyomi-extensions, yuzono/cursed-manga-extensions
+<https://github.com/yuzono/tachiyomi-extensions>, <https://github.com/yuzono/cursed-manga-extensions> — site
+configurations for the same themes, adapted the same way. Licensed by their authors under the Apache License 2.0.
 
 ### Creckeryop/NOBORU-parsers
 <https://github.com/Creckeryop/NOBORU-parsers> — entries with `"origin": "noboru"` point to the original files in that

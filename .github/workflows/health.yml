@@ -1,0 +1,57 @@
+name: Daily health check
+
+# Tests every source the way the app runs it (the app repository's Lua engines + tools/probe_sources.py).
+# One request stream per site and few workers; blocks typical of datacenter IPs keep the previous result
+# (flagged "unverified") instead of marking a working source as down.
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Garryth69/otakio
+          path: app
+
+      - uses: actions/checkout@v4
+        with:
+          path: app/repo
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install lupa
+
+      - name: Probe every source
+        working-directory: app
+        run: python tools/probe_sources.py --workers 3 --ci --update-index
+
+      - name: Refresh README
+        working-directory: app
+        run: python tools/gen_repo_readme.py
+
+      - name: Commit if anything changed
+        working-directory: app/repo
+        run: |
+          git config user.name "otakio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json health.json README.md
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Health check $(date -u +%Y-%m-%d)"
+            git push
+          fi

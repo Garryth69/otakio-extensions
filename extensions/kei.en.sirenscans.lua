@@ -2,7 +2,7 @@
 Engines.Keyoapp {
 	id = "KEI_ENSIRENSCANS",
 	name = "Siren Scans",
-	baseUrl = "https://sirenscans.org",
+	baseUrl = "https://sirenscans.com",
 	lang = "en",
 	version = 2,
 	nsfw = false,

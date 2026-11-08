@@ -1,0 +1,70 @@
+name: Weekly catalog sync
+
+# Follows keiyoushi (sources removed there are removed here, new domains are picked up), drops other sources
+# that failed every check for 180+ days, and proposes the result as a pull request for a human to review.
+on:
+  schedule:
+    - cron: "41 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: Garryth69/otakio
+          path: app
+
+      - uses: actions/checkout@v4
+        with:
+          path: app/repo
+
+      - name: keiyoushi build files (sparse)
+        run: |
+          git clone -q --depth 1 --filter=blob:none --no-checkout https://github.com/keiyoushi/extensions-source.git kei
+          cd kei
+          git sparse-checkout init --no-cone
+          printf '/src/*/*/build.gradle.kts\n/lib-multisrc/*/build.gradle.kts\n' > .git/info/sparse-checkout
+          git checkout -q main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install lupa
+
+      - name: Prune and follow upstream
+        working-directory: app
+        run: python tools/prune_repo.py --kei ../kei --probe
+
+      - name: Refresh README
+        working-directory: app
+        run: python tools/gen_repo_readme.py
+
+      - name: Open a pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          path: app/repo
+          branch: catalog-sync
+          delete-branch: true
+          commit-message: "Catalog sync with keiyoushi and 180-day cleanup"
+          committer: "otakio-bot <41898282+github-actions[bot]@users.noreply.github.com>"
+          author: "otakio-bot <41898282+github-actions[bot]@users.noreply.github.com>"
+          title: "Weekly catalog sync"
+          body: |
+            Automated by `regen.yml`:
+            - sources removed from keiyoushi/extensions-source are removed here;
+            - keiyoushi domain changes are applied and re-probed;
+            - other sources down for more than 180 days in a row are removed.
+
+            Removals are logged in `REMOVED.md`. Review before merging.

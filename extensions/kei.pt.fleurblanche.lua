@@ -2,7 +2,7 @@
 Engines.Madara {
 	id = "KEI_PTBRFLEURBLANCHE",
 	name = "Fleur Blanche",
-	baseUrl = "https://fbsquadx.com",
+	baseUrl = "https://fbsscan.com",
 	lang = "pt-BR",
 	version = 6,
 	nsfw = true,
