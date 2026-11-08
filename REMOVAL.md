@@ -12,7 +12,8 @@ Open an issue in this repository titled **Removal request: <site name>** with:
 2. your relation to it (site owner/operator or rights holder, or someone acting for them);
 3. optionally, the reason (copyright, the site prefers not to be read by third-party apps, the site closed, etc.).
 
-If you would rather not post publicly, use the contact address on the maintainer's GitHub profile.
+If you would rather not post details publicly, open an issue titled **Removal request: private contact** without any
+details, and the maintainer will reply with a private channel.
 
 ## What happens
 

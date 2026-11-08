@@ -1,0 +1,43 @@
+name: Broken source
+description: A source in the catalog doesn't load (list, chapters or pages)
+labels: ["broken source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the status column in the README first: sources marked 🔴 are already known to be down,
+        and the daily health check updates it automatically.
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Name and id as shown in Extensions (e.g. "Asura Scans", kei.en.asurascans)
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: What fails
+      options:
+        - Popular / latest list
+        - Search
+        - Manga details or chapter list
+        - Pages (reader)
+        - Images look broken
+    validations:
+      required: true
+  - type: input
+    id: example
+    attributes:
+      label: Example manga or chapter
+  - type: input
+    id: version
+    attributes:
+      label: Otakio version and extension version
+      placeholder: "1.1.0, v3"
+  - type: checkboxes
+    id: browser
+    attributes:
+      label: Browser check
+      options:
+        - label: The site opens normally in a regular browser (no captcha, no login)

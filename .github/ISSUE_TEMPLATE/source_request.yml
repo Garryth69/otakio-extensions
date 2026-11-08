@@ -1,0 +1,48 @@
+name: Source request
+description: Ask for a new site to be added
+labels: ["source request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Otakio only adds sites that a normal browser opens without tricks. Requests are declined when the site needs:
+        - bypassing Cloudflare or another anti-bot/JavaScript challenge;
+        - defeating hotlink protection, image scrambling or deliberate encryption;
+        - logging in, or API keys taken from the site's web app;
+        - paid or DRM-protected content.
+
+        Sites whose owner asked to be removed (see REMOVAL.md) are not added back.
+  - type: input
+    id: url
+    attributes:
+      label: Site URL
+    validations:
+      required: true
+  - type: input
+    id: lang
+    attributes:
+      label: Language(s)
+    validations:
+      required: true
+  - type: dropdown
+    id: nsfw
+    attributes:
+      label: Adult content
+      options:
+        - "No"
+        - "Yes"
+        - Mixed
+    validations:
+      required: true
+  - type: input
+    id: mihon
+    attributes:
+      label: Existing Mihon / Tachiyomi extension (if you know one)
+      description: Helps a lot, since many sites share a theme with an existing engine.
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: The site opens in a regular browser without captcha or login
+          required: true

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Problem with the app itself
+    url: https://github.com/Garryth69/otakio/issues/new/choose
+    about: Crashes, interface or reader bugs, translations.
+  - name: Removal request (site owners)
+    url: https://github.com/Garryth69/otakio-extensions/blob/main/REMOVAL.md
+    about: How to have a site taken out of the catalog.
+  - name: Security problem
+    url: https://github.com/Garryth69/otakio-extensions/security/advisories/new
+    about: Report privately, not as a public issue.
