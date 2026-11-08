@@ -48,7 +48,7 @@ jobs:
         run: |
           git config user.name "otakio-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.json health.json README.md
+          git add index.json health.json README.md SOURCES.md
           if git diff --cached --quiet; then
             echo "no changes"
           else

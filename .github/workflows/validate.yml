@@ -1,0 +1,35 @@
+name: Validate catalog
+
+# Every push and pull request (including the weekly sync PR): index.json parses, ids are unique, every file exists,
+# its sha256 matches what the app will download, and every .lua compiles. A mismatch would make the app refuse the install.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: Garryth69/otakio
+          path: app
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: app/repo
+
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - run: pip install lupa
+
+      - name: Validate
+        working-directory: app
+        run: python tools/validate_repo.py --git

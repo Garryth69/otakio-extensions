@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Check the status column in the README first: sources marked 🔴 are already known to be down,
+        Check the status column in SOURCES.md first: sources marked 🔴 are already known to be down,
         and the daily health check updates it automatically.
   - type: input
     id: source

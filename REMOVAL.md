@@ -8,7 +8,7 @@ these extensions and want it taken out, we will remove it.
 
 Open an issue in this repository titled **Removal request: <site name>** with:
 
-1. the website (domain) and the extension name as listed in [README.md](README.md);
+1. the website (domain) and the extension name as listed in [SOURCES.md](SOURCES.md);
 2. your relation to it (site owner/operator or rights holder, or someone acting for them);
 3. optionally, the reason (copyright, the site prefers not to be read by third-party apps, the site closed, etc.).
 
