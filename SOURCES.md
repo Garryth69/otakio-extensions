@@ -24,9 +24,9 @@ Status:
 | MangaCrazy | mangacrazy.net | 🟢 works | keiyoushi theme | yes |
 | MangaDex | mangadex.org | 🟢 works | native (Otakio) |  |
 | Webtoons | www.webtoons.com | 🟢 works | native (Otakio) |  |
-| HentaiRead | hentairead.com | ⚪ untested | NOBORU parser | yes |
 | AllPornComics.co | allporncomics.co | 🔴 down | keiyoushi theme | yes |
 | Comics Valley | comicsvalley.com | 🔴 down | keiyoushi theme | yes |
+| HentaiRead | hentairead.com | 🔴 down | NOBORU parser | yes |
 | Manhwa-raw | manhwa-raw.com | 🔴 down | keiyoushi theme | yes |
 
 </details>
@@ -34,7 +34,7 @@ Status:
 ## English
 
 <details>
-<summary>196 sources, 128 working</summary>
+<summary>196 sources, 122 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -114,7 +114,6 @@ Status:
 | ManhuaHot | manhuahot.com | 🟢 works | keiyoushi theme |  |
 | Manhuanext | manhuanext.com | 🟢 works | keiyoushi theme |  |
 | Manhwa Reads | manhwareads.com | 🟢 works | keiyoushi theme |  |
-| Manhwa Toon | www.manhwatoon.me | 🟢 works | keiyoushi theme |  |
 | Manhwa18.cc | manhwa18.cc | 🟢 works | keiyoushi theme | yes |
 | Manhwa18TX | manhwa18tx.com | 🟢 works | keiyoushi theme |  |
 | ManhwaBuddy | manhwabuddy.com | 🟢 works | keiyoushi theme |  |
@@ -136,11 +135,7 @@ Status:
 | Petrotechsociety | www.petrotechsociety.org | 🟢 works | keiyoushi theme | yes |
 | Pornhwaz | www.pornhwaz.com | 🟢 works | keiyoushi theme | yes |
 | Rackus | rackusreads.com | 🟢 works | keiyoushi theme |  |
-| Read Berserk Manga | readberserk.com | 🟢 works | keiyoushi theme |  |
-| Read Chainsaw Man Manga Online | ww6.readchainsawman.com | 🟢 works | keiyoushi theme | yes |
-| Read Fairy Tail & Edens Zero Manga Online | ww9.readfairytail.com | 🟢 works | keiyoushi theme |  |
 | Read Jujutsu Kaisen Manga Online | ww6.readjujutsukaisen.com | 🟢 works | keiyoushi theme |  |
-| Read Kingdom Manga Online | ww6.readkingdom.com | 🟢 works | keiyoushi theme |  |
 | Read Nanatsu no Taizai 7 Deadly Sins Manga Online | ww8.read7deadlysins.com | 🟢 works | keiyoushi theme |  |
 | Read One Piece Manga Online | ww13.readonepiece.com | 🟢 works | keiyoushi theme |  |
 | Read One-Punch Man Manga Online | ww7.readopm.com | 🟢 works | keiyoushi theme |  |
@@ -162,10 +157,9 @@ Status:
 | Valir Scans | valirscans.org | 🟢 works | keiyoushi theme |  |
 | Violet Scans | violetmanga.com | 🟢 works | keiyoushi theme |  |
 | Weeb Central | weebcentral.com | 🟢 works | native (Otakio) |  |
-| WitchScans | witchtoons.net | 🟢 works | keiyoushi theme |  |
-| Writer Scans | writerscans.com | 🟢 works | keiyoushi theme |  |
 | WuxiaWorld | wuxiaworld.site | 🟢 works | keiyoushi theme |  |
 | YakshaComics | yakshacomics.com | 🟢 works | keiyoushi theme |  |
+| YaoiScan (Unoriginal) | yaoiscan.me | 🟢 works | keiyoushi theme |  |
 | Art Lapsa | artlapsa.com | 🟡 partial | keiyoushi theme |  |
 | Death Toll Scans | reader.deathtollscans.net | 🟡 partial | keiyoushi theme |  |
 | Eris Scans | erisscans.com | 🟡 partial | keiyoushi theme |  |
@@ -177,24 +171,24 @@ Status:
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
+| Manhwa Toon | www.manhwatoon.me | 🟡 partial | keiyoushi theme |  |
 | Mist Scans | mistscans.com | 🟡 partial | keiyoushi theme |  |
 | Nyanu Kafe | nyanukafe.com | 🟡 partial | keiyoushi theme |  |
 | Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟡 partial | keiyoushi theme |  |
+| Read Berserk Manga | readberserk.com | 🟡 partial | keiyoushi theme |  |
 | Read Black Clover Manga Online | ww10.readblackclover.com | 🟡 partial | keiyoushi theme |  |
+| Read Chainsaw Man Manga Online | ww6.readchainsawman.com | 🟡 partial | keiyoushi theme | yes |
+| Read Fairy Tail & Edens Zero Manga Online | ww9.readfairytail.com | 🟡 partial | keiyoushi theme |  |
+| Read Kingdom Manga Online | ww6.readkingdom.com | 🟡 partial | keiyoushi theme |  |
 | RitharScans | ritharscans.com | 🟡 partial | keiyoushi theme |  |
 | Rose Squad Scans | rosesquadscans.aishiteru.org | 🟡 partial | keiyoushi theme | yes |
 | TimelessToons | timelesstoons.org | 🟡 partial | keiyoushi theme |  |
 | TopManhua.fan | www.topmanhua.fan | 🟡 partial | keiyoushi theme |  |
 | TopManhua.net | topmanhua.net | 🟡 partial | keiyoushi theme |  |
+| Writer Scans | writerscans.com | 🟡 partial | keiyoushi theme |  |
 | Zazamanga | www.zazamanga.com | 🟡 partial | keiyoushi theme |  |
 | Zinmanga | mangazin.org | 🟡 partial | keiyoushi theme |  |
 | Zinmanga.net | www.zinmanga.net | 🟡 partial | keiyoushi theme |  |
-| Hentai20 | hentai20.com | ⚪ untested | NOBORU parser | yes |
-| MangaHub | mangahub.io | ⚪ untested | NOBORU parser |  |
-| MyHentaiGallery | myhentaigallery.com | ⚪ untested | NOBORU parser | yes |
-| ReadComicsOnline | readcomicsonline.ru | ⚪ untested | NOBORU parser |  |
-| Readm | readm.today | ⚪ untested | NOBORU parser |  |
-| Reaper Scans | reaperscans.com | ⚪ untested | NOBORU parser |  |
 | AllPornComic | allporncomic.com | 🔴 down | keiyoushi theme | yes |
 | Asmodeus Scans | asmotoon.com | 🔴 down | keiyoushi theme |  |
 | Borat Scans | boratscans.com | 🔴 down | keiyoushi theme |  |
@@ -206,11 +200,13 @@ Status:
 | GingeRTooN | gingertoon.com | 🔴 down | keiyoushi theme | yes |
 | Gourmet Scans | gourmetsupremacy.com | 🔴 down | keiyoushi theme |  |
 | Hades Scans | hadesscans.com | 🔴 down | keiyoushi theme |  |
+| Hentai20 | hentai20.com | 🔴 down | NOBORU parser | yes |
 | Kaizen Scan | kaizenscan.com | 🔴 down | keiyoushi theme | yes |
 | Kissmanga.in | kissmanga.in | 🔴 down | keiyoushi theme |  |
 | Lgbtics | lgbtics.com | 🔴 down | keiyoushi theme | yes |
 | Luna Toons | lunatoons.net | 🔴 down | keiyoushi theme |  |
 | MangaGG | mangagg.com | 🔴 down | keiyoushi theme |  |
+| MangaHub | mangahub.io | 🔴 down | NOBORU parser |  |
 | Mangatellers | reader.mangatellers.gr | 🔴 down | keiyoushi theme |  |
 | Manhua Zonghe | www.manhuazonghe.com | 🔴 down | keiyoushi theme | yes |
 | ManhuaUS | manhuaus.com | 🔴 down | keiyoushi theme |  |
@@ -219,9 +215,13 @@ Status:
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
 | Manhwatop | manhwatop.com | 🔴 down | keiyoushi theme |  |
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
+| MyHentaiGallery | myhentaigallery.com | 🔴 down | NOBORU parser | yes |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
+| ReadComicsOnline | readcomicsonline.ru | 🔴 down | NOBORU parser |  |
+| Readm | readm.today | 🔴 down | NOBORU parser |  |
+| Reaper Scans | reaperscans.com | 🔴 down | NOBORU parser |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
 | Siren Scans | sirenscans.com | 🔴 down | keiyoushi theme |  |
 | Sleepy Translations | sleepytranslations.com | 🔴 down | keiyoushi theme |  |
@@ -231,57 +231,57 @@ Status:
 | WebtoonScan | webtoonscan.com | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
 | Wildtoon | wildtoon.com | 🔴 down | keiyoushi theme | yes |
+| WitchScans | witchtoons.net | 🔴 down | keiyoushi theme |  |
 | Yaoihub | yaoihub.org | 🔴 down | keiyoushi theme | yes |
 | YaoiScan | yaoiscan.com | 🔴 down | keiyoushi theme |  |
-| YaoiScan (Unoriginal) | yaoiscan.me | 🔴 down | keiyoushi theme |  |
 
 </details>
 
 ## Portuguese (Brazil)
 
 <details>
-<summary>42 sources, 31 working</summary>
+<summary>42 sources, 24 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | Amuy | apenasmaisumyaoi.com | 🟢 works | keiyoushi theme |  |
-| Apenas Uma Fã | apenasuma-fa.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Arthur Scan | arthurscan.xyz | 🟢 works | keiyoushi theme |  |
 | Boruto Explorer | leitor.borutoexplorer.com.br | 🟢 works | keiyoushi theme |  |
 | Café com Yaoi | cafecomyaoi.com.br | 🟢 works | keiyoushi theme |  |
 | Coven Scan | covendasbruxonas.com | 🟢 works | keiyoushi theme | yes |
 | Euphoria Scan | euphoriascan.com | 🟢 works | keiyoushi theme | yes |
 | Fleur Blanche | fbsscan.com | 🟢 works | keiyoushi theme | yes |
-| GALAX Scans | galaxscanlator.blogspot.com | 🟢 works | keiyoushi theme |  |
-| Hanami Heaven | hanamiheaven.org | 🟢 works | keiyoushi theme | yes |
-| Hanmokku Scan | hanmokkuscan.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hentai Teca | hentaiteca.online | 🟢 works | keiyoushi theme | yes |
 | Hot Cabaret Scan | hotcabaretscan.com | 🟢 works | keiyoushi theme |  |
 | HQ Now | www.hq-now.com | 🟢 works | native (Otakio) |  |
 | Hunters Scan | readhunters.xyz | 🟢 works | keiyoushi theme |  |
 | Inkapk | inkapk.net | 🟢 works | keiyoushi theme | yes |
-| Kami Sama Explorer | leitor.kamisama.com.br | 🟢 works | keiyoushi theme |  |
-| Ler 999 | ler999.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Manga Livre.to | mangalivre.to | 🟢 works | keiyoushi theme |  |
 | MangaFlix | mangaflix.net | 🟢 works | native (Otakio) |  |
 | MangoToons | mangotoons.com | 🟢 works | native (Otakio) |  |
 | Monte Tai | montetaiscanlator.xyz | 🟢 works | keiyoushi theme |  |
 | Nebulosa Scan | nebulosascan.com | 🟢 works | keiyoushi theme |  |
+| Ninja Scan | ninjacomics.xyz | 🟢 works | keiyoushi theme |  |
 | Nocturne Summer | nocfsb.com | 🟢 works | keiyoushi theme |  |
-| Pink Rosa | scanpinkrosa.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Tankou Hentai | tankouhentai.com | 🟢 works | keiyoushi theme | yes |
 | ToonBR | beta.toonbr.com | 🟢 works | native (Otakio) |  |
-| Traduções do Lipe | traducoesdolipe.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Tsundoku Traduções | tsundoku.com.br | 🟢 works | keiyoushi theme |  |
 | Yaoi Fan Club | yaoifanclub.com | 🟢 works | keiyoushi theme |  |
 | Yuri on Air | yurionair.top | 🟢 works | keiyoushi theme |  |
 | Acervo Hentai | acervohentai.com | 🟡 partial | keiyoushi theme | yes |
+| Apenas Uma Fã | apenasuma-fa.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | FlowerManga.net | flowermangas.net | 🟡 partial | keiyoushi theme |  |
+| GALAX Scans | galaxscanlator.blogspot.com | 🟡 partial | keiyoushi theme |  |
+| Hanmokku Scan | hanmokkuscan.blogspot.com | 🟡 partial | keiyoushi theme |  |
+| Kami Sama Explorer | leitor.kamisama.com.br | 🟡 partial | keiyoushi theme |  |
+| Ler 999 | ler999.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | MR Tenzus | mrtenzus.com | 🟡 partial | keiyoushi theme | yes |
+| Pink Rosa | scanpinkrosa.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | Pink Sea Unicorn | psunicorn.com | 🟡 partial | keiyoushi theme | yes |
+| Traduções do Lipe | traducoesdolipe.blogspot.com | 🟡 partial | keiyoushi theme |  |
+| Hanami Heaven | hanamiheaven.org | 🔴 down | keiyoushi theme | yes |
 | Little Tyrant | tiraninha.world | 🔴 down | keiyoushi theme |  |
 | MiniTwo Scan | minitwoscan.com | 🔴 down | keiyoushi theme |  |
-| Ninja Scan | ninjacomics.xyz | 🔴 down | keiyoushi theme |  |
 | Portal Yaoi | portalyaoi.com | 🔴 down | keiyoushi theme | yes |
 | Temaki mangás | temakimangas.blogspot.com | 🔴 down | keiyoushi theme | yes |
 | Tia Manhwa | tiamanhwa.com | 🔴 down | keiyoushi theme | yes |
@@ -292,12 +292,13 @@ Status:
 ## Spanish
 
 <details>
-<summary>55 sources, 30 working</summary>
+<summary>55 sources, 31 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | Asia Lotus | asialotuss.com | 🟢 works | keiyoushi theme | yes |
 | BarManga | archiviumbar.com | 🟢 works | keiyoushi theme |  |
+| Bloom Scans | bloomscans.com | 🟢 works | keiyoushi theme |  |
 | Bymichi Scan | bymichiby.com | 🟢 works | keiyoushi theme | yes |
 | Cerberus Series | legionscans.com/wp | 🟢 works | keiyoushi theme |  |
 | Dark Room Fansub | lector-darkroomfansub.blogspot.com | 🟢 works | keiyoushi theme | yes |
@@ -327,7 +328,6 @@ Status:
 | Yuri-Online | yuri-online.com | 🟢 works | keiyoushi theme |  |
 | ZonaTMO | zonatmo.to | 🟢 works | native (Otakio) |  |
 | ApollComics | apollcomics.es | 🟡 partial | keiyoushi theme | yes |
-| Bloom Scans | bloomscans.com | 🟡 partial | keiyoushi theme |  |
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | ManhwaOnline | manhwa-online.com | 🟡 partial | keiyoushi theme | yes |
 | Menudo-Fansub | www.menudo-fansub.com | 🟡 partial | keiyoushi theme |  |
@@ -335,22 +335,22 @@ Status:
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | Ragnarok Scanlation | ragnarokscanlation.org | 🟡 partial | keiyoushi theme |  |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |
-| HeavenManga | heavenmanga.com | ⚪ untested | NOBORU parser | yes |
-| InManga | inmanga.com | ⚪ untested | NOBORU parser |  |
-| LeoManga | leomanga.me | ⚪ untested | NOBORU parser |  |
-| LeoMangas | leomangas.xyz | ⚪ untested | NOBORU parser |  |
-| MangaDoor | mangadoor.com | ⚪ untested | NOBORU parser |  |
-| Submanga | submangas.net | ⚪ untested | NOBORU parser |  |
-| VerComicsPorno | vercomicsporno.xxx | ⚪ untested | NOBORU parser | yes |
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
 | BokugenTranslation | bokugents.com | 🔴 down | keiyoushi theme |  |
 | DragonTranslation.org | dragontranslation.org | 🔴 down | yuzono theme |  |
+| HeavenManga | heavenmanga.com | 🔴 down | NOBORU parser | yes |
+| InManga | inmanga.com | 🔴 down | NOBORU parser |  |
+| LeoManga | leomanga.me | 🔴 down | NOBORU parser |  |
+| LeoMangas | leomangas.xyz | 🔴 down | NOBORU parser |  |
 | Manga Romance | mangaromance19.com | 🔴 down | keiyoushi theme |  |
+| MangaDoor | mangadoor.com | 🔴 down | NOBORU parser |  |
 | Mangas No Sekai | mangasnosekai.com | 🔴 down | keiyoushi theme |  |
 | Manhwa-Latino | manhwa-latino.com | 🔴 down | keiyoushi theme |  |
 | MHScans | mhscans.com | 🔴 down | keiyoushi theme |  |
+| Submanga | submangas.net | 🔴 down | NOBORU parser |  |
 | Toon-es | toon-es.com | 🔴 down | keiyoushi theme | yes |
 | Ver Manhwas | vermanhwa.com | 🔴 down | keiyoushi theme | yes |
+| VerComicsPorno | vercomicsporno.xxx | 🔴 down | NOBORU parser | yes |
 
 </details>
 
@@ -385,7 +385,7 @@ Status:
 ## Italian
 
 <details>
-<summary>13 sources, 7 working</summary>
+<summary>13 sources, 8 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -394,13 +394,13 @@ Status:
 | LupiTeam | lupiteam.net | 🟢 works | keiyoushi theme |  |
 | MangaWorld | www.mangaworld.mx | 🟢 works | native (Otakio) |  |
 | Phoenix Scans | www.phoenixscans.com | 🟢 works | keiyoushi theme |  |
+| Shinobi Scans | shinobiscans.com | 🟢 works | keiyoushi theme |  |
 | TuttoAnimeManga | tuttoanimemanga.net | 🟢 works | keiyoushi theme |  |
 | ZeurelScan | www.zeurelscan.com | 🟢 works | native (Otakio) |  |
 | DDT Team | ddt.hastateam.com | 🔴 down | keiyoushi theme |  |
 | Hasta Team | reader.hastateam.com | 🔴 down | keiyoushi theme |  |
 | Juin Jutsu Team Reader | www.juinjutsureader.ovh | 🔴 down | keiyoushi theme |  |
 | NIFTeam | read-nifteam.info | 🔴 down | keiyoushi theme |  |
-| Shinobi Scans | shinobiscans.com | 🔴 down | keiyoushi theme |  |
 | Walpurgi Scan | www.walpurgiscan.it | 🔴 down | keiyoushi theme |  |
 
 </details>
@@ -408,12 +408,13 @@ Status:
 ## Russian
 
 <details>
-<summary>14 sources, 8 working</summary>
+<summary>14 sources, 9 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | AComics | acomics.ru | 🟢 works | native (Otakio) |  |
 | Desu | desu.uno | 🟢 works | native (Otakio) |  |
+| MangaChan | im.manga-chan.me | 🟢 works | keiyoushi theme |  |
 | MangaLib | mangalib.me | 🟢 works | keiyoushi theme |  |
 | ReadManga | a.zazaza.me | 🟢 works | keiyoushi theme |  |
 | SeiManga | 1.seimanga.me | 🟢 works | keiyoushi theme |  |
@@ -424,7 +425,6 @@ Status:
 | HentaiLib | hentailib.me | 🟡 partial | keiyoushi theme | yes |
 | MintManga | 2.mintmanga.one | 🟡 partial | keiyoushi theme |  |
 | HenChan | xxl.hentaichan.live | 🔴 down | keiyoushi theme | yes |
-| MangaChan | im.manga-chan.me | 🔴 down | keiyoushi theme |  |
 | YaoiChan | yaoi-chan.me | 🔴 down | keiyoushi theme | yes |
 
 </details>
@@ -451,14 +451,14 @@ Status:
 ## Chinese
 
 <details>
-<summary>5 sources, 4 working</summary>
+<summary>5 sources, 3 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | Terra Historicus | comic.hypergryph.com | 🟢 works | native (Otakio) |  |
-| 咚漫 (Dongman Manhua) | www.dongmanmanhua.cn | 🟢 works | native (Otakio) |  |
 | 崩坏3 (Honkai Impact 3rd) | comic.bh3.com | 🟢 works | native (Otakio) |  |
 | 瓜子漫画 (Guazi Manhua) | www.guazimanhua.com | 🟢 works | native (Otakio) |  |
+| 咚漫 (Dongman Manhua) | www.dongmanmanhua.cn | 🟡 partial | native (Otakio) |  |
 | 巴卡漫画 | bakamh.com | 🔴 down | keiyoushi theme | yes |
 
 </details>
