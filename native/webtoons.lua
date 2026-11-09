@@ -1,6 +1,7 @@
 -- @id otakio.webtoons
 -- @name Webtoons
 -- @lang all
+-- @langs en,es,fr,de
 -- @version 2
 -- @nsfw false
 -- @baseUrl https://www.webtoons.com

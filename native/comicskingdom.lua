@@ -1,6 +1,7 @@
 -- @id otakio.comicskingdom
 -- @name Comics Kingdom
 -- @lang all
+-- @langs en,es
 -- @version 1
 -- @nsfw false
 -- @baseUrl https://wp.comicskingdom.com

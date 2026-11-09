@@ -1,7 +1,7 @@
 -- @id otakio.mangadex
 -- @name MangaDex
 -- @lang all
--- @version 1
+-- @version 2
 -- @nsfw false
 -- @baseUrl https://mangadex.org
 -- Native Otakio extension using the official MangaDex JSON API.
@@ -29,6 +29,11 @@ local PREFERRED = {
 }
 
 local function languages()
+	-- the Browse language filter first (Otakio 1.1.2+), then the interface language
+	local browse = BrowseLanguageIsos and BrowseLanguageIsos()
+	if browse and #browse > 0 then
+		return browse
+	end
 	local lang = Settings.Language
 	if lang == "Default" and GetSystemLanguageName then
 		lang = GetSystemLanguageName()
