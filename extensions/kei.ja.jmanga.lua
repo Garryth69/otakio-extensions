@@ -2,7 +2,7 @@
 Engines.MangaReader {
 	id = "KEI_JAJMANGA",
 	name = "Jmanga",
-	baseUrl = "https://jmanga.cool",
+	baseUrl = "https://jmanga.cloud",
 	lang = "ja",
 	version = 10,
 	nsfw = false,

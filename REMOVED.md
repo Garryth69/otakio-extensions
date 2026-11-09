@@ -8,6 +8,7 @@ check for more than 180 days), **site closed**, **opt-out** (the site owner aske
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|
+| 2026-11-09 | WitchScans | witchtoons.net | removed upstream |
 | 2026-11-08 | SamuraiScan | samurai.j5z.xyz | removed upstream |
 | 2026-11-03 | kei.en.anisascans |  | site closed |
 | 2026-11-03 | kei.en.auntmanhwa |  | site closed |

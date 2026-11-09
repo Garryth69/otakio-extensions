@@ -31,7 +31,7 @@ tab offers it with one click.
 | Language | Sources | 🟢 working |
 |---|---:|---:|
 | [Multi-language](SOURCES.md#multi-language) | 9 | 5 |
-| [English](SOURCES.md#english) | 196 | 122 |
+| [English](SOURCES.md#english) | 195 | 122 |
 | [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 42 | 26 |
 | [Spanish](SOURCES.md#spanish) | 55 | 30 |
 | [French](SOURCES.md#french) | 18 | 9 |
@@ -39,7 +39,7 @@ tab offers it with one click.
 | [Russian](SOURCES.md#russian) | 14 | 8 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **361** | **220** |
+| **Total** | **360** | **220** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 

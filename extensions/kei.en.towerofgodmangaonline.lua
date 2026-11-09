@@ -2,7 +2,7 @@
 Engines.MangaCatalog {
 	id = "KEI_ENTOWEROFGODMANGAONLINE",
 	name = "Tower Of God Manga Online",
-	baseUrl = "https://w82.thetowerofgod.com",
+	baseUrl = "https://w85.thetowerofgod.com",
 	lang = "en",
 	version = 1,
 	nsfw = false,
