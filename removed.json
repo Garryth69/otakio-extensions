@@ -206,5 +206,13 @@
   "origin": "keiyoushi",
   "date": "2026-11-08",
   "reason": "removed upstream"
+ },
+ {
+  "id": "kei.en.witchscans",
+  "name": "WitchScans",
+  "baseUrl": "https://witchtoons.net",
+  "origin": "keiyoushi",
+  "date": "2026-11-09",
+  "reason": "removed upstream"
  }
 ]

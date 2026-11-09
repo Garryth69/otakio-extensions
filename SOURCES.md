@@ -9,7 +9,7 @@ Status:
 - **🔴 down:** the site doesn't answer or blocks readers;
 - **⚪ untested.**
 
-**Languages:** [Multi-language](#multi-language) (9) · [English](#english) (196) · [Portuguese (Brazil)](#portuguese-brazil) (42) · [Spanish](#spanish) (55) · [French](#french) (18) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
+**Languages:** [Multi-language](#multi-language) (9) · [English](#english) (195) · [Portuguese (Brazil)](#portuguese-brazil) (42) · [Spanish](#spanish) (55) · [French](#french) (18) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
 
 
 ## Multi-language
@@ -34,7 +34,7 @@ Status:
 ## English
 
 <details>
-<summary>196 sources, 122 working</summary>
+<summary>195 sources, 122 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -227,11 +227,10 @@ Status:
 | Sleepy Translations | sleepytranslations.com | 🔴 down | keiyoushi theme |  |
 | ToonGod | www.toongod.org | 🔴 down | keiyoushi theme |  |
 | Toonily | toonily.com | 🔴 down | keiyoushi theme |  |
-| Tower Of God Manga Online | w82.thetowerofgod.com | 🔴 down | keiyoushi theme |  |
+| Tower Of God Manga Online | w85.thetowerofgod.com | 🔴 down | keiyoushi theme |  |
 | WebtoonScan | webtoonscan.com | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
 | Wildtoon | wildtoon.com | 🔴 down | keiyoushi theme | yes |
-| WitchScans | witchtoons.net | 🔴 down | keiyoushi theme |  |
 | Yaoihub | yaoihub.org | 🔴 down | keiyoushi theme | yes |
 | YaoiScan | yaoiscan.com | 🔴 down | keiyoushi theme |  |
 
@@ -436,7 +435,7 @@ Status:
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
-| Jmanga | jmanga.cool | 🟢 works | keiyoushi theme |  |
+| Jmanga | jmanga.cloud | 🟢 works | keiyoushi theme |  |
 | Love4u | love4u.net | 🟢 works | keiyoushi theme |  |
 | NihonKuni | nihonkuni.com | 🟢 works | keiyoushi theme |  |
 | Raw Otaku | rawotaku.com | 🟢 works | keiyoushi theme |  |
