@@ -43,6 +43,12 @@ jobs:
         working-directory: app
         run: python tools/gen_repo_readme.py
 
+      # changes made with the workflow token don't trigger other workflows (validate.yml): check the catalog here,
+      # so a broken index.json or hash never reaches main
+      - name: Validate the catalog
+        working-directory: app
+        run: python tools/validate_repo.py
+
       - name: Commit if anything changed
         working-directory: app/repo
         run: |
