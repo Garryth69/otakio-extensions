@@ -307,7 +307,7 @@
 "lastOk": "2026-11-09",
 "pages": 0,
 "popular": 20,
-"sample": "My Sisters Smeared My Name, Yet the Neighboring Grand Duke Dotes on Me",
+"sample": "The Count’s Daughter Whose Fiancé Was Stolen Decides to Live Life on Her Own Terms",
 "status": "partial"
 },
 "kei.en.asmotoon": {
@@ -419,7 +419,7 @@
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 1,
+"pages": 12,
 "popular": 20,
 "sample": "Blossoms of The White Night [Cucumbermanga]",
 "status": "ok"
@@ -455,11 +455,11 @@
 "status": "ok"
 },
 "kei.en.divascans": {
-"chapters": 45,
+"chapters": 56,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 8,
+"pages": 29,
 "popular": 24,
 "sample": "Obedient Pregnancy",
 "status": "ok"
@@ -474,24 +474,23 @@
 "status": "dead"
 },
 "kei.en.drakescans": {
-"chapters": 319,
+"chapters": 129,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 12,
+"pages": 13,
 "popular": 24,
 "sample": "Disastrous Necromancer",
 "status": "ok"
 },
 "kei.en.elftoon": {
-"chapters": 138,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
 "lastOk": "2026-11-09",
-"pages": 8,
+"pages": 0,
 "popular": 24,
 "sample": "Infinite Evolution From Zero",
-"status": "ok"
+"status": "partial"
 },
 "kei.en.erisscans": {
 "chapters": 46,
@@ -535,14 +534,13 @@
 "status": "ok"
 },
 "kei.en.fourporncomic": {
-"chapters": 68,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 102,
-"popular": 24,
-"sample": "Father-In-Law At Home [CrazyDad3D]",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "kei.en.frierenonline": {
 "chapters": 8,
@@ -604,14 +602,13 @@
 "status": "dead"
 },
 "kei.en.grimscans": {
-"chapters": 28,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 14,
-"popular": 7,
-"sample": "Turn-Based Wizard",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "kei.en.guya": {
 "chapters": 35,
@@ -642,21 +639,20 @@
 "status": "dead"
 },
 "kei.en.hentai1io": {
-"chapters": 120,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 29,
-"popular": 20,
-"sample": "Stop Smoking",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "kei.en.hentai20lol": {
-"chapters": 120,
+"chapters": 161,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 29,
+"pages": 4,
 "popular": 24,
 "sample": "Stop Smoking",
 "status": "ok"
@@ -771,11 +767,11 @@
 "status": "ok"
 },
 "kei.en.keroscans": {
-"chapters": 23,
+"chapters": 44,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 28,
+"pages": 12,
 "popular": 24,
 "sample": "Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatete Mita",
 "status": "ok"
@@ -800,12 +796,12 @@
 "status": "dead"
 },
 "kei.en.kitsunedawn": {
-"chapters": 8,
+"chapters": 7,
 "checked": "2026-11-09",
 "lastOk": "2026-11-09",
 "pages": 0,
-"popular": 10,
-"sample": "I'm the Villainess Whose Engagement Is Being Broken Off, but the Prince Only Desires My Body",
+"popular": 24,
+"sample": "The Bride Who Returned from Death Cannot Escape the Cold-Hearted Knight's Obsessive, Doting Love",
 "status": "partial"
 },
 "kei.en.ksgroupscans": {
@@ -860,13 +856,14 @@
 "unverified": "2026-11-09"
 },
 "kei.en.lilymanga": {
-"chapters": 0,
+"chapters": 261,
 "checked": "2026-11-09",
-"deadSince": "2026-11-09",
-"lastOk": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-09",
+"pages": 11,
+"popular": 12,
+"sample": "My Food Seems To Be Very Cute",
+"status": "ok"
 },
 "kei.en.lovesjanescans": {
 "chapters": 22,
@@ -920,7 +917,7 @@
 "status": "ok"
 },
 "kei.en.manga18free": {
-"chapters": 199,
+"chapters": 200,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
@@ -981,7 +978,7 @@
 "status": "ok"
 },
 "kei.en.mangaforfreecom": {
-"chapters": 135,
+"chapters": 136,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
@@ -1136,13 +1133,13 @@
 "status": "dead"
 },
 "kei.en.manhwa18tx": {
-"chapters": 997,
+"chapters": 10,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 1,
+"pages": 31,
 "popular": 24,
-"sample": "Tales of Demons and Gods",
+"sample": "S Battle Master",
 "status": "ok"
 },
 "kei.en.manhwa68": {
@@ -1155,13 +1152,13 @@
 "status": "dead"
 },
 "kei.en.manhwabuddy": {
-"chapters": 204,
+"chapters": 119,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 11,
+"pages": 66,
 "popular": 24,
-"sample": "Kuro no Shoukanshi",
+"sample": "The Teachers’ Efforts Raw",
 "status": "ok"
 },
 "kei.en.manhwacomics": {
@@ -1175,13 +1172,13 @@
 "status": "partial"
 },
 "kei.en.manhwaddict": {
-"chapters": 997,
+"chapters": 30,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 1,
+"pages": 16,
 "popular": 24,
-"sample": "Tales of Demons and Gods",
+"sample": "Slave Code",
 "status": "ok"
 },
 "kei.en.manhwaden": {
@@ -1195,13 +1192,13 @@
 "status": "ok"
 },
 "kei.en.manhwagalaxy": {
-"chapters": 997,
+"chapters": 23,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 1,
+"pages": 14,
 "popular": 24,
-"sample": "Tales of Demons and Gods",
+"sample": "Single Daddy Raw",
 "status": "ok"
 },
 "kei.en.manhwahubto": {
@@ -1345,7 +1342,7 @@
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 1,
+"pages": 8,
 "popular": 20,
 "sample": "Jinx [Octopusmanga]",
 "status": "ok"
@@ -1591,12 +1588,12 @@
 "status": "ok"
 },
 "kei.en.rosesquadscans": {
-"chapters": 6,
+"chapters": 1,
 "checked": "2026-11-09",
 "lastOk": "2026-11-09",
 "pages": 0,
 "popular": 20,
-"sample": "Amaenbo Honey",
+"sample": "Winter That Year",
 "status": "partial"
 },
 "kei.en.rubycomics": {
@@ -1656,13 +1653,13 @@
 "status": "dead"
 },
 "kei.en.suryascans": {
-"chapters": 12,
+"chapters": 41,
 "checked": "2026-11-09",
 "image": "avif",
 "lastOk": "2026-11-09",
-"pages": 15,
+"pages": 16,
 "popular": 229,
-"sample": "My Dragon Girlfriend Has Returned",
+"sample": "Forget Being the Heir, I’m Just Going to Relax",
 "status": "partial"
 },
 "kei.en.thunderscans": {
@@ -1676,14 +1673,14 @@
 "status": "ok"
 },
 "kei.en.timelesstoons": {
-"chapters": 26,
+"chapters": 11,
 "checked": "2026-11-09",
-"image": "ok",
+"image": "avif",
 "lastOk": "2026-11-09",
-"pages": 22,
+"pages": 40,
 "popular": 198,
-"sample": "Campioni",
-"status": "ok"
+"sample": "Bloodshed Goddess Biography",
+"status": "partial"
 },
 "kei.en.toongod": {
 "chapters": 0,
@@ -1871,12 +1868,14 @@
 "unverified": "2026-11-09"
 },
 "kei.en.yaoihub": {
-"chapters": 0,
+"chapters": 246,
 "checked": "2026-11-09",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-09",
+"pages": 65,
+"popular": 20,
+"sample": "Cherry Blossoms After Winter",
+"status": "ok"
 },
 "kei.en.yaoiscan": {
 "chapters": 0,
@@ -1888,13 +1887,13 @@
 "status": "dead"
 },
 "kei.en.yaoiscanme": {
-"chapters": 6,
+"chapters": 38,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 43,
+"pages": 31,
 "popular": 24,
-"sample": "Marriage Pink",
+"sample": "MBB (My Bad Boss)",
 "status": "ok"
 },
 "kei.en.zazamanga": {
@@ -2008,21 +2007,21 @@
 "status": "ok"
 },
 "kei.es.darkroomfansub": {
-"chapters": 1,
+"chapters": 5,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 36,
+"pages": 52,
 "popular": 20,
 "sample": "Smoky Nectar Renew",
 "status": "ok"
 },
 "kei.es.datgarscanlation": {
-"chapters": 60,
+"chapters": 76,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 19,
+"pages": 10,
 "popular": 20,
 "sample": "Tsumi to Batsu no Spica",
 "status": "ok"
@@ -2107,13 +2106,13 @@
 "status": "ok"
 },
 "kei.es.leermanhwas": {
-"chapters": 67,
+"chapters": 19,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 22,
+"pages": 12,
 "popular": 24,
-"sample": "¿¡Un codicioso convertido en profeta!?",
+"sample": "La Reina Demonio Me Obliga Constantemente a Pedir Deseos",
 "status": "ok"
 },
 "kei.es.lolivault": {
@@ -2292,13 +2291,13 @@
 "status": "ok"
 },
 "kei.es.tmomanhwa": {
-"chapters": 121,
+"chapters": 26,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 27,
+"pages": 2,
 "popular": 24,
-"sample": "¡Infiltrada en una Escuela Chaebol!",
+"sample": "Hoy no hay Video",
 "status": "ok"
 },
 "kei.es.toones": {
@@ -2483,6 +2482,7 @@
 "status": "dead"
 },
 "kei.fr.pantheonscan": {
+"blocked": true,
 "chapters": 0,
 "checked": "2026-11-09",
 "lastOk": "2026-11-09",
@@ -2994,21 +2994,21 @@
 "status": "ok"
 },
 "kei.ja.raw1001": {
-"chapters": 109,
+"chapters": 410,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 13,
+"pages": 29,
 "popular": 42,
-"sample": "劣等人の魔剣使い　スキルボードを駆使して最強に至る",
+"sample": "アオアシ",
 "status": "ok"
 },
 "kei.ja.rawinu": {
-"chapters": 198,
+"chapters": 346,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 15,
+"pages": 18,
 "popular": 20,
 "sample": "Pirate King (Manga)",
 "status": "ok"
@@ -3025,11 +3025,11 @@
 "unverified": "2026-11-09"
 },
 "kei.ja.rawlh": {
-"chapters": 346,
+"chapters": 200,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 18,
+"pages": 17,
 "popular": 20,
 "sample": "Parallel Paradise - Raw",
 "status": "ok"
@@ -3168,11 +3168,11 @@
 "status": "partial"
 },
 "kei.pt.hanmokkuscan": {
-"chapters": 29,
+"chapters": 24,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 23,
+"pages": 4,
 "popular": 15,
 "sample": "I Reincarnated as a Minor Villain in My Favorite Game World – Using My Game Knowledge to Live Freely, I Somehow Ended Up Famous Everywhere",
 "status": "ok"
@@ -3228,14 +3228,14 @@
 "status": "partial"
 },
 "kei.pt.ler999": {
-"blocked": true,
-"chapters": 2,
+"chapters": 1,
 "checked": "2026-11-09",
+"image": "ok",
 "lastOk": "2026-11-09",
-"pages": 0,
+"pages": 19,
 "popular": 7,
 "sample": "What Level Are You, How Dare You Pretend in Front of My Seven Senior Sisters",
-"status": "partial"
+"status": "ok"
 },
 "kei.pt.littletyrant": {
 "chapters": 0,
@@ -3324,11 +3324,11 @@
 "status": "dead"
 },
 "kei.pt.pinkrosa": {
-"chapters": 91,
+"chapters": 22,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 17,
+"pages": 36,
 "popular": 20,
 "sample": "Tokimori-san ga Muboubi desu",
 "status": "ok"
@@ -3455,7 +3455,7 @@
 "status": "partial"
 },
 "kei.ru.mangachan": {
-"chapters": 262,
+"chapters": 0,
 "checked": "2026-11-09",
 "lastOk": "2026-11-09",
 "pages": 0,
@@ -4506,14 +4506,13 @@
 "status": "ok"
 },
 "otakio.bh3": {
-"chapters": 7,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 21,
-"popular": 23,
-"sample": "逃离长空篇",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "otakio.comicskingdom": {
 "chapters": 1,
@@ -4526,13 +4525,13 @@
 "status": "ok"
 },
 "otakio.desu": {
-"chapters": 52,
+"chapters": 89,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 32,
+"pages": 13,
 "popular": 20,
-"sample": "Вызов для Японии",
+"sample": "Хочу тебя съесть",
 "status": "ok"
 },
 "otakio.dongmanmanhua": {
@@ -4541,7 +4540,7 @@
 "image": "ok",
 "lastOk": "2026-11-09",
 "pages": 65,
-"popular": 1321,
+"popular": 1322,
 "sample": "如出一辙的女儿",
 "status": "ok"
 },
@@ -4577,14 +4576,13 @@
 "status": "ok"
 },
 "otakio.hentaiera": {
-"chapters": 1,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 238,
-"popular": 25,
-"sample": "[Chinjao Girl. (Kemuri Haku)] Toaru Daikazoku no Okazu Jijou ~Mamagawari Onee-chan Funtouki~ [English] [Amoskandy]",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "otakio.hentaifox": {
 "chapters": 1,
@@ -4617,13 +4615,13 @@
 "status": "ok"
 },
 "otakio.leercapitulo": {
-"chapters": 1274,
+"chapters": 601,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 17,
+"pages": 12,
 "popular": 24,
-"sample": "One Piece",
+"sample": "Eternal Deity",
 "status": "ok"
 },
 "otakio.mangadex": {
@@ -4647,11 +4645,11 @@
 "status": "ok"
 },
 "otakio.mangakakalot": {
-"chapters": 3877,
+"chapters": 1868,
 "checked": "2026-11-09",
 "image": "ok",
 "lastOk": "2026-11-09",
-"pages": 96,
+"pages": 10,
 "popular": 24,
 "sample": "Martial Peak",
 "status": "ok"
@@ -4667,14 +4665,13 @@
 "status": "ok"
 },
 "otakio.mangapill": {
-"chapters": 405,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 24,
-"popular": 10,
-"sample": "Berserk",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "otakio.mangatown": {
 "chapters": 400,
@@ -4809,14 +4806,13 @@
 "status": "ok"
 },
 "otakio.zonatmo": {
-"chapters": 222,
+"chapters": 0,
 "checked": "2026-11-09",
-"image": "ok",
+"deadSince": "2026-11-09",
 "lastOk": "2026-11-09",
-"pages": 9,
-"popular": 50,
-"sample": "Circles",
-"status": "ok"
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "yzn.en.kingofshojo": {
 "chapters": 130,
