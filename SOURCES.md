@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-10.
+Last automated check: 2026-11-11.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -239,11 +239,12 @@ Status:
 ## Portuguese (Brazil)
 
 <details>
-<summary>42 sources, 28 working</summary>
+<summary>42 sources, 30 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | Amuy | apenasmaisumyaoi.com | 🟢 works | keiyoushi theme |  |
+| Apenas Uma Fã | apenasuma-fa.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Arthur Scan | arthurscan.xyz | 🟢 works | keiyoushi theme |  |
 | Boruto Explorer | leitor.borutoexplorer.com.br | 🟢 works | keiyoushi theme |  |
 | Café com Yaoi | cafecomyaoi.com.br | 🟢 works | keiyoushi theme |  |
@@ -269,10 +270,10 @@ Status:
 | Tankou Hentai | tankouhentai.com | 🟢 works | keiyoushi theme | yes |
 | ToonBR | beta.toonbr.com | 🟢 works | native (Otakio) |  |
 | Traduções do Lipe | traducoesdolipe.blogspot.com | 🟢 works | keiyoushi theme |  |
+| Tsundoku Traduções | tsundoku.com.br | 🟢 works | keiyoushi theme |  |
 | Yaoi Fan Club | yaoifanclub.com | 🟢 works | keiyoushi theme |  |
 | Yuri on Air | yurionair.top | 🟢 works | keiyoushi theme |  |
 | Acervo Hentai | acervohentai.com | 🟡 partial | keiyoushi theme | yes |
-| Apenas Uma Fã | apenasuma-fa.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | FlowerManga.net | flowermangas.net | 🟡 partial | keiyoushi theme |  |
 | Kami Sama Explorer | leitor.kamisama.com.br | 🟡 partial | keiyoushi theme |  |
 | MR Tenzus | mrtenzus.com | 🟡 partial | keiyoushi theme | yes |
@@ -283,7 +284,6 @@ Status:
 | Portal Yaoi | portalyaoi.com | 🔴 down | keiyoushi theme | yes |
 | Temaki mangás | temakimangas.blogspot.com | 🔴 down | keiyoushi theme | yes |
 | Tia Manhwa | tiamanhwa.com | 🔴 down | keiyoushi theme | yes |
-| Tsundoku Traduções | tsundoku.com.br | 🔴 down | keiyoushi theme |  |
 | XXX Yaoi | 3xyaoi.com | 🔴 down | yuzono theme | yes |
 
 </details>
@@ -330,6 +330,7 @@ Status:
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | ManhwaOnline | manhwa-online.com | 🟡 partial | keiyoushi theme | yes |
 | Menudo-Fansub | www.menudo-fansub.com | 🟡 partial | keiyoushi theme |  |
+| Monopoly Scan | monopolymanhua.com | 🟡 partial | keiyoushi theme |  |
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | Ragnarok Scanlation | ragnarokscanlation.org | 🟡 partial | keiyoushi theme |  |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |
@@ -345,7 +346,6 @@ Status:
 | Mangas No Sekai | mangasnosekai.com | 🔴 down | keiyoushi theme |  |
 | Manhwa-Latino | manhwa-latino.com | 🔴 down | keiyoushi theme |  |
 | MHScans | mhscans.com | 🔴 down | keiyoushi theme |  |
-| Monopoly Scan | monopolymanhua.com | 🔴 down | keiyoushi theme |  |
 | Submanga | submangas.net | 🔴 down | NOBORU parser |  |
 | Toon-es | toon-es.com | 🔴 down | keiyoushi theme | yes |
 | Ver Manhwas | vermanhwa.com | 🔴 down | keiyoushi theme | yes |
