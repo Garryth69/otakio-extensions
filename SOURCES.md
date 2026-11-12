@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-11.
+Last automated check: 2026-11-12.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
