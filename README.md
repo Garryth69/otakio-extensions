@@ -34,9 +34,9 @@ tab offers it with one click.
 | [English](SOURCES.md#english) | 195 | 122 |
 | [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 42 | 30 |
 | [Spanish](SOURCES.md#spanish) | 55 | 30 |
-| [French](SOURCES.md#french) | 18 | 9 |
+| [French](SOURCES.md#french) | 18 | 8 |
 | [Italian](SOURCES.md#italian) | 13 | 8 |
-| [Russian](SOURCES.md#russian) | 14 | 8 |
+| [Russian](SOURCES.md#russian) | 14 | 9 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
 | **Total** | **360** | **224** |

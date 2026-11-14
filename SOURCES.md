@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-13.
+Last automated check: 2026-11-14.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -172,6 +172,7 @@ Status:
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
+| Mist Scans | mistscans.com | 🟡 partial | keiyoushi theme |  |
 | Nyanu Kafe | nyanukafe.com | 🟡 partial | keiyoushi theme |  |
 | Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟡 partial | keiyoushi theme |  |
 | Read Berserk Manga | readberserk.com | 🟡 partial | keiyoushi theme |  |
@@ -215,7 +216,6 @@ Status:
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
 | Manhwatop | manhwatop.com | 🔴 down | keiyoushi theme |  |
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
-| Mist Scans | mistscans.com | 🔴 down | keiyoushi theme |  |
 | MyHentaiGallery | myhentaigallery.com | 🔴 down | NOBORU parser | yes |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
@@ -356,14 +356,13 @@ Status:
 ## French
 
 <details>
-<summary>18 sources, 9 working</summary>
+<summary>18 sources, 8 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | AralosBD | aralosbd.fr | 🟢 works | native (Otakio) |  |
 | Blue Solo | bluesolo.org | 🟢 works | keiyoushi theme |  |
 | FMTEAM | fmteam.fr | 🟢 works | keiyoushi theme |  |
-| Harmony-Scan | harmony-scan.fr | 🟢 works | keiyoushi theme |  |
 | Hentai-Scantrad | hentai-scantrad.org | 🟢 works | keiyoushi theme | yes |
 | HistoireDHentai | hhentai.fr | 🟢 works | keiyoushi theme | yes |
 | Lelmanga | www.lelmanga.com | 🟢 works | keiyoushi theme |  |
@@ -371,6 +370,7 @@ Status:
 | Scantrad Union | scantrad-union.com | 🟢 works | native (Otakio) |  |
 | HentaiZone | hentaizone.xyz | 🟡 partial | keiyoushi theme | yes |
 | Pantheon Scan | pantheon-scan.com | 🟡 partial | keiyoushi theme |  |
+| Harmony-Scan | harmony-scan.fr | 🔴 down | keiyoushi theme |  |
 | Ma Brute | mabrute.com | 🔴 down | keiyoushi theme | yes |
 | Manga-Scantrad | manga-scantrad.io | 🔴 down | keiyoushi theme |  |
 | MangaHub.fr | mangahub.fr | 🔴 down | keiyoushi theme |  |
@@ -407,12 +407,13 @@ Status:
 ## Russian
 
 <details>
-<summary>14 sources, 8 working</summary>
+<summary>14 sources, 9 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | AComics | acomics.ru | 🟢 works | native (Otakio) |  |
 | Desu | desu.uno | 🟢 works | native (Otakio) |  |
+| MangaChan | im.manga-chan.me | 🟢 works | keiyoushi theme |  |
 | MangaLib | mangalib.me | 🟢 works | keiyoushi theme |  |
 | ReadManga | a.zazaza.me | 🟢 works | keiyoushi theme |  |
 | SeiManga | 1.seimanga.me | 🟢 works | keiyoushi theme |  |
@@ -421,7 +422,6 @@ Status:
 | Usagi | web.usagi.one | 🟢 works | keiyoushi theme |  |
 | AllHentai | 20.allhen.online | 🟡 partial | keiyoushi theme | yes |
 | HentaiLib | hentailib.me | 🟡 partial | keiyoushi theme | yes |
-| MangaChan | im.manga-chan.me | 🟡 partial | keiyoushi theme |  |
 | MintManga | 2.mintmanga.one | 🟡 partial | keiyoushi theme |  |
 | HenChan | xxl.hentaichan.live | 🔴 down | keiyoushi theme | yes |
 | YaoiChan | yaoi-chan.me | 🔴 down | keiyoushi theme | yes |
