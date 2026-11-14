@@ -1,7 +1,7 @@
 -- @id otakio.asurascans
 -- @name Asura Scans
 -- @lang en
--- @version 1
+-- @version 2
 -- @nsfw false
 -- @baseUrl https://asurascans.com
 -- Native Otakio extension: Asura Scans (popular English manhwa scanlator, public JSON API).
@@ -11,7 +11,7 @@ local BASE = "https://asurascans.com"
 local API = "https://api.asurascans.com/api"
 local LIMIT = 20
 
-local p = U.newParser({id = "OTAKIO_ASURASCANS", name = "Asura Scans", baseUrl = BASE, lang = "en", version = 1, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_ASURASCANS", name = "Asura Scans", baseUrl = BASE, lang = "en", version = 2, engine = "native"}, {})
 
 p.Filters = {
 	{Name = "Sort", Type = "radio", Tags = {"Popular", "Latest", "Rating", "A-Z"}}
@@ -105,6 +105,22 @@ function p:getChapters(manga, dt)
 end
 
 function p:prepareChapter(chapter, dt)
+	-- the public API lists the pages directly: /api/series/<slug>/chapters/<number>
+	local public, num = string.match(chapter.Link or "", "/comics/([^/?#]+)/chapter/([^/?#]+)")
+	if public then
+		local slug = string.gsub(public, "%-%w%w%w%w%w%w%w%w$", "")
+		local data = getJson(API .. "/series/" .. slug .. "/chapters/" .. num).data
+		local ch = type(data) == "table" and type(data.chapter) == "table" and data.chapter or nil
+		for _, pg in ipairs(ch and type(ch.pages) == "table" and ch.pages or {}) do
+			if type(pg) == "table" and str(pg.url) then
+				dt[#dt + 1] = Http.image(pg.url, BASE .. "/")
+			end
+		end
+		if #dt > 0 then
+			return
+		end
+	end
+	-- the chapter page itself (the site sometimes answers it with 403; the API above is the normal way)
 	local body = Http.get(BASE .. chapter.Link, U.headers(self))
 	-- Astro island props: "pages":[1,[[0,{"url":[0,"https://cdn..."], ...}], ...]]
 	for props in string.gmatch(body, 'props="([^"]*)"') do

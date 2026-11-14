@@ -1,7 +1,7 @@
 -- @id otakio.ninehentai
 -- @name 9Hentai
 -- @lang en
--- @version 2
+-- @version 3
 -- @nsfw true
 -- @baseUrl https://9hentai.so
 -- Native Otakio extension: 9Hentai (public JSON API; images on i.9hentai.so).
@@ -11,7 +11,7 @@ local U = Engines.util
 local BASE = "https://9hentai.so"
 local IMG = "https://i.9hentai.so/images"
 
-local p = U.newParser({id = "OTAKIO_NINEHENTAI", name = "9Hentai", baseUrl = BASE, lang = "en", version = 2, nsfw = true, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_NINEHENTAI", name = "9Hentai", baseUrl = BASE, lang = "en", version = 3, nsfw = true, engine = "native"}, {})
 
 local function H()
 	return {Referer = BASE .. "/", Origin = BASE, Accept = "application/json, text/plain, */*"}
@@ -30,7 +30,8 @@ local function search(text, page, sort, dt)
 	local count = 0
 	for _, m in ipairs(type(data.results) == "table" and data.results or {}) do
 		-- the cover: the first page (cover.jpg is missing for recent books, a 404 page the app can't show)
-		local server = type(m.image_server) == "string" and m.image_server:match("^https://[^/]+/images/$") and m.image_server:sub(1, -2) or IMG
+		-- image_server ends with "/" (gsub, not sub: older apps read sub(1, -2) the NOBORU way and kept the slash)
+		local server = type(m.image_server) == "string" and m.image_server:match("^https://[^/]+/images/$") and (m.image_server:gsub("/+$", "")) or IMG
 		if m.id and U.addManga(dt, p, tostring(m.title or m.id), BASE .. "/g/" .. m.id .. "/", Http.image(server .. "/" .. m.id .. "/1.jpg", BASE .. "/")) then
 			count = count + 1
 		end
