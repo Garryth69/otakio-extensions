@@ -8,6 +8,11 @@ check for more than 180 days), **site closed**, **opt-out** (the site owner aske
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|
+| 2026-11-14 | LeoManga | leomanga.me | domain now redirects to ad pages |
+| 2026-11-14 | Submanga | submangas.net | domain now redirects to ad pages |
+| 2026-11-14 | WebtoonScan | webtoonscan.com | site closed |
+| 2026-11-14 | Harmony-Scan | harmony-scan.fr | site closed |
+| 2026-11-14 | Hentai20 | hentai20.com | replaced by cursed.en.hentai20 |
 | 2026-11-09 | WitchScans | witchtoons.net | removed upstream |
 | 2026-11-08 | SamuraiScan | samurai.j5z.xyz | removed upstream |
 | 2026-11-03 | kei.en.anisascans |  | site closed |

@@ -461,12 +461,12 @@
 "kei.en.deathtollscans": {
 "chapters": 3,
 "checked": "2026-11-14",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-14",
 "pages": 6,
 "popular": 25,
 "sample": "A Diary of Embellished Patches",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.decadencescans": {
 "chapters": 64,
@@ -702,17 +702,13 @@
 },
 "kei.en.hentai4free": {
 "chapters": 1,
-"checked": "2026-11-02",
-"lastOk": "2026-11-02",
-"pages": 0,
-"pending": {
-"since": "2026-11-11",
-"status": "dead"
-},
+"checked": "2026-11-14",
+"image": "ok",
+"lastOk": "2026-11-14",
+"pages": 1,
 "popular": 20,
 "sample": "Milf Massage NTR♥",
-"status": "partial",
-"unverified": "2026-11-14"
+"status": "ok"
 },
 "kei.en.hentaidesi": {
 "chapters": 21,
@@ -1903,14 +1899,6 @@
 "sample": "Isekai Rakuraku Mujintou Life ~Class Ten’i de Craft Ability wo Eranda Ore Dake ga, Bishoujo Tachi to Slow Life wo Okureru-ppoi~",
 "status": "ok"
 },
-"kei.en.webtoonscan": {
-"chapters": 0,
-"checked": "2026-11-14",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "kei.en.webtoonxyz": {
 "chapters": 0,
 "checked": "2026-11-14",
@@ -2307,12 +2295,12 @@
 "kei.es.menudofansub": {
 "chapters": 50,
 "checked": "2026-11-14",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-14",
 "pages": 7,
 "popular": 25,
 "sample": "A channel",
-"status": "partial"
+"status": "ok"
 },
 "kei.es.mhscans": {
 "chapters": 0,
@@ -2502,15 +2490,6 @@
 "sample": "Ame to Muchi",
 "status": "ok",
 "unverified": "2026-11-14"
-},
-"kei.fr.bananascan": {
-"chapters": 0,
-"checked": "2026-11-14",
-"deadSince": "2026-11-11",
-"lastOk": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
 },
 "kei.fr.bluesolo": {
 "chapters": 75,
@@ -3047,12 +3026,14 @@
 "status": "dead"
 },
 "kei.it.juinjutsuteamreader": {
-"chapters": 0,
+"chapters": 65,
 "checked": "2026-11-14",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-14",
+"pages": 27,
+"popular": 30,
+"sample": "A Fairytale for the Demon Lord",
+"status": "ok"
 },
 "kei.it.lupiteam": {
 "chapters": 74,
@@ -3426,12 +3407,13 @@
 "status": "ok"
 },
 "kei.pt.littletyrant": {
-"chapters": 0,
+"chapters": 12,
 "checked": "2026-11-14",
-"deadSince": "2026-11-02",
+"lastOk": "2026-11-14",
 "pages": 0,
-"popular": 0,
-"status": "dead"
+"popular": 20,
+"sample": "Limite absoluto",
+"status": "partial"
 },
 "kei.pt.mangalivreto": {
 "chapters": 222,
@@ -3503,13 +3485,14 @@
 "status": "ok"
 },
 "kei.pt.noindexscan": {
-"chapters": 0,
+"chapters": 110,
 "checked": "2026-11-14",
-"deadSince": "2026-11-08",
-"lastOk": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-14",
+"pages": 37,
+"popular": 12,
+"sample": "Sextudy Group",
+"status": "ok"
 },
 "kei.pt.pinkrosa": {
 "chapters": 23,
@@ -4568,23 +4551,7 @@
 "popular": 0,
 "status": "dead"
 },
-"noboru.hentaitwentyeng": {
-"chapters": 0,
-"checked": "2026-11-14",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "noboru.inmangaspa": {
-"chapters": 0,
-"checked": "2026-11-14",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.leomangaspa": {
 "chapters": 0,
 "checked": "2026-11-14",
 "deadSince": "2026-11-08",
@@ -4641,14 +4608,6 @@
 "status": "dead"
 },
 "noboru.reaperscansen": {
-"chapters": 0,
-"checked": "2026-11-14",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.submangaspa": {
 "chapters": 0,
 "checked": "2026-11-14",
 "deadSince": "2026-11-08",

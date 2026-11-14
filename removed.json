@@ -214,5 +214,45 @@
   "origin": "keiyoushi",
   "date": "2026-11-09",
   "reason": "removed upstream"
+ },
+ {
+  "id": "noboru.leomangaspa",
+  "name": "LeoManga",
+  "baseUrl": "https://leomanga.me",
+  "origin": "noboru",
+  "date": "2026-11-14",
+  "reason": "domain now redirects to ad pages"
+ },
+ {
+  "id": "noboru.submangaspa",
+  "name": "Submanga",
+  "baseUrl": "https://submangas.net",
+  "origin": "noboru",
+  "date": "2026-11-14",
+  "reason": "domain now redirects to ad pages"
+ },
+ {
+  "id": "kei.en.webtoonscan",
+  "name": "WebtoonScan",
+  "baseUrl": "https://webtoonscan.com",
+  "origin": "keiyoushi",
+  "date": "2026-11-14",
+  "reason": "site closed"
+ },
+ {
+  "id": "kei.fr.bananascan",
+  "name": "Harmony-Scan",
+  "baseUrl": "https://harmony-scan.fr",
+  "origin": "keiyoushi",
+  "date": "2026-11-14",
+  "reason": "site closed"
+ },
+ {
+  "id": "noboru.hentaitwentyeng",
+  "name": "Hentai20",
+  "baseUrl": "https://hentai20.com",
+  "origin": "noboru",
+  "date": "2026-11-14",
+  "reason": "replaced by cursed.en.hentai20"
  }
 ]
