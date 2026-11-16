@@ -2,7 +2,7 @@
 Engines.Keyoapp {
 	id = "KEI_ENMISTSCANS",
 	name = "Mist Scans",
-	baseUrl = "https://mistscans.com",
+	baseUrl = "https://mistscans.org",
 	lang = "en",
 	version = 2,
 	nsfw = false,

@@ -1291,14 +1291,13 @@
 "status": "dead"
 },
 "kei.en.mistscans": {
-"chapters": 19,
-"checked": "2026-11-15",
-"image": "avif",
-"lastOk": "2026-11-15",
-"pages": 8,
-"popular": 214,
-"sample": "The Tyrant Girl Nero's Rebellion",
-"status": "partial"
+"chapters": 0,
+"checked": "2026-11-16",
+"cloudflare": true,
+"deadSince": "2026-11-16",
+"pages": 0,
+"popular": 0,
+"status": "dead"
 },
 "kei.en.murimscan": {
 "chapters": 4,
@@ -3487,9 +3486,9 @@
 },
 "kei.ru.readmanga": {
 "chapters": 241,
-"checked": "2026-11-15",
+"checked": "2026-11-16",
 "image": "ok",
-"lastOk": "2026-11-15",
+"lastOk": "2026-11-16",
 "pages": 19,
 "popular": 50,
 "sample": "Поднятие уровня в одиночку",

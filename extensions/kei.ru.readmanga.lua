@@ -2,7 +2,7 @@
 Engines.Grouple {
 	id = "KEI_RUREADMANGA",
 	name = "ReadManga",
-	baseUrl = "https://a.zazaza.me",
+	baseUrl = "https://b.zazaza.me",
 	lang = "ru",
 	version = 49,
 	nsfw = false,

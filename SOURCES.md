@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-15.
+Last automated check: 2026-11-16.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -182,7 +182,6 @@ Status:
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
-| Mist Scans | mistscans.com | 🟡 partial | keiyoushi theme |  |
 | Nyanu Kafe | nyanukafe.com | 🟡 partial | keiyoushi theme |  |
 | Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟡 partial | keiyoushi theme |  |
 | Read Black Clover Manga Online | ww10.readblackclover.com | 🟡 partial | keiyoushi theme |  |
@@ -217,6 +216,7 @@ Status:
 | Manhwa68 | manhwa68.com | 🔴 down | keiyoushi theme | yes |
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
+| Mist Scans | mistscans.org | 🔴 down | keiyoushi theme |  |
 | MyHentaiGallery | myhentaigallery.com | 🔴 down | NOBORU parser | yes |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
@@ -410,7 +410,7 @@ Status:
 | Desu | desu.uno | 🟢 works | native (Otakio) |  |
 | MangaChan | im.manga-chan.me | 🟢 works | keiyoushi theme |  |
 | MangaLib | mangalib.me | 🟢 works | keiyoushi theme |  |
-| ReadManga | a.zazaza.me | 🟢 works | keiyoushi theme |  |
+| ReadManga | b.zazaza.me | 🟢 works | keiyoushi theme |  |
 | SeiManga | 1.seimanga.me | 🟢 works | keiyoushi theme |  |
 | SelfManga | 1.selfmanga.live | 🟢 works | keiyoushi theme |  |
 | SlashLib | v2.shlib.life | 🟢 works | keiyoushi theme |  |
