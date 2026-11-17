@@ -12,15 +12,10 @@
 "kei.all.allporncomicsco": {
 "chapters": 0,
 "checked": "2026-11-17",
-"deadSince": "2026-11-02",
+"deadSince": "2026-11-17",
 "pages": 0,
-"pending": {
-"since": "2026-11-17",
+"popular": 0,
 "status": "dead"
-},
-"popular": 20,
-"sample": "🇺🇸",
-"status": "partial"
 },
 "kei.all.comicsvalley": {
 "chapters": 0,
@@ -163,6 +158,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 1,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 1,
 "sample": "Battle in 5 Seconds After Meeting",
 "status": "ok"
@@ -186,11 +185,11 @@
 "status": "dead"
 },
 "kei.en.bunmanga": {
-"chapters": 579,
+"chapters": 581,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 8,
+"pages": 1,
 "popular": 20,
 "sample": "Seize My Boyfriend",
 "status": "ok"
@@ -357,6 +356,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 1,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 1,
 "sample": "Frieren: Beyond Journey’s End",
 "status": "ok"
@@ -400,15 +403,10 @@
 "status": "dead"
 },
 "kei.en.gourmetscans": {
-"chapters": 0,
+"chapters": 201,
 "checked": "2026-11-17",
-"cloudflare": true,
-"deadSince": "2026-11-02",
+"lastOk": "2026-11-17",
 "pages": 0,
-"pending": {
-"since": "2026-11-17",
-"status": "dead"
-},
 "popular": 12,
 "sample": "It’s Time to Change the Genre",
 "status": "partial"
@@ -692,6 +690,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 12,
 "sample": "I Need to Raise My Sister Properly",
 "status": "ok"
@@ -948,13 +950,13 @@
 "status": "dead"
 },
 "kei.en.manhwabuddy": {
-"chapters": 26,
+"chapters": 153,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 17,
+"pages": 41,
 "popular": 24,
-"sample": "Affair Agency",
+"sample": "MILF Hunting In Another World Raw",
 "status": "ok"
 },
 "kei.en.manhwacomics": {
@@ -988,13 +990,13 @@
 "status": "ok"
 },
 "kei.en.manhwagalaxy": {
-"chapters": 231,
+"chapters": 153,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 15,
+"pages": 41,
 "popular": 24,
-"sample": "The Reincarnation of the Forbidden Archmage",
+"sample": "MILF Hunting In Another World Raw",
 "status": "ok"
 },
 "kei.en.manhwahubto": {
@@ -1290,11 +1292,11 @@
 "status": "ok"
 },
 "kei.en.readmanga18": {
-"chapters": 152,
+"chapters": 153,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 42,
+"pages": 41,
 "popular": 24,
 "sample": "MILF Hunting In Another World Raw",
 "status": "ok"
@@ -1385,7 +1387,7 @@
 "lastOk": "2026-11-17",
 "pages": 0,
 "popular": 20,
-"sample": "Marry Me, Alpha",
+"sample": "Introduction to the Theory of Love",
 "status": "partial"
 },
 "kei.en.rubycomics": {
@@ -1803,6 +1805,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 6,
+"pending": {
+"since": "2026-11-17",
+"status": "partial"
+},
 "popular": 20,
 "sample": "Una Historia Sobre Un Abuelo Y Abuela De Regreso A Su Juventud",
 "status": "ok"
@@ -1938,6 +1944,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 1,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 20,
 "sample": "Jinx",
 "status": "ok"
@@ -2133,6 +2143,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 25,
+"pending": {
+"since": "2026-11-17",
+"status": "partial"
+},
 "popular": 20,
 "sample": "Ame to Muchi",
 "status": "ok"
@@ -2244,13 +2258,14 @@
 "status": "partial"
 },
 "kei.fr.sushiscan": {
-"chapters": 0,
+"chapters": 293,
 "checked": "2026-11-17",
-"cloudflare": true,
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-17",
+"pages": 15,
+"popular": 30,
+"sample": "One Piece",
+"status": "ok"
 },
 "kei.fr.sushiscanfr": {
 "chapters": 0,
@@ -2354,13 +2369,14 @@
 "status": "ok"
 },
 "kei.it.shinobiscans": {
-"chapters": 0,
+"chapters": 78,
 "checked": "2026-11-17",
-"deadSince": "2026-11-17",
-"lastOk": "2026-11-14",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-17",
+"pages": 14,
+"popular": 20,
+"sample": "Overgeared",
+"status": "ok"
 },
 "kei.it.tuttoanimemanga": {
 "chapters": 500,
@@ -2476,6 +2492,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 42,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 20,
 "sample": "Minha Nova Família Me Trata Muito Bem",
 "status": "ok"
@@ -2486,6 +2506,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 9,
 "sample": "Yakuza Apaixonado",
 "status": "ok"
@@ -2556,6 +2580,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 6,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 20,
 "sample": "Jinx",
 "status": "ok"
@@ -2617,6 +2645,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 21,
+"pending": {
+"since": "2026-11-17",
+"status": "partial"
+},
 "popular": 20,
 "sample": "Evolução dos Animais de Estimação",
 "status": "ok"
@@ -2641,13 +2673,13 @@
 "status": "partial"
 },
 "kei.pt.ler999": {
-"chapters": 2,
+"chapters": 1,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 37,
+"pages": 19,
 "popular": 7,
-"sample": "Albanara of the Gods",
+"sample": "What Level Are You, How Dare You Pretend in Front of My Seven Senior Sisters",
 "status": "ok"
 },
 "kei.pt.littletyrant": {
@@ -2733,6 +2765,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 20,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 12,
 "sample": "Queen Bee",
 "status": "ok"
@@ -2817,6 +2853,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 17,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 18,
 "sample": "Parceiros Secretos",
 "status": "ok"
@@ -2858,13 +2898,14 @@
 "status": "partial"
 },
 "kei.ru.mangachan": {
-"chapters": 0,
+"chapters": 262,
 "checked": "2026-11-17",
-"deadSince": "2026-11-17",
-"lastOk": "2026-11-14",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-17",
+"pages": 56,
+"popular": 20,
+"sample": "Girl the Wild's",
+"status": "ok"
 },
 "kei.ru.mangalib": {
 "chapters": 313,
