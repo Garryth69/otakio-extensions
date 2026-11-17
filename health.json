@@ -79,7 +79,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 103,
+"pages": 89,
 "popular": 20,
 "sample": "Sinful Lust All Latest chapters",
 "status": "ok"
@@ -99,7 +99,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 19,
+"pages": 13,
 "popular": 14,
 "sample": "A Dragonslayer’s Peerless Regression",
 "status": "ok"
@@ -143,11 +143,11 @@
 "status": "ok"
 },
 "kei.en.athreascans": {
-"chapters": 82,
+"chapters": 53,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 11,
+"pages": 5,
 "popular": 35,
 "sample": "Falling",
 "status": "ok"
@@ -405,11 +405,11 @@
 "kei.en.gourmetscans": {
 "chapters": 201,
 "checked": "2026-11-17",
-"lastOk": "2026-11-17",
+"cloudflare": true,
+"deadSince": "2026-11-17",
 "pages": 0,
-"popular": 12,
-"sample": "It’s Time to Change the Genre",
-"status": "partial"
+"popular": 0,
+"status": "dead"
 },
 "kei.en.grimscans": {
 "chapters": 0,
@@ -474,8 +474,8 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 1,
-"popular": 20,
-"sample": "Milf Massage NTR♥",
+"popular": 22,
+"sample": "Kuraudo",
 "status": "ok"
 },
 "kei.en.hentaidesi": {
@@ -583,6 +583,10 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 12,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 24,
 "sample": "Magical ★ Explorer: Eroge no Yuujinkyara ni Tensei Shita kedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
 "status": "ok"
@@ -656,11 +660,11 @@
 "status": "dead"
 },
 "kei.en.lhtranslation": {
-"chapters": 139,
+"chapters": 140,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 20,
+"pages": 13,
 "popular": 20,
 "sample": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
 "status": "ok"
@@ -782,7 +786,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 29,
+"pages": 25,
 "popular": 17,
 "sample": "Great Heaven Sovereign",
 "status": "ok"
@@ -932,13 +936,13 @@
 "status": "dead"
 },
 "kei.en.manhwa18tx": {
-"chapters": 231,
+"chapters": 14,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 15,
+"pages": 14,
 "popular": 24,
-"sample": "The Reincarnation of the Forbidden Archmage",
+"sample": "A Magical Girl Never Loses!",
 "status": "ok"
 },
 "kei.en.manhwa68": {
@@ -950,13 +954,13 @@
 "status": "dead"
 },
 "kei.en.manhwabuddy": {
-"chapters": 153,
+"chapters": 14,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 41,
+"pages": 14,
 "popular": 24,
-"sample": "MILF Hunting In Another World Raw",
+"sample": "A Magical Girl Never Loses!",
 "status": "ok"
 },
 "kei.en.manhwacomics": {
@@ -970,13 +974,13 @@
 "status": "partial"
 },
 "kei.en.manhwaddict": {
-"chapters": 231,
+"chapters": 14,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 15,
+"pages": 14,
 "popular": 24,
-"sample": "The Reincarnation of the Forbidden Archmage",
+"sample": "A Magical Girl Never Loses!",
 "status": "ok"
 },
 "kei.en.manhwaden": {
@@ -990,13 +994,13 @@
 "status": "ok"
 },
 "kei.en.manhwagalaxy": {
-"chapters": 153,
+"chapters": 14,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 41,
+"pages": 14,
 "popular": 24,
-"sample": "MILF Hunting In Another World Raw",
+"sample": "A Magical Girl Never Loses!",
 "status": "ok"
 },
 "kei.en.manhwahubto": {
@@ -1038,7 +1042,7 @@
 "status": "ok"
 },
 "kei.en.manhwareads": {
-"chapters": 253,
+"chapters": 268,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
@@ -1087,13 +1091,13 @@
 "status": "dead"
 },
 "kei.en.mistscans": {
-"chapters": 12,
+"chapters": 19,
 "checked": "2026-11-17",
 "image": "avif",
 "lastOk": "2026-11-17",
-"pages": 8,
+"pages": 14,
 "popular": 216,
-"sample": "Horror RPG Maker Survival Log",
+"sample": "Survivalism",
 "status": "ok"
 },
 "kei.en.murimscan": {
@@ -1200,7 +1204,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 16,
+"pages": 15,
 "popular": 29,
 "sample": "Winning Shot!",
 "status": "ok"
@@ -1302,11 +1306,11 @@
 "status": "ok"
 },
 "kei.en.readnanatsunotaizai7deadlysinsmangaonline": {
-"chapters": 263,
+"chapters": 264,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 17,
+"pages": 19,
 "popular": 11,
 "sample": "Four Horsemen of the Apocalypse",
 "status": "ok"
@@ -1395,7 +1399,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 4,
+"pages": 1,
 "popular": 20,
 "sample": "Love by Mistake",
 "status": "ok"
@@ -1448,13 +1452,13 @@
 "status": "ok"
 },
 "kei.en.suryascans": {
-"chapters": 17,
+"chapters": 52,
 "checked": "2026-11-17",
 "image": "avif",
 "lastOk": "2026-11-17",
-"pages": 12,
+"pages": 14,
 "popular": 230,
-"sample": "Ode of the Brave",
+"sample": "The Tale of the Skeleton Messenger",
 "status": "ok"
 },
 "kei.en.thunderscans": {
@@ -1468,13 +1472,13 @@
 "status": "ok"
 },
 "kei.en.timelesstoons": {
-"chapters": 47,
+"chapters": 23,
 "checked": "2026-11-17",
 "image": "avif",
 "lastOk": "2026-11-17",
-"pages": 11,
+"pages": 6,
 "popular": 205,
-"sample": "My Older Brother Is a Mad Dog",
+"sample": "Beaten to Death: Now My Brothers Kneel and Beg for My Forgiveness",
 "status": "ok"
 },
 "kei.en.toongod": {
@@ -1585,11 +1589,11 @@
 "status": "ok"
 },
 "kei.en.violetscans": {
-"chapters": 259,
+"chapters": 260,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 10,
+"pages": 4,
 "popular": 30,
 "sample": "I’ll Be The Matriarch In This Life",
 "status": "ok"
@@ -1672,13 +1676,13 @@
 "status": "dead"
 },
 "kei.en.yaoiscanme": {
-"chapters": 6,
+"chapters": 3,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 27,
+"pages": 24,
 "popular": 24,
-"sample": "Calm Down, Doctor!",
+"sample": "Director, Don’t Go!",
 "status": "ok"
 },
 "kei.en.zazamanga": {
@@ -1854,11 +1858,11 @@
 "status": "ok"
 },
 "kei.es.inmortalscan": {
-"chapters": 57,
+"chapters": 109,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 10,
+"pages": 27,
 "popular": 20,
 "sample": "La admisión es una pérdida de tiempo",
 "status": "ok"
@@ -1884,13 +1888,13 @@
 "status": "ok"
 },
 "kei.es.leermanhwas": {
-"chapters": 156,
+"chapters": 37,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 4,
+"pages": 12,
 "popular": 24,
-"sample": "Cazador de milfs de otro mundo",
+"sample": "Lecciones para Novias",
 "status": "ok"
 },
 "kei.es.lolivault": {
@@ -2070,13 +2074,13 @@
 "status": "ok"
 },
 "kei.es.tmomanhwa": {
-"chapters": 156,
+"chapters": 37,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 4,
+"pages": 12,
 "popular": 24,
-"sample": "Cazador de milfs de otro mundo",
+"sample": "Lecciones para Novias",
 "status": "ok"
 },
 "kei.es.toones": {
@@ -3068,7 +3072,7 @@
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 23,
+"pages": 20,
 "popular": 20,
 "sample": "Overgeared",
 "status": "ok"
@@ -3094,13 +3098,13 @@
 "status": "ok"
 },
 "otakio.desu": {
-"chapters": 86,
+"chapters": 92,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 33,
+"pages": 18,
 "popular": 20,
-"sample": "Я стою на миллионах трупов",
+"sample": "Ночь дурака",
 "status": "ok"
 },
 "otakio.dongmanmanhua": {
@@ -3204,13 +3208,13 @@
 "status": "ok"
 },
 "otakio.leercapitulo": {
-"chapters": 603,
+"chapters": 434,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 13,
+"pages": 33,
 "popular": 24,
-"sample": "Eternal Deity",
+"sample": "Electricidad veloz",
 "status": "ok"
 },
 "otakio.mangadex": {
@@ -3414,7 +3418,7 @@
 "status": "ok"
 },
 "otakio.zonatmo": {
-"chapters": 249,
+"chapters": 199,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
