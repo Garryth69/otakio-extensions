@@ -116,13 +116,14 @@
 "status": "ok"
 },
 "kei.en.artlapsa": {
-"chapters": 17,
+"chapters": 5,
 "checked": "2026-11-17",
+"image": "ok",
 "lastOk": "2026-11-17",
-"pages": 0,
+"pages": 24,
 "popular": 20,
 "sample": "The Count’s Daughter Whose Fiancé Was Stolen Decides to Live Life on Her Own Terms",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.asmotoon": {
 "chapters": 0,
@@ -605,11 +606,12 @@
 "kei.en.kitsunedawn": {
 "chapters": 8,
 "checked": "2026-11-17",
+"image": "ok",
 "lastOk": "2026-11-17",
-"pages": 0,
+"pages": 33,
 "popular": 10,
 "sample": "I'm the Villainess Whose Engagement Is Being Broken Off, but the Prince Only Desires My Body",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.ksgroupscans": {
 "chapters": 133,
@@ -1352,13 +1354,14 @@
 "status": "ok"
 },
 "kei.en.ritharscans": {
-"chapters": 1,
+"chapters": 65,
 "checked": "2026-11-17",
+"image": "ok",
 "lastOk": "2026-11-17",
-"pages": 0,
+"pages": 23,
 "popular": 10,
 "sample": "Geemu Chuuban De Shinu Akuyaku Kizoku Ni Tensei Shita Node, Hazure Skill \"tame\" Wo Kushi Shite Saikyou Wo Mezashite Mita",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.rizzcomic": {
 "chapters": 127,
