@@ -14,6 +14,10 @@
 "checked": "2026-11-17",
 "deadSince": "2026-11-02",
 "pages": 0,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 20,
 "sample": "🇺🇸",
 "status": "partial"
@@ -182,11 +186,11 @@
 "status": "dead"
 },
 "kei.en.bunmanga": {
-"chapters": 238,
+"chapters": 579,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 6,
+"pages": 8,
 "popular": 20,
 "sample": "Seize My Boyfriend",
 "status": "ok"
@@ -194,25 +198,22 @@
 "kei.en.cartoonporn": {
 "chapters": 1,
 "checked": "2026-11-17",
+"image": "bad",
 "lastOk": "2026-11-17",
-"pages": 0,
+"pages": 15,
 "popular": 22,
 "sample": "Ghost Puberty (Danny Phantom) Animated Porn Comic [Milky Bunny]",
 "status": "partial"
 },
 "kei.en.cocomic": {
-"chapters": 48,
+"chapters": 105,
 "checked": "2026-11-17",
-"image": "ok",
+"image": "bad",
 "lastOk": "2026-11-17",
-"pages": 211,
-"pending": {
-"since": "2026-11-17",
-"status": "partial"
-},
-"popular": 24,
+"pages": 1,
+"popular": 20,
 "sample": "The Cheat Batter Takes All",
-"status": "ok"
+"status": "partial"
 },
 "kei.en.comicasura": {
 "chapters": 0,
@@ -361,11 +362,11 @@
 "status": "ok"
 },
 "kei.en.gakamangas": {
-"chapters": 4,
+"chapters": 7,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 2,
+"pages": 18,
 "popular": 10,
 "sample": "Battle of anime’s strongest",
 "status": "ok"
@@ -404,6 +405,10 @@
 "cloudflare": true,
 "deadSince": "2026-11-02",
 "pages": 0,
+"pending": {
+"since": "2026-11-17",
+"status": "dead"
+},
 "popular": 12,
 "sample": "It’s Time to Change the Genre",
 "status": "partial"
@@ -626,12 +631,12 @@
 "kei.en.kunmangaonline": {
 "chapters": 2000,
 "checked": "2026-11-17",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
 "popular": 12,
 "sample": "Tales of Demons and Gods",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.lagoonscans": {
 "chapters": 49,
@@ -687,14 +692,9 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
-"pending": {
-"since": "2026-11-15",
-"status": "dead"
-},
 "popular": 12,
 "sample": "I Need to Raise My Sister Properly",
-"status": "ok",
-"unverified": "2026-11-16"
+"status": "ok"
 },
 "kei.en.lunatoons": {
 "chapters": 0,
@@ -874,11 +874,11 @@
 "status": "ok"
 },
 "kei.en.manhuanext": {
-"chapters": 282,
+"chapters": 96,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 73,
+"pages": 12,
 "popular": 20,
 "sample": "The Yellow-Haired Villain in the Female Main Character’s Novel Wants Happiness",
 "status": "ok"
@@ -930,13 +930,13 @@
 "status": "dead"
 },
 "kei.en.manhwa18tx": {
-"chapters": 127,
+"chapters": 231,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 18,
+"pages": 15,
 "popular": 24,
-"sample": "Myst, Might, Mayhem",
+"sample": "The Reincarnation of the Forbidden Archmage",
 "status": "ok"
 },
 "kei.en.manhwa68": {
@@ -948,13 +948,13 @@
 "status": "dead"
 },
 "kei.en.manhwabuddy": {
-"chapters": 16,
+"chapters": 26,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 17,
 "popular": 24,
-"sample": "Half-Animal Half-Human Pets",
+"sample": "Affair Agency",
 "status": "ok"
 },
 "kei.en.manhwacomics": {
@@ -968,13 +968,13 @@
 "status": "partial"
 },
 "kei.en.manhwaddict": {
-"chapters": 127,
+"chapters": 231,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 18,
+"pages": 15,
 "popular": 24,
-"sample": "Myst, Might, Mayhem",
+"sample": "The Reincarnation of the Forbidden Archmage",
 "status": "ok"
 },
 "kei.en.manhwaden": {
@@ -983,22 +983,18 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 1,
-"pending": {
-"since": "2026-11-16",
-"status": "dead"
-},
 "popular": 10,
 "sample": "Jinx Season 2",
 "status": "ok"
 },
 "kei.en.manhwagalaxy": {
-"chapters": 127,
+"chapters": 231,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 18,
+"pages": 15,
 "popular": 24,
-"sample": "Myst, Might, Mayhem",
+"sample": "The Reincarnation of the Forbidden Archmage",
 "status": "ok"
 },
 "kei.en.manhwahubto": {
@@ -1128,11 +1124,11 @@
 "status": "dead"
 },
 "kei.en.nyanukafe": {
-"chapters": 88,
+"chapters": 61,
 "checked": "2026-11-17",
 "image": "avif",
 "lastOk": "2026-11-17",
-"pages": 29,
+"pages": 13,
 "popular": 6,
 "sample": "Too Many Losing Heroines!",
 "status": "ok"
@@ -1334,11 +1330,11 @@
 "status": "ok"
 },
 "kei.en.readsololevelingmangamanhwaonline": {
-"chapters": 77,
+"chapters": 202,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 46,
+"pages": 58,
 "popular": 4,
 "sample": "Solo Leveling Manhwa",
 "status": "ok"
@@ -1384,12 +1380,12 @@
 "status": "ok"
 },
 "kei.en.rosesquadscans": {
-"chapters": 3,
+"chapters": 1,
 "checked": "2026-11-17",
 "lastOk": "2026-11-17",
 "pages": 0,
 "popular": 20,
-"sample": "I’ll Be Managing Your Desires",
+"sample": "Marry Me, Alpha",
 "status": "partial"
 },
 "kei.en.rubycomics": {
@@ -1541,12 +1537,12 @@
 "kei.en.topmanhuafan": {
 "chapters": 2160,
 "checked": "2026-11-17",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
 "popular": 12,
 "sample": "Tales of Demons and Gods",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.topmanhuanet": {
 "chapters": 193,
@@ -1686,12 +1682,12 @@
 "kei.en.zazamanga": {
 "chapters": 2160,
 "checked": "2026-11-17",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
 "popular": 24,
 "sample": "Tales of Demons and Gods on ZazaManga",
-"status": "partial"
+"status": "ok"
 },
 "kei.en.zinmanga": {
 "chapters": 661,
@@ -1706,12 +1702,12 @@
 "kei.en.zinmanganet": {
 "chapters": 2000,
 "checked": "2026-11-17",
-"image": "bad",
+"image": "ok",
 "lastOk": "2026-11-17",
 "pages": 9,
 "popular": 12,
 "sample": "Tales of Demons and Gods",
-"status": "partial"
+"status": "ok"
 },
 "kei.es.apollcomics": {
 "chapters": 50,
@@ -1724,11 +1720,11 @@
 "status": "partial"
 },
 "kei.es.asialotus": {
-"chapters": 31,
+"chapters": 127,
 "checked": "2026-11-17",
 "image": "bad",
 "lastOk": "2026-11-17",
-"pages": 17,
+"pages": 20,
 "popular": 20,
 "sample": "Lluvia de Verano",
 "status": "partial"
@@ -1758,10 +1754,6 @@
 "image": "bad",
 "lastOk": "2026-11-17",
 "pages": 4,
-"pending": {
-"since": "2026-11-16",
-"status": "partial"
-},
 "popular": 50,
 "sample": "Jardín de Mayo (Novela)",
 "status": "partial"
@@ -1801,10 +1793,6 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 36,
-"pending": {
-"since": "2026-11-16",
-"status": "partial"
-},
 "popular": 20,
 "sample": "Smoky Nectar Renew",
 "status": "ok"
@@ -1815,10 +1803,6 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 6,
-"pending": {
-"since": "2026-11-16",
-"status": "partial"
-},
 "popular": 20,
 "sample": "Una Historia Sobre Un Abuelo Y Abuela De Regreso A Su Juventud",
 "status": "ok"
@@ -1894,13 +1878,13 @@
 "status": "ok"
 },
 "kei.es.leermanhwas": {
-"chapters": 213,
+"chapters": 156,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 18,
+"pages": 4,
 "popular": 24,
-"sample": "Maestra, este Discípulo Villano no puede ser el Hijo Sagrado",
+"sample": "Cazador de milfs de otro mundo",
 "status": "ok"
 },
 "kei.es.lolivault": {
@@ -1949,13 +1933,14 @@
 "status": "dead"
 },
 "kei.es.manhwaonline": {
-"chapters": 0,
+"chapters": 117,
 "checked": "2026-11-17",
+"image": "ok",
 "lastOk": "2026-11-17",
-"pages": 0,
+"pages": 1,
 "popular": 20,
 "sample": "Jinx",
-"status": "partial"
+"status": "ok"
 },
 "kei.es.marmota": {
 "chapters": 27,
@@ -2075,13 +2060,13 @@
 "status": "ok"
 },
 "kei.es.tmomanhwa": {
-"chapters": 44,
+"chapters": 156,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 37,
+"pages": 4,
 "popular": 24,
-"sample": "Kyouran Reijou Nia Liston",
+"sample": "Cazador de milfs de otro mundo",
 "status": "ok"
 },
 "kei.es.toones": {
@@ -2587,11 +2572,11 @@
 "status": "partial"
 },
 "kei.pt.galaxscanlator": {
-"chapters": 63,
+"chapters": 35,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 11,
+"pages": 20,
 "popular": 14,
 "sample": "Savage Hero",
 "status": "ok"
@@ -2743,13 +2728,13 @@
 "status": "partial"
 },
 "kei.pt.noindexscan": {
-"chapters": 110,
+"chapters": 349,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 37,
+"pages": 20,
 "popular": 12,
-"sample": "Sextudy Group",
+"sample": "Queen Bee",
 "status": "ok"
 },
 "kei.pt.pinkrosa": {
@@ -3053,10 +3038,6 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 21,
-"pending": {
-"since": "2026-11-17",
-"status": "dead"
-},
 "popular": 23,
 "sample": "逃离长空篇",
 "status": "ok"
@@ -3072,13 +3053,13 @@
 "status": "ok"
 },
 "otakio.desu": {
-"chapters": 79,
+"chapters": 86,
 "checked": "2026-11-17",
 "image": "ok",
 "lastOk": "2026-11-17",
-"pages": 14,
+"pages": 33,
 "popular": 20,
-"sample": "Палач",
+"sample": "Я стою на миллионах трупов",
 "status": "ok"
 },
 "otakio.dongmanmanhua": {
@@ -3087,10 +3068,6 @@
 "image": "ok",
 "lastOk": "2026-11-17",
 "pages": 65,
-"pending": {
-"since": "2026-11-17",
-"status": "partial"
-},
 "popular": 1323,
 "sample": "如出一辙的女儿",
 "status": "ok"
