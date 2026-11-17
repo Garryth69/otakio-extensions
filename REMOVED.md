@@ -8,6 +8,12 @@ check for more than 180 days), **site closed**, **opt-out** (the site owner aske
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|
+| 2026-11-17 | MyHentaiGallery | myhentaigallery.com | replaced by native otakio.myhentaigallery |
+| 2026-11-17 | Readm | readm.today | site closed (parked domain) |
+| 2026-11-17 | HeavenManga | heavenmanga.com | replaced by native otakio.heavenmanga |
+| 2026-11-17 | InManga | inmanga.com | replaced by native otakio.inmanga |
+| 2026-11-17 | LeoMangas | leomangas.xyz | site closed (parked domain) |
+| 2026-11-17 | VerComicsPorno | vercomicsporno.xxx | replaced by native otakio.vercomicsporno |
 | 2026-11-14 | LeoManga | leomanga.me | domain now redirects to ad pages |
 | 2026-11-14 | Submanga | submangas.net | domain now redirects to ad pages |
 | 2026-11-14 | WebtoonScan | webtoonscan.com | site closed |

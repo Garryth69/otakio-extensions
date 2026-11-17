@@ -254,5 +254,53 @@
   "origin": "noboru",
   "date": "2026-11-14",
   "reason": "replaced by cursed.en.hentai20"
+ },
+ {
+  "id": "noboru.myhentaigalleryen",
+  "name": "MyHentaiGallery",
+  "baseUrl": "https://myhentaigallery.com",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "replaced by native otakio.myhentaigallery"
+ },
+ {
+  "id": "noboru.readmtodayeng",
+  "name": "Readm",
+  "baseUrl": "https://readm.today",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "site closed (parked domain)"
+ },
+ {
+  "id": "noboru.heavenmangaesp",
+  "name": "HeavenManga",
+  "baseUrl": "https://heavenmanga.com",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "replaced by native otakio.heavenmanga"
+ },
+ {
+  "id": "noboru.inmangaspa",
+  "name": "InManga",
+  "baseUrl": "https://inmanga.com",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "replaced by native otakio.inmanga"
+ },
+ {
+  "id": "noboru.leomangasspa",
+  "name": "LeoMangas",
+  "baseUrl": "https://leomangas.xyz",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "site closed (parked domain)"
+ },
+ {
+  "id": "noboru.vercomicspornoesp",
+  "name": "VerComicsPorno",
+  "baseUrl": "https://vercomicsporno.xxx",
+  "origin": "noboru",
+  "date": "2026-11-17",
+  "reason": "replaced by native otakio.vercomicsporno"
  }
 ]
