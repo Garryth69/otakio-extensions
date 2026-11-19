@@ -34,7 +34,7 @@ Status:
 ## English
 
 <details>
-<summary>192 sources, 148 working</summary>
+<summary>192 sources, 147 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -54,6 +54,7 @@ Status:
 | Athrea Scans | athreascans.com | 🟢 works | keiyoushi theme |  |
 | Battle In 5 Seconds After Meeting | www.deatte5.com | 🟢 works | keiyoushi theme |  |
 | Bun Manga | bunmanga.com | 🟢 works | keiyoushi theme |  |
+| CartoonPorn | cartoonporn.to | 🟢 works | keiyoushi theme | yes |
 | Cocomic | cocomic.co | 🟢 works | keiyoushi theme |  |
 | Cucumber Manga | cucumbermanga.com | 🟢 works | keiyoushi theme | yes |
 | Danke fürs Lesen | danke.moe | 🟢 works | keiyoushi theme |  |
@@ -107,7 +108,6 @@ Status:
 | Mangaforfree.com | mangaforfree.com | 🟢 works | keiyoushi theme | yes |
 | MangaGG | mangagg.com | 🟢 works | keiyoushi theme |  |
 | MangaK | mangak.io | 🟢 works | keiyoushi theme |  |
-| Mangakakalot | www.kakamanga.com | 🟢 works | native (Otakio) |  |
 | MangaKatana | mangakatana.com | 🟢 works | native (Otakio) |  |
 | MangaManiacs | mangamaniacs.org | 🟢 works | yuzono theme | yes |
 | MangaOwl.io (unoriginal) | mangaowl.io | 🟢 works | keiyoushi theme |  |
@@ -121,7 +121,6 @@ Status:
 | ManhuaHot | manhuahot.com | 🟢 works | keiyoushi theme |  |
 | Manhuanext | manhuanext.com | 🟢 works | keiyoushi theme |  |
 | Manhwa Reads | manhwareads.com | 🟢 works | keiyoushi theme |  |
-| Manhwa Toon | www.manhwatoon.me | 🟢 works | keiyoushi theme |  |
 | Manhwa18.cc | manhwa18.cc | 🟢 works | keiyoushi theme | yes |
 | Manhwa18TX | manhwa18tx.com | 🟢 works | keiyoushi theme |  |
 | ManhwaBuddy | manhwabuddy.com | 🟢 works | keiyoushi theme |  |
@@ -186,7 +185,6 @@ Status:
 | YaoiScan (Unoriginal) | yaoiscan.me | 🟢 works | keiyoushi theme |  |
 | Zazamanga | www.zazamanga.com | 🟢 works | keiyoushi theme |  |
 | Zinmanga.net | www.zinmanga.net | 🟢 works | keiyoushi theme |  |
-| CartoonPorn | cartoonporn.to | 🟡 partial | keiyoushi theme | yes |
 | Gourmet Scans | gourmetsupremacy.com | 🟡 partial | keiyoushi theme |  |
 | KaliScan.org (unoriginal) | kaliscan.org | 🟡 partial | keiyoushi theme |  |
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
@@ -213,8 +211,10 @@ Status:
 | LinkManga | linkmanga.com | 🔴 down | yuzono theme |  |
 | Luna Toons | lunatoons.net | 🔴 down | keiyoushi theme |  |
 | MangaHub | mangahub.io | 🔴 down | NOBORU parser |  |
+| Mangakakalot | www.kakamanga.com | 🔴 down | native (Otakio) |  |
 | Manhua Zonghe | www.manhuazonghe.com | 🔴 down | keiyoushi theme | yes |
 | ManhuaUS | manhuaus.com | 🔴 down | keiyoushi theme |  |
+| Manhwa Toon | www.manhwatoon.me | 🔴 down | keiyoushi theme |  |
 | Manhwa18.today | www.manhwa18.today | 🔴 down | keiyoushi theme | yes |
 | Manhwa68 | manhwa68.com | 🔴 down | keiyoushi theme | yes |
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
@@ -288,13 +288,14 @@ Status:
 ## Spanish
 
 <details>
-<summary>52 sources, 33 working</summary>
+<summary>52 sources, 34 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
 | Bymichi Scan | bymichiby.com | 🟢 works | keiyoushi theme | yes |
 | Cerberus Series | legionscans.com/wp | 🟢 works | keiyoushi theme |  |
 | Dark Room Fansub | lector-darkroomfansub.blogspot.com | 🟢 works | keiyoushi theme | yes |
+| Dat-Gar Scan | datgarscanlation.blogspot.com | 🟢 works | keiyoushi theme |  |
 | DoujinsHell | doujinshell.net | 🟢 works | keiyoushi theme | yes |
 | DragonTranslation.org | dragontranslation.org | 🟢 works | yuzono theme |  |
 | Hades no Fansub | lectorhades.latamtoon.com | 🟢 works | keiyoushi theme |  |
@@ -328,7 +329,6 @@ Status:
 | ApollComics | apollcomics.es | 🟡 partial | keiyoushi theme | yes |
 | Asia Lotus | asialotuss.com | 🟡 partial | keiyoushi theme | yes |
 | Bloom Scans | bloomscans.com | 🟡 partial | keiyoushi theme |  |
-| Dat-Gar Scan | datgarscanlation.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |

@@ -31,9 +31,9 @@ tab offers it with one click.
 | Language | Sources | 🟢 working |
 |---|---:|---:|
 | [Multi-language](SOURCES.md#multi-language) | 9 | 5 |
-| [English](SOURCES.md#english) | 192 | 148 |
+| [English](SOURCES.md#english) | 192 | 147 |
 | [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 42 | 30 |
-| [Spanish](SOURCES.md#spanish) | 52 | 33 |
+| [Spanish](SOURCES.md#spanish) | 52 | 34 |
 | [French](SOURCES.md#french) | 17 | 8 |
 | [Italian](SOURCES.md#italian) | 13 | 9 |
 | [Russian](SOURCES.md#russian) | 14 | 9 |
