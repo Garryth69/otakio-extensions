@@ -4,7 +4,8 @@ Engines.Keyoapp {
 	name = "Asmodeus Scans",
 	baseUrl = "https://asmotoon.com",
 	lang = "en",
-	version = 5,
+	version = 6,
 	nsfw = false,
 	extension = "kei.en.asmotoon",
+	v2 = true,
 }

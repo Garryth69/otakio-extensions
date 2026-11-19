@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-18.
+Last automated check: 2026-11-19.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -24,7 +24,7 @@ Status:
 | MangaCrazy | mangacrazy.net | 🟢 works | keiyoushi theme | yes |
 | MangaDex | mangadex.org | 🟢 works | native (Otakio) |  |
 | Webtoons | www.webtoons.com | 🟢 works | native (Otakio) |  |
-| AllPornComics.co | allporncomics.co | 🔴 down | keiyoushi theme | yes |
+| AllPornComics.co | allporncomics.co | 🟡 partial | keiyoushi theme | yes |
 | Comics Valley | comicsvalley.com | 🔴 down | keiyoushi theme | yes |
 | HentaiRead | hentairead.com | 🔴 down | NOBORU parser | yes |
 | Manhwa-raw | manhwa-raw.com | 🔴 down | keiyoushi theme | yes |
@@ -34,7 +34,7 @@ Status:
 ## English
 
 <details>
-<summary>192 sources, 146 working</summary>
+<summary>192 sources, 148 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -48,6 +48,7 @@ Status:
 | Arena Scans | arenascan.com | 🟢 works | keiyoushi theme |  |
 | Art Lapsa | artlapsa.com | 🟢 works | keiyoushi theme |  |
 | AsmHentai | asmhentai.com | 🟢 works | native (Otakio) | yes |
+| Asmodeus Scans | asmotoon.com | 🟢 works | keiyoushi theme |  |
 | Aster Scans | asterscans.com | 🟢 works | keiyoushi theme |  |
 | Asura Scans | asurascans.com | 🟢 works | native (Otakio) |  |
 | Athrea Scans | athreascans.com | 🟢 works | keiyoushi theme |  |
@@ -132,7 +133,6 @@ Status:
 | ManhwaOnline | manhwaonline.org | 🟢 works | keiyoushi theme |  |
 | Manhwatop | manhwatop.com | 🟢 works | keiyoushi theme |  |
 | ManhwaUS | manhwaus.net | 🟢 works | keiyoushi theme | yes |
-| Mist Scans | mistscans.com | 🟢 works | keiyoushi theme |  |
 | Multporn | multporn.net | 🟢 works | native (Otakio) | yes |
 | MurimScan | www.murimscans.site | 🟢 works | keiyoushi theme |  |
 | MyHentaiGallery | myhentaigallery.com | 🟢 works | native (Otakio) | yes |
@@ -164,6 +164,7 @@ Status:
 | S2Manga | s2read.com | 🟢 works | keiyoushi theme |  |
 | Scythe Scans | scythescans.com | 🟢 works | keiyoushi theme |  |
 | SeraphicDeviltry | seraphic-deviltry.com | 🟢 works | keiyoushi theme | yes |
+| Siren Scans | sirenscans.com | 🟢 works | keiyoushi theme |  |
 | Sleepy Translations | sleepytranslations.com | 🟢 works | keiyoushi theme |  |
 | Thunder Scans | en-thunderscans.com | 🟢 works | keiyoushi theme |  |
 | TimelessToons | timelesstoons.org | 🟢 works | keiyoushi theme |  |
@@ -173,6 +174,7 @@ Status:
 | Toonizy | toonizy.com | 🟢 works | keiyoushi theme |  |
 | Top Manhua | mangatop.org | 🟢 works | keiyoushi theme |  |
 | TopManhua.fan | www.topmanhua.fan | 🟢 works | keiyoushi theme |  |
+| Tower Of God Manga Online | w85.thetowerofgod.com | 🟢 works | keiyoushi theme |  |
 | TritiniaScans | tritinia.org | 🟢 works | keiyoushi theme |  |
 | Valir Scans | valirscans.org | 🟢 works | keiyoushi theme |  |
 | Violet Scans | violetmanga.com | 🟢 works | keiyoushi theme |  |
@@ -195,7 +197,6 @@ Status:
 | Rose Squad Scans | rosesquadscans.aishiteru.org | 🟡 partial | keiyoushi theme | yes |
 | TopManhua.net | topmanhua.net | 🟡 partial | keiyoushi theme |  |
 | Zinmanga | mangazin.org | 🟡 partial | keiyoushi theme |  |
-| Asmodeus Scans | asmotoon.com | 🔴 down | keiyoushi theme |  |
 | Borat Scans | boratscans.com | 🔴 down | keiyoushi theme |  |
 | BrainRotComics | brainrotcomics.com | 🔴 down | keiyoushi theme |  |
 | Comic Asura | comicasura.net | 🔴 down | keiyoushi theme |  |
@@ -218,15 +219,14 @@ Status:
 | Manhwa68 | manhwa68.com | 🔴 down | keiyoushi theme | yes |
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
+| Mist Scans | mistscans.org | 🔴 down | keiyoushi theme |  |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
 | ReadComicsOnline | readcomicsonline.ru | 🔴 down | NOBORU parser |  |
 | Reaper Scans | reaperscans.com | 🔴 down | NOBORU parser |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
-| Siren Scans | sirenscans.com | 🔴 down | keiyoushi theme |  |
 | ToonGod | www.toongod.org | 🔴 down | keiyoushi theme |  |
-| Tower Of God Manga Online | w85.thetowerofgod.com | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
 | Wildtoon | wildtoon.com | 🔴 down | keiyoushi theme | yes |
 | YaoiScan | yaoiscan.com | 🔴 down | keiyoushi theme |  |
@@ -236,7 +236,7 @@ Status:
 ## Portuguese (Brazil)
 
 <details>
-<summary>42 sources, 29 working</summary>
+<summary>42 sources, 30 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -249,6 +249,7 @@ Status:
 | Coven Scan | covendasbruxonas.com | 🟢 works | keiyoushi theme | yes |
 | Euphoria Scan | euphoriascan.com | 🟢 works | keiyoushi theme | yes |
 | GALAX Scans | galaxscanlator.blogspot.com | 🟢 works | keiyoushi theme |  |
+| Hanami Heaven | hanamiheaven.org | 🟢 works | keiyoushi theme | yes |
 | Hanmokku Scan | hanmokkuscan.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hentai Teca | hentaiteca.online | 🟢 works | keiyoushi theme | yes |
 | Hot Cabaret Scan | hotcabaretscan.com | 🟢 works | keiyoushi theme |  |
@@ -276,7 +277,6 @@ Status:
 | Nocturne Summer | nocfsb.com | 🟡 partial | keiyoushi theme |  |
 | Pink Sea Unicorn | psunicorn.com | 🟡 partial | keiyoushi theme | yes |
 | Fleur Blanche | fbsscan.com | 🔴 down | keiyoushi theme | yes |
-| Hanami Heaven | hanamiheaven.org | 🔴 down | keiyoushi theme | yes |
 | MiniTwo Scan | minitwoscan.com | 🔴 down | keiyoushi theme |  |
 | Portal Yaoi | portalyaoi.com | 🔴 down | keiyoushi theme | yes |
 | Temaki mangás | temakimangas.blogspot.com | 🔴 down | keiyoushi theme | yes |

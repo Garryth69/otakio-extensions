@@ -4,9 +4,9 @@ Engines.MangaCatalog {
 	name = "Tower Of God Manga Online",
 	baseUrl = "https://w85.thetowerofgod.com",
 	lang = "en",
-	version = 1,
+	version = 2,
 	nsfw = false,
 	extension = "kei.en.towerofgodmangaonline",
 	chapterListSelector = "a[href*='/manga/tower-of-god-chapter-']",
-	sourceList = {},
+	sourceList = {{"Tower of God", ""}},
 }

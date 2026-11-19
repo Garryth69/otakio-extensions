@@ -2,10 +2,10 @@
 Engines.Keyoapp {
 	id = "KEI_ENMISTSCANS",
 	name = "Mist Scans",
-	baseUrl = "https://mistscans.com",
+	baseUrl = "https://mistscans.org",
 	lang = "en",
-	version = 2,
+	version = 3,
 	nsfw = false,
 	extension = "kei.en.mistscans",
-	popularMangaSelector = ".series-splide .splide__slide",
+	v2 = true,
 }

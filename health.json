@@ -11,11 +11,12 @@
 },
 "kei.all.allporncomicsco": {
 "chapters": 0,
-"checked": "2026-11-18",
-"deadSince": "2026-11-17",
+"checked": "2026-11-19",
+"lastOk": "2026-11-19",
 "pages": 0,
-"popular": 0,
-"status": "dead"
+"popular": 20,
+"sample": "🇺🇸",
+"status": "partial"
 },
 "kei.all.comicsvalley": {
 "chapters": 0,
@@ -116,21 +117,23 @@
 },
 "kei.en.artlapsa": {
 "chapters": 5,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "ok",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 24,
 "popular": 20,
 "sample": "The Count’s Daughter Whose Fiancé Was Stolen Decides to Live Life on Her Own Terms",
 "status": "ok"
 },
 "kei.en.asmotoon": {
-"chapters": 0,
-"checked": "2026-11-18",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 16,
+"checked": "2026-11-19",
+"image": "avif",
+"lastOk": "2026-11-19",
+"pages": 32,
+"popular": 20,
+"sample": "The Lazy Aristocrat",
+"status": "ok"
 },
 "kei.en.asterscans": {
 "chapters": 15,
@@ -304,9 +307,9 @@
 },
 "kei.en.erisscans": {
 "chapters": 49,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "avif",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 12,
 "popular": 12,
 "sample": "Obedient Pregnancy",
@@ -398,7 +401,7 @@
 },
 "kei.en.gingertoon": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-02",
 "pages": 0,
 "popular": 0,
@@ -415,7 +418,7 @@
 },
 "kei.en.grimscans": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-12",
 "lastOk": "2026-11-11",
 "pages": 0,
@@ -552,7 +555,7 @@
 },
 "kei.en.kaizenscan": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "cloudflare": true,
 "deadSince": "2026-11-02",
 "pages": 0,
@@ -581,7 +584,7 @@
 },
 "kei.en.keroscans": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-17",
 "lastOk": "2026-11-17",
 "pages": 0,
@@ -590,9 +593,9 @@
 },
 "kei.en.kewnscans": {
 "chapters": 35,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "ok",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 25,
 "popular": 7,
 "sample": "Snow Mountain Monster Princess - Season 1",
@@ -609,9 +612,9 @@
 },
 "kei.en.kitsunedawn": {
 "chapters": 8,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "ok",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 33,
 "popular": 10,
 "sample": "I'm the Villainess Whose Engagement Is Being Broken Off, but the Prince Only Desires My Body",
@@ -702,7 +705,7 @@
 },
 "kei.en.lunatoons": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "cloudflare": true,
 "deadSince": "2026-11-02",
 "pages": 0,
@@ -1087,7 +1090,7 @@
 },
 "kei.en.meitoon": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "cloudflare": true,
 "deadSince": "2026-11-02",
 "pages": 0,
@@ -1095,18 +1098,14 @@
 "status": "dead"
 },
 "kei.en.mistscans": {
-"chapters": 19,
-"checked": "2026-11-17",
-"image": "avif",
+"chapters": 0,
+"checked": "2026-11-19",
+"cloudflare": true,
+"deadSince": "2026-11-18",
 "lastOk": "2026-11-17",
-"pages": 14,
-"pending": {
-"since": "2026-11-18",
+"pages": 0,
+"popular": 0,
 "status": "dead"
-},
-"popular": 216,
-"sample": "Survivalism",
-"status": "ok"
 },
 "kei.en.murimscan": {
 "chapters": 5,
@@ -1139,9 +1138,9 @@
 },
 "kei.en.nyanukafe": {
 "chapters": 61,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "avif",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 13,
 "popular": 6,
 "sample": "Too Many Losing Heroines!",
@@ -1365,9 +1364,9 @@
 },
 "kei.en.ritharscans": {
 "chapters": 65,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "ok",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 23,
 "popular": 10,
 "sample": "Geemu Chuuban De Shinu Akuyaku Kizoku Ni Tensei Shita Node, Hazure Skill \"tame\" Wo Kushi Shite Saikyou Wo Mezashite Mita",
@@ -1442,12 +1441,14 @@
 "status": "dead"
 },
 "kei.en.sirenscans": {
-"chapters": 0,
-"checked": "2026-11-18",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 53,
+"checked": "2026-11-19",
+"image": "avif",
+"lastOk": "2026-11-19",
+"pages": 9,
+"popular": 19,
+"sample": "Why You Don't Know It's a Girl?",
+"status": "ok"
 },
 "kei.en.sleepytranslations": {
 "chapters": 63,
@@ -1460,13 +1461,13 @@
 "status": "ok"
 },
 "kei.en.suryascans": {
-"chapters": 12,
-"checked": "2026-11-18",
+"chapters": 14,
+"checked": "2026-11-19",
 "image": "avif",
-"lastOk": "2026-11-18",
-"pages": 9,
+"lastOk": "2026-11-19",
+"pages": 19,
 "popular": 230,
-"sample": "The Howlring",
+"sample": "I Became the Youngest Martial God-Class Disciple",
 "status": "ok"
 },
 "kei.en.thunderscans": {
@@ -1480,13 +1481,13 @@
 "status": "ok"
 },
 "kei.en.timelesstoons": {
-"chapters": 23,
-"checked": "2026-11-18",
+"chapters": 18,
+"checked": "2026-11-19",
 "image": "avif",
-"lastOk": "2026-11-18",
-"pages": 21,
+"lastOk": "2026-11-19",
+"pages": 11,
 "popular": 205,
-"sample": "The God-Tier Pull Monarch",
+"sample": "Empress Will and Love",
 "status": "ok"
 },
 "kei.en.toongod": {
@@ -1569,12 +1570,14 @@
 "status": "partial"
 },
 "kei.en.towerofgodmangaonline": {
-"chapters": 0,
-"checked": "2026-11-18",
-"deadSince": "2026-11-09",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 653,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 1,
+"popular": 1,
+"sample": "Tower of God",
+"status": "ok"
 },
 "kei.en.tritiniascans": {
 "chapters": 212,
@@ -1636,9 +1639,9 @@
 },
 "kei.en.writerscans": {
 "chapters": 59,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "image": "avif",
-"lastOk": "2026-11-18",
+"lastOk": "2026-11-19",
 "pages": 14,
 "popular": 27,
 "sample": "Classmate",
@@ -1987,7 +1990,7 @@
 },
 "kei.es.mhscans": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-02",
 "pages": 0,
 "popular": 0,
@@ -2278,7 +2281,7 @@
 },
 "kei.fr.sushiscanfr": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-02",
 "pages": 0,
 "popular": 0,
@@ -2778,13 +2781,14 @@
 "status": "partial"
 },
 "kei.pt.noindexscan": {
-"chapters": 0,
-"checked": "2026-11-18",
-"deadSince": "2026-11-17",
-"lastOk": "2026-11-17",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 220,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 8,
+"popular": 12,
+"sample": "Circles",
+"status": "ok"
 },
 "kei.pt.pinkrosa": {
 "chapters": 56,
@@ -2830,7 +2834,7 @@
 },
 "kei.pt.temakimangas": {
 "chapters": 0,
-"checked": "2026-11-18",
+"checked": "2026-11-19",
 "deadSince": "2026-11-02",
 "pages": 0,
 "popular": 0,

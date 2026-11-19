@@ -4,7 +4,8 @@ Engines.Keyoapp {
 	name = "Luna Toons",
 	baseUrl = "https://lunatoons.net",
 	lang = "en",
-	version = 2,
+	version = 3,
 	nsfw = false,
 	extension = "kei.en.lunatoons",
+	v2 = true,
 }

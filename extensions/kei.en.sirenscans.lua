@@ -4,7 +4,8 @@ Engines.Keyoapp {
 	name = "Siren Scans",
 	baseUrl = "https://sirenscans.com",
 	lang = "en",
-	version = 2,
+	version = 3,
 	nsfw = false,
 	extension = "kei.en.sirenscans",
+	v2 = true,
 }
