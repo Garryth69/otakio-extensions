@@ -30,16 +30,16 @@ tab offers it with one click.
 
 | Language | Sources | 🟢 working |
 |---|---:|---:|
-| [Multi-language](SOURCES.md#multi-language) | 8 | 5 |
-| [English](SOURCES.md#english) | 189 | 149 |
-| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 42 | 30 |
-| [Spanish](SOURCES.md#spanish) | 51 | 35 |
+| [Multi-language](SOURCES.md#multi-language) | 10 | 7 |
+| [English](SOURCES.md#english) | 195 | 155 |
+| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 33 |
+| [Spanish](SOURCES.md#spanish) | 56 | 40 |
 | [French](SOURCES.md#french) | 17 | 8 |
 | [Italian](SOURCES.md#italian) | 13 | 9 |
 | [Russian](SOURCES.md#russian) | 14 | 9 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **348** | **257** |
+| **Total** | **364** | **273** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 
@@ -85,7 +85,7 @@ configuration. Sites with their own structure have **native** extensions, hand-w
 The catalog is generated, tested and pruned by tools in the app repository (`tools/gen_repo.py`,
 `tools/probe_sources.py`, `tools/prune_repo.py`, `tools/gen_repo_readme.py`):
 - keiyoushi-based sources follow keiyoushi (removed there = removed here);
-- other sources are removed after 180 days down in a row.
+- other sources are removed after 90 days down in a row.
 
 It all runs on its own: a daily health check (`health.yml`), a weekly sync with keiyoushi that commits to `main` but
 holds back unusual removals for a person (`regen.yml`, history in `sync.json`), and a weekly status report in the

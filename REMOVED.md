@@ -4,7 +4,7 @@ Extensions taken out of the catalog, newest first. Installed copies keep working
 marks them as *Removed from repository*.
 
 Reasons: **removed upstream** (no longer in keiyoushi/extensions-source), **dead** (failed every daily
-check for more than 180 days), **site closed**, **opt-out** (the site owner asked; see REMOVAL.md).
+check for more than 90 days), **site closed**, **opt-out** (the site owner asked; see REMOVAL.md).
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|

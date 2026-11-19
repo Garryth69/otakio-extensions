@@ -1,7 +1,8 @@
 name: Weekly catalog sync
 
-# Follows keiyoushi (sources removed there are removed here, new domains are picked up after a live probe), drops
-# other sources that failed every check for 180+ days, and commits the result to main. It runs unattended, so
+# Follows keiyoushi (sources removed there are removed here, new domains are picked up after a live probe, new
+# sources are added when they pass a live test), drops
+# other sources that failed every check for 90+ days, and commits the result to main. It runs unattended, so
 # prune_repo.py holds everything back when a run would remove more than 8 sources or when the keiyoushi clone looks
 # broken; sync.json records what happened and the status report (status.yml) shows it.
 on:
@@ -47,6 +48,11 @@ jobs:
       - name: Prune and follow upstream
         working-directory: app
         run: python tools/prune_repo.py --kei ../kei --probe --max-removals 8 --summary repo/sync.json
+
+      # sources keiyoushi published since the catalog was generated: only those that pass a live test, 15 a week
+      - name: Add new sources
+        working-directory: app
+        run: python tools/add_sources.py --kei ../kei --max 15 --summary repo/sync.json
 
       - name: Refresh README
         working-directory: app

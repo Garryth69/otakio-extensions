@@ -36,6 +36,16 @@
 "sample": "IDW Sonic The Hedgehog (#1-91)",
 "status": "ok"
 },
+"kei.all.hniscantrad": {
+"chapters": 170,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 17,
+"popular": 6,
+"sample": "Hajime no Ippo",
+"status": "ok"
+},
 "kei.all.mangacrazy": {
 "chapters": 116,
 "checked": "2026-11-19",
@@ -54,6 +64,16 @@
 "pages": 0,
 "popular": 0,
 "status": "dead"
+},
+"kei.all.nhentaiyaoi": {
+"chapters": 1,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 68,
+"popular": 16,
+"sample": "Seishun Radio Station!!! Dai 72-kai! Taka Gakuen Taiiku Matsuri",
+"status": "ok"
 },
 "kei.en.akazascans": {
 "chapters": 18,
@@ -229,6 +249,16 @@
 "pages": 0,
 "popular": 0,
 "status": "dead"
+},
+"kei.en.comizy": {
+"chapters": 83,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 73,
+"popular": 24,
+"sample": "Flashlight",
+"status": "ok"
 },
 "kei.en.cucumbermanga": {
 "chapters": 95,
@@ -487,6 +517,16 @@
 "sample": "Milf Massage NTR♥",
 "status": "ok"
 },
+"kei.en.hentaideck": {
+"chapters": 82,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 30,
+"popular": 20,
+"sample": "Someone Stop Her! (Uncensored)",
+"status": "ok"
+},
 "kei.en.hentaidesi": {
 "chapters": 21,
 "checked": "2026-11-19",
@@ -584,6 +624,16 @@
 "pages": 16,
 "popular": 24,
 "sample": "The Second Eunuch Regains His Manhood",
+"status": "ok"
+},
+"kei.en.kensscan": {
+"chapters": 7,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 2,
+"popular": 10,
+"sample": "Maou No Musume Wa Ikigitanai",
 "status": "ok"
 },
 "kei.en.kewnscans": {
@@ -807,6 +857,16 @@
 "sample": "The Symbiotic Relationship Between the Rabbit and the Black Panther",
 "status": "ok"
 },
+"kei.en.mangahot": {
+"chapters": 12,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 15,
+"popular": 20,
+"sample": "Absolute Threshold",
+"status": "ok"
+},
 "kei.en.mangaowlio": {
 "chapters": 191,
 "checked": "2026-11-19",
@@ -895,6 +955,16 @@
 "pages": 10,
 "popular": 6,
 "sample": "Soul Land IV",
+"status": "ok"
+},
+"kei.en.manhuaplusorg": {
+"chapters": 938,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 8,
+"popular": 42,
+"sample": "Magic Emperor",
 "status": "ok"
 },
 "kei.en.manhuaus": {
@@ -1411,6 +1481,16 @@
 "sample": "Under the Oak Tree",
 "status": "ok"
 },
+"kei.en.seinagi": {
+"chapters": 8,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 12,
+"popular": 10,
+"sample": "Boku wa Tomodachi ga Sukunai Biyori",
+"status": "ok"
+},
 "kei.en.seraphicdeviltry": {
 "chapters": 6,
 "checked": "2026-11-19",
@@ -1838,6 +1918,16 @@
 "sample": "El Antiguo Soberano",
 "status": "ok"
 },
+"kei.es.homocdrs": {
+"chapters": 3,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 46,
+"popular": 19,
+"sample": "Mata ne, Kami-sama",
+"status": "ok"
+},
 "kei.es.houseofotakus": {
 "chapters": 165,
 "checked": "2026-11-19",
@@ -1878,6 +1968,16 @@
 "sample": "Jujutsu Kaisen Módulo",
 "status": "ok"
 },
+"kei.es.jentranslation": {
+"chapters": 15,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 34,
+"popular": 20,
+"sample": "Ao to Midori",
+"status": "ok"
+},
 "kei.es.kazokuden": {
 "chapters": 68,
 "checked": "2026-11-19",
@@ -1886,6 +1986,16 @@
 "pages": 20,
 "popular": 15,
 "sample": "Un harem en un apocalipsis zombie",
+"status": "ok"
+},
+"kei.es.kokkokuteiscankt": {
+"chapters": 35,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 12,
+"popular": 20,
+"sample": "Keiyaku Shimai",
 "status": "ok"
 },
 "kei.es.leermanhwas": {
@@ -2008,6 +2118,16 @@
 "sample": "Cruzando los muros del amor contigo",
 "status": "ok"
 },
+"kei.es.noranofansub": {
+"chapters": 124,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 7,
+"popular": 25,
+"sample": "Boku no Ushiro ni Majo ga Iru",
+"status": "ok"
+},
 "kei.es.pzykosis666hfansub": {
 "chapters": 9,
 "checked": "2026-11-19",
@@ -2046,6 +2166,16 @@
 "pages": 0,
 "popular": 0,
 "status": "dead"
+},
+"kei.es.seinagi": {
+"chapters": 1,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 6,
+"popular": 25,
+"sample": "Amagami Precious Diary",
+"status": "ok"
 },
 "kei.es.seraphicdeviltry": {
 "chapters": 11,
@@ -2561,6 +2691,16 @@
 "sample": "Rebirth as the Villainous Duke",
 "status": "ok"
 },
+"kei.pt.duoscans": {
+"chapters": 3,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 138,
+"popular": 2,
+"sample": "Wail of a Dragon's Rage",
+"status": "ok"
+},
 "kei.pt.euphoriascan": {
 "chapters": 52,
 "checked": "2026-11-19",
@@ -2621,6 +2761,16 @@
 "sample": "Minha amiga Gyaru me Deixa Usar a Buceta Dela",
 "status": "ok"
 },
+"kei.pt.hentaitecanet": {
+"chapters": 53,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 6,
+"popular": 10,
+"sample": "More Than Friends",
+"status": "ok"
+},
 "kei.pt.hotcabaretscan": {
 "chapters": 34,
 "checked": "2026-11-19",
@@ -2659,6 +2809,16 @@
 "popular": 20,
 "sample": "Dragon Ball Super",
 "status": "partial"
+},
+"kei.pt.leitorreverse": {
+"chapters": 3,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 16,
+"popular": 3,
+"sample": "Eleceed",
+"status": "ok"
 },
 "kei.pt.ler999": {
 "chapters": 2,
