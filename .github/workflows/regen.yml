@@ -1,7 +1,9 @@
 name: Weekly catalog sync
 
-# Follows keiyoushi (sources removed there are removed here, new domains are picked up), drops other sources
-# that failed every check for 180+ days, and proposes the result as a pull request for a human to review.
+# Follows keiyoushi (sources removed there are removed here, new domains are picked up after a live probe), drops
+# other sources that failed every check for 180+ days, and commits the result to main. It runs unattended, so
+# prune_repo.py holds everything back when a run would remove more than 8 sources or when the keiyoushi clone looks
+# broken; sync.json records what happened and the status report (status.yml) shows it.
 on:
   schedule:
     - cron: "41 5 * * 1"
@@ -9,7 +11,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: catalog
@@ -45,7 +46,7 @@ jobs:
 
       - name: Prune and follow upstream
         working-directory: app
-        run: python tools/prune_repo.py --kei ../kei --probe
+        run: python tools/prune_repo.py --kei ../kei --probe --max-removals 8 --summary repo/sync.json
 
       - name: Refresh README
         working-directory: app
@@ -57,20 +58,15 @@ jobs:
         working-directory: app
         run: python tools/validate_repo.py
 
-      - name: Open a pull request
-        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
-        with:
-          path: app/repo
-          branch: catalog-sync
-          delete-branch: true
-          commit-message: "Catalog sync with keiyoushi and 180-day cleanup"
-          committer: "otakio-bot <41898282+github-actions[bot]@users.noreply.github.com>"
-          author: "otakio-bot <41898282+github-actions[bot]@users.noreply.github.com>"
-          title: "Weekly catalog sync"
-          body: |
-            Automated by `regen.yml`:
-            - sources removed from keiyoushi/extensions-source are removed here;
-            - keiyoushi domain changes are applied and re-probed;
-            - other sources down for more than 180 days in a row are removed.
-
-            Removals are logged in `REMOVED.md`. Review before merging.
+      - name: Commit to main
+        working-directory: app/repo
+        run: |
+          git config user.name "otakio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Catalog sync $(date -u +%Y-%m-%d)"
+            git push
+          fi
