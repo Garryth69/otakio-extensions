@@ -1,9 +1,9 @@
 -- @id otakio.mangakakalot
 -- @name Mangakakalot
 -- @lang en
--- @version 1
+-- @version 2
 -- @nsfw false
--- @baseUrl https://www.kakamanga.com
+-- @baseUrl https://www.mangakakalove.com
 -- Native Otakio extension: Mangakakalot (MangaBox theme), one of the largest English catalogs.
 
 local U = Engines.util
@@ -132,4 +132,4 @@ local function build(name, id, base)
 	return p
 end
 
-build("Mangakakalot", "OTAKIO_MANGAKAKALOT", "https://www.kakamanga.com")
+build("Mangakakalot", "OTAKIO_MANGAKAKALOT", "https://www.mangakakalove.com")

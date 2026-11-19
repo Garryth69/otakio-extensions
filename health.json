@@ -586,15 +586,6 @@
 "sample": "The Second Eunuch Regains His Manhood",
 "status": "ok"
 },
-"kei.en.keroscans": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-17",
-"lastOk": "2026-11-17",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "kei.en.kewnscans": {
 "chapters": 35,
 "checked": "2026-11-19",
@@ -1987,14 +1978,6 @@
 "sample": "A channel",
 "status": "ok"
 },
-"kei.es.mhscans": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "kei.es.monopolyscan": {
 "chapters": 130,
 "checked": "2026-11-19",
@@ -3003,46 +2986,6 @@
 "popular": 0,
 "status": "dead"
 },
-"noboru.henreaddif": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.mangadooresp": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.mangahuben": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.readconlineeng": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
-"noboru.reaperscansen": {
-"chapters": 0,
-"checked": "2026-11-19",
-"deadSince": "2026-11-08",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "otakio.acomics": {
 "chapters": 730,
 "checked": "2026-11-19",
@@ -3213,6 +3156,16 @@
 "sample": "One Piece",
 "status": "ok"
 },
+"otakio.keroscans": {
+"chapters": 85,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 32,
+"popular": 24,
+"sample": "Since My Previous Life was a Wise Man, I can Afford to Live.",
+"status": "ok"
+},
 "otakio.leercapitulo": {
 "chapters": 154,
 "checked": "2026-11-19",
@@ -3244,13 +3197,14 @@
 "status": "ok"
 },
 "otakio.mangakakalot": {
-"chapters": 0,
+"chapters": 3877,
 "checked": "2026-11-19",
-"deadSince": "2026-11-18",
-"lastOk": "2026-11-17",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 96,
+"popular": 24,
+"sample": "Martial Peak",
+"status": "ok"
 },
 "otakio.mangakatana": {
 "chapters": 3847,
@@ -3300,6 +3254,16 @@
 "pages": 6,
 "popular": 24,
 "sample": "Pico Marcial",
+"status": "ok"
+},
+"otakio.mhscans": {
+"chapters": 257,
+"checked": "2026-11-19",
+"image": "ok",
+"lastOk": "2026-11-19",
+"pages": 17,
+"popular": 24,
+"sample": "Inicio de Sesión en el Murim",
 "status": "ok"
 },
 "otakio.multporn": {

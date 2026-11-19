@@ -8,6 +8,13 @@ check for more than 180 days), **site closed**, **opt-out** (the site owner aske
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|
+| 2026-11-19 | HentaiRead | hentairead.com | blocked by anti-bot protection (Cloudflare or bot check) |
+| 2026-11-19 | ReadComicsOnline | readcomicsonline.ru | blocked by anti-bot protection (Cloudflare or bot check) |
+| 2026-11-19 | MangaDoor | mangadoor.com | blocked by anti-bot protection (Cloudflare or bot check) |
+| 2026-11-19 | MangaHub | mangahub.io | site API needs a rotating key (access protection) |
+| 2026-11-19 | Reaper Scans | reaperscans.com | site down (HTTP 522) and the old parser no longer matches it |
+| 2026-11-19 | MHScans | mhscans.com | replaced by the native extension otakio.mhscans (the site left the Madara theme) |
+| 2026-11-19 | KeroScans | keroscans.net | replaced by the native extension otakio.keroscans (the site left the VineTheme theme) |
 | 2026-11-17 | MyHentaiGallery | myhentaigallery.com | replaced by native otakio.myhentaigallery |
 | 2026-11-17 | Readm | readm.today | site closed (parked domain) |
 | 2026-11-17 | HeavenManga | heavenmanga.com | replaced by native otakio.heavenmanga |

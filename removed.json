@@ -302,5 +302,61 @@
   "origin": "noboru",
   "date": "2026-11-17",
   "reason": "replaced by native otakio.vercomicsporno"
+ },
+ {
+  "id": "noboru.henreaddif",
+  "name": "HentaiRead",
+  "baseUrl": "https://hentairead.com",
+  "origin": "noboru",
+  "date": "2026-11-19",
+  "reason": "blocked by anti-bot protection (Cloudflare or bot check)"
+ },
+ {
+  "id": "noboru.readconlineeng",
+  "name": "ReadComicsOnline",
+  "baseUrl": "https://readcomicsonline.ru",
+  "origin": "noboru",
+  "date": "2026-11-19",
+  "reason": "blocked by anti-bot protection (Cloudflare or bot check)"
+ },
+ {
+  "id": "noboru.mangadooresp",
+  "name": "MangaDoor",
+  "baseUrl": "http://mangadoor.com",
+  "origin": "noboru",
+  "date": "2026-11-19",
+  "reason": "blocked by anti-bot protection (Cloudflare or bot check)"
+ },
+ {
+  "id": "noboru.mangahuben",
+  "name": "MangaHub",
+  "baseUrl": "https://mangahub.io",
+  "origin": "noboru",
+  "date": "2026-11-19",
+  "reason": "site API needs a rotating key (access protection)"
+ },
+ {
+  "id": "noboru.reaperscansen",
+  "name": "Reaper Scans",
+  "baseUrl": "https://reaperscans.com",
+  "origin": "noboru",
+  "date": "2026-11-19",
+  "reason": "site down (HTTP 522) and the old parser no longer matches it"
+ },
+ {
+  "id": "kei.es.mhscans",
+  "name": "MHScans",
+  "baseUrl": "https://mhscans.com",
+  "origin": "keiyoushi",
+  "date": "2026-11-19",
+  "reason": "replaced by the native extension otakio.mhscans (the site left the Madara theme)"
+ },
+ {
+  "id": "kei.en.keroscans",
+  "name": "KeroScans",
+  "baseUrl": "https://keroscans.net",
+  "origin": "keiyoushi",
+  "date": "2026-11-19",
+  "reason": "replaced by the native extension otakio.keroscans (the site left the VineTheme theme)"
  }
 ]

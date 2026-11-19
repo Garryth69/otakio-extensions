@@ -30,16 +30,16 @@ tab offers it with one click.
 
 | Language | Sources | 🟢 working |
 |---|---:|---:|
-| [Multi-language](SOURCES.md#multi-language) | 9 | 5 |
-| [English](SOURCES.md#english) | 192 | 147 |
+| [Multi-language](SOURCES.md#multi-language) | 8 | 5 |
+| [English](SOURCES.md#english) | 189 | 149 |
 | [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 42 | 30 |
-| [Spanish](SOURCES.md#spanish) | 52 | 34 |
+| [Spanish](SOURCES.md#spanish) | 51 | 35 |
 | [French](SOURCES.md#french) | 17 | 8 |
 | [Italian](SOURCES.md#italian) | 13 | 9 |
 | [Russian](SOURCES.md#russian) | 14 | 9 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **353** | **254** |
+| **Total** | **348** | **257** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 

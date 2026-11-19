@@ -9,13 +9,13 @@ Status:
 - **🔴 down:** the site doesn't answer or blocks readers;
 - **⚪ untested.**
 
-**Languages:** [Multi-language](#multi-language) (9) · [English](#english) (192) · [Portuguese (Brazil)](#portuguese-brazil) (42) · [Spanish](#spanish) (52) · [French](#french) (17) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
+**Languages:** [Multi-language](#multi-language) (8) · [English](#english) (189) · [Portuguese (Brazil)](#portuguese-brazil) (42) · [Spanish](#spanish) (51) · [French](#french) (17) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
 
 
 ## Multi-language
 
 <details>
-<summary>9 sources, 5 working</summary>
+<summary>8 sources, 5 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -26,7 +26,6 @@ Status:
 | Webtoons | www.webtoons.com | 🟢 works | native (Otakio) |  |
 | AllPornComics.co | allporncomics.co | 🟡 partial | keiyoushi theme | yes |
 | Comics Valley | comicsvalley.com | 🔴 down | keiyoushi theme | yes |
-| HentaiRead | hentairead.com | 🔴 down | NOBORU parser | yes |
 | Manhwa-raw | manhwa-raw.com | 🔴 down | keiyoushi theme | yes |
 
 </details>
@@ -34,7 +33,7 @@ Status:
 ## English
 
 <details>
-<summary>192 sources, 147 working</summary>
+<summary>189 sources, 149 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -89,6 +88,7 @@ Status:
 | Hunlight Comics | hunlightcomics.com | 🟢 works | keiyoushi theme |  |
 | Jinmangas | mangafree.info | 🟢 works | keiyoushi theme |  |
 | Kayn Scans | kaynscans.com | 🟢 works | keiyoushi theme |  |
+| KeroScans | keroscans.net | 🟢 works | native (Otakio) |  |
 | Kewn Scans | kewnscans.org | 🟢 works | keiyoushi theme |  |
 | King of Shojo | kingofshojo.com | 🟢 works | yuzono theme |  |
 | Kitsune Dawn | kitsunedawn.com | 🟢 works | keiyoushi theme | yes |
@@ -108,6 +108,7 @@ Status:
 | Mangaforfree.com | mangaforfree.com | 🟢 works | keiyoushi theme | yes |
 | MangaGG | mangagg.com | 🟢 works | keiyoushi theme |  |
 | MangaK | mangak.io | 🟢 works | keiyoushi theme |  |
+| Mangakakalot | www.mangakakalove.com | 🟢 works | native (Otakio) |  |
 | MangaKatana | mangakatana.com | 🟢 works | native (Otakio) |  |
 | MangaManiacs | mangamaniacs.org | 🟢 works | yuzono theme | yes |
 | MangaOwl.io (unoriginal) | mangaowl.io | 🟢 works | keiyoushi theme |  |
@@ -204,14 +205,11 @@ Status:
 | Grim Scans | grimscans.com | 🔴 down | keiyoushi theme |  |
 | Hades Scans | hadesscans.com | 🔴 down | keiyoushi theme |  |
 | Kaizen Scan | kaizenscan.com | 🔴 down | keiyoushi theme | yes |
-| KeroScans | keroscans.net | 🔴 down | keiyoushi theme |  |
 | Kissmanga.in | kissmanga.in | 🔴 down | keiyoushi theme |  |
 | Lgbtics | lgbtics.com | 🔴 down | keiyoushi theme | yes |
 | Lily Manga | lilymanga.net | 🔴 down | keiyoushi theme |  |
 | LinkManga | linkmanga.com | 🔴 down | yuzono theme |  |
 | Luna Toons | lunatoons.net | 🔴 down | keiyoushi theme |  |
-| MangaHub | mangahub.io | 🔴 down | NOBORU parser |  |
-| Mangakakalot | www.kakamanga.com | 🔴 down | native (Otakio) |  |
 | Manhua Zonghe | www.manhuazonghe.com | 🔴 down | keiyoushi theme | yes |
 | ManhuaUS | manhuaus.com | 🔴 down | keiyoushi theme |  |
 | Manhwa Toon | www.manhwatoon.me | 🔴 down | keiyoushi theme |  |
@@ -223,8 +221,6 @@ Status:
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
-| ReadComicsOnline | readcomicsonline.ru | 🔴 down | NOBORU parser |  |
-| Reaper Scans | reaperscans.com | 🔴 down | NOBORU parser |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
 | ToonGod | www.toongod.org | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
@@ -288,7 +284,7 @@ Status:
 ## Spanish
 
 <details>
-<summary>52 sources, 34 working</summary>
+<summary>51 sources, 35 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -312,6 +308,7 @@ Status:
 | ManhwaOnline | manhwa-online.com | 🟢 works | keiyoushi theme | yes |
 | Marmota | marmota.me | 🟢 works | keiyoushi theme |  |
 | Menudo-Fansub | www.menudo-fansub.com | 🟢 works | keiyoushi theme |  |
+| MHScans | mhscans.com | 🟢 works | native (Otakio) |  |
 | Monopoly Scan | monopolymanhua.com | 🟢 works | keiyoushi theme |  |
 | NekoScans | nekoproject.org | 🟢 works | keiyoushi theme |  |
 | Olympus Biblioteca | olympusbiblioteca.com | 🟢 works | native (Otakio) |  |
@@ -337,10 +334,8 @@ Status:
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
 | BokugenTranslation | bokugents.com | 🔴 down | keiyoushi theme |  |
 | Manga Romance | mangaromance19.com | 🔴 down | keiyoushi theme |  |
-| MangaDoor | mangadoor.com | 🔴 down | NOBORU parser |  |
 | Mangas No Sekai | mangasnosekai.com | 🔴 down | keiyoushi theme |  |
 | Manhwa-Latino | manhwa-latino.com | 🔴 down | keiyoushi theme |  |
-| MHScans | mhscans.com | 🔴 down | keiyoushi theme |  |
 | RichtoScan | r1.richtoon.top | 🔴 down | keiyoushi theme |  |
 | Toon-es | toon-es.com | 🔴 down | keiyoushi theme | yes |
 | Ver Manhwas | vermanhwa.com | 🔴 down | keiyoushi theme | yes |
