@@ -32,14 +32,14 @@ tab offers it with one click.
 |---|---:|---:|
 | [Multi-language](SOURCES.md#multi-language) | 10 | 7 |
 | [English](SOURCES.md#english) | 195 | 156 |
-| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 32 |
-| [Spanish](SOURCES.md#spanish) | 56 | 40 |
-| [French](SOURCES.md#french) | 17 | 8 |
-| [Italian](SOURCES.md#italian) | 13 | 9 |
+| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 31 |
+| [Spanish](SOURCES.md#spanish) | 56 | 39 |
+| [French](SOURCES.md#french) | 17 | 9 |
+| [Italian](SOURCES.md#italian) | 13 | 8 |
 | [Russian](SOURCES.md#russian) | 14 | 8 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **364** | **272** |
+| **Total** | **364** | **270** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 
