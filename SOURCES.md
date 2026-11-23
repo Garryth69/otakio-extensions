@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-22.
+Last automated check: 2026-11-23.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 156 working</summary>
+<summary>195 sources, 154 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -105,7 +105,6 @@ Status:
 | Lua Scans | luacomic.org | 🟢 works | keiyoushi theme |  |
 | Luna Toons | lunatoons.net | 🟢 works | keiyoushi theme |  |
 | Madara Scans | madarascans.net | 🟢 works | keiyoushi theme |  |
-| MadaraDex | madaradex.org | 🟢 works | keiyoushi theme |  |
 | Manga Dass | mangadass.com | 🟢 works | keiyoushi theme |  |
 | Manga District | mangadistrict.com | 🟢 works | keiyoushi theme |  |
 | Manga Eclipse | mangaeclipse.com | 🟢 works | keiyoushi theme |  |
@@ -150,7 +149,6 @@ Status:
 | OctopusManga | octopusmanga.com | 🟢 works | keiyoushi theme | yes |
 | Omega Scans | omegascans.org | 🟢 works | keiyoushi theme | yes |
 | Orchisasia | www.orchisasia.org | 🟢 works | keiyoushi theme | yes |
-| Paritehaber | www.paritehaber.com | 🟢 works | keiyoushi theme | yes |
 | Petrotechsociety | www.petrotechsociety.org | 🟢 works | keiyoushi theme | yes |
 | Pornhwaz | www.pornhwaz.com | 🟢 works | keiyoushi theme | yes |
 | Rackus | rackusreads.com | 🟢 works | keiyoushi theme |  |
@@ -198,6 +196,7 @@ Status:
 | CartoonPorn | cartoonporn.to | 🟡 partial | keiyoushi theme | yes |
 | Gourmet Scans | gourmetsupremacy.com | 🟡 partial | keiyoushi theme |  |
 | KaliScan.org (unoriginal) | kaliscan.org | 🟡 partial | keiyoushi theme |  |
+| MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
 | Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟡 partial | keiyoushi theme |  |
@@ -227,6 +226,7 @@ Status:
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
 | Mist Scans | mistscans.org | 🔴 down | keiyoushi theme |  |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
+| Paritehaber | www.paritehaber.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
@@ -295,7 +295,7 @@ Status:
 ## Spanish
 
 <details>
-<summary>56 sources, 39 working</summary>
+<summary>56 sources, 40 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -337,6 +337,7 @@ Status:
 | TopComicPorno | topcomicporno.com | 🟢 works | keiyoushi theme | yes |
 | Uchuujin Projects | uchuujinmangas.com | 🟢 works | keiyoushi theme |  |
 | UnderTranslations | undertranslations.com | 🟢 works | keiyoushi theme |  |
+| VerComicsPorno | vercomicsporno.xxx | 🟢 works | native (Otakio) | yes |
 | ZonaTMO | zonatmo.to | 🟢 works | native (Otakio) |  |
 | ApollComics | apollcomics.es | 🟡 partial | keiyoushi theme | yes |
 | Asia Lotus | asialotuss.com | 🟡 partial | keiyoushi theme | yes |
@@ -344,7 +345,6 @@ Status:
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |
-| VerComicsPorno | vercomicsporno.xxx | 🟡 partial | native (Otakio) | yes |
 | Yuri-Online | yuri-online.com | 🟡 partial | keiyoushi theme |  |
 | BarManga | archiviumbar.com | 🔴 down | keiyoushi theme |  |
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
