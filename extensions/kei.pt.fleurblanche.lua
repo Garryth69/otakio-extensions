@@ -2,9 +2,9 @@
 Engines.Madara {
 	id = "KEI_PTBRFLEURBLANCHE",
 	name = "Fleur Blanche",
-	baseUrl = "https://fbsscan.com",
+	baseUrl = "https://squadxfbs.com",
 	lang = "pt-BR",
-	version = 6,
+	version = 7,
 	nsfw = true,
 	extension = "kei.pt.fleurblanche",
 	chapterMode = "MangaAjax",

@@ -9,7 +9,7 @@ Status:
 - **🔴 down:** the site doesn't answer or blocks readers;
 - **⚪ untested.**
 
-**Languages:** [Multi-language](#multi-language) (10) · [English](#english) (195) · [Portuguese (Brazil)](#portuguese-brazil) (45) · [Spanish](#spanish) (56) · [French](#french) (17) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
+**Languages:** [Multi-language](#multi-language) (10) · [English](#english) (195) · [Portuguese (Brazil)](#portuguese-brazil) (45) · [Spanish](#spanish) (55) · [French](#french) (17) · [Italian](#italian) (13) · [Russian](#russian) (14) · [Japanese](#japanese) (9) · [Chinese](#chinese) (5)
 
 
 ## Multi-language
@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 154 working</summary>
+<summary>195 sources, 155 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -145,6 +145,7 @@ Status:
 | MyHentaiGallery | myhentaigallery.com | 🟢 works | native (Otakio) | yes |
 | MyReadingComic | myreadingcomic.com | 🟢 works | keiyoushi theme | yes |
 | nhentai.to | nhentai.to | 🟢 works | native (Otakio) | yes |
+| NovelDex | noveldex.io | 🟢 works | keiyoushi theme | yes |
 | Nyanu Kafe | nyanukafe.com | 🟢 works | keiyoushi theme |  |
 | OctopusManga | octopusmanga.com | 🟢 works | keiyoushi theme | yes |
 | Omega Scans | omegascans.org | 🟢 works | keiyoushi theme | yes |
@@ -211,7 +212,6 @@ Status:
 | Ero18x | ero18x.com | 🔴 down | keiyoushi theme | yes |
 | GingeRTooN | gingertoon.com | 🔴 down | keiyoushi theme | yes |
 | Grim Scans | grimscans.com | 🔴 down | keiyoushi theme |  |
-| Hades Scans | hadesscans.com | 🔴 down | keiyoushi theme |  |
 | Kaizen Scan | kaizenscan.com | 🔴 down | keiyoushi theme | yes |
 | Kissmanga.in | kissmanga.in | 🔴 down | keiyoushi theme |  |
 | Lgbtics | lgbtics.com | 🔴 down | keiyoushi theme | yes |
@@ -240,7 +240,7 @@ Status:
 ## Portuguese (Brazil)
 
 <details>
-<summary>45 sources, 31 working</summary>
+<summary>45 sources, 32 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -253,6 +253,7 @@ Status:
 | Coven Scan | covendasbruxonas.com | 🟢 works | keiyoushi theme | yes |
 | Duo Scans | duoscanlators.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Euphoria Scan | euphoriascan.com | 🟢 works | keiyoushi theme | yes |
+| Fleur Blanche | squadxfbs.com | 🟢 works | keiyoushi theme | yes |
 | GALAX Scans | galaxscanlator.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hanmokku Scan | hanmokkuscan.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hentai Teca | hentaiteca.online | 🟢 works | keiyoushi theme | yes |
@@ -282,7 +283,6 @@ Status:
 | MR Tenzus | mrtenzus.com | 🟡 partial | keiyoushi theme | yes |
 | Nocturne Summer | nocfsb.com | 🟡 partial | keiyoushi theme |  |
 | Pink Sea Unicorn | psunicorn.com | 🟡 partial | keiyoushi theme | yes |
-| Fleur Blanche | fbsscan.com | 🔴 down | keiyoushi theme | yes |
 | Hanami Heaven | hanamiheaven.org | 🔴 down | keiyoushi theme | yes |
 | MiniTwo Scan | minitwoscan.com | 🔴 down | keiyoushi theme |  |
 | Portal Yaoi | portalyaoi.com | 🔴 down | keiyoushi theme | yes |
@@ -295,7 +295,7 @@ Status:
 ## Spanish
 
 <details>
-<summary>56 sources, 40 working</summary>
+<summary>55 sources, 40 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -349,7 +349,6 @@ Status:
 | BarManga | archiviumbar.com | 🔴 down | keiyoushi theme |  |
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
 | BokugenTranslation | bokugents.com | 🔴 down | keiyoushi theme |  |
-| Manga Romance | mangaromance19.com | 🔴 down | keiyoushi theme |  |
 | Mangas No Sekai | mangasnosekai.com | 🔴 down | keiyoushi theme |  |
 | Manhwa-Latino | manhwa-latino.com | 🔴 down | keiyoushi theme |  |
 | RichtoScan | r1.richtoon.top | 🔴 down | keiyoushi theme |  |

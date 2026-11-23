@@ -1,0 +1,39 @@
+{
+ "date": "2026-11-23",
+ "moved": [
+  {
+   "id": "kei.pt.fleurblanche",
+   "to": "https://squadxfbs.com"
+  }
+ ],
+ "removed": [
+  {
+   "id": "kei.en.hadesscans",
+   "reason": "removed upstream"
+  },
+  {
+   "id": "kei.es.mangaromance",
+   "reason": "removed upstream"
+  },
+  {
+   "id": "kei.ja.mangagun",
+   "reason": "removed upstream"
+  }
+ ],
+ "held": [],
+ "deferred": [],
+ "added": [
+  {
+   "id": "kei.en.noveldex",
+   "name": "NovelDex",
+   "lang": "en",
+   "baseUrl": "https://noveldex.io"
+  },
+  {
+   "id": "kei.ja.nihonkuni",
+   "name": "NihonKuni",
+   "lang": "ja",
+   "baseUrl": "https://nihonkuni.com"
+  }
+ ]
+}

@@ -358,5 +358,29 @@
   "origin": "keiyoushi",
   "date": "2026-11-19",
   "reason": "replaced by the native extension otakio.keroscans (the site left the VineTheme theme)"
+ },
+ {
+  "id": "kei.en.hadesscans",
+  "name": "Hades Scans",
+  "baseUrl": "https://hadesscans.com",
+  "origin": "keiyoushi",
+  "date": "2026-11-23",
+  "reason": "removed upstream"
+ },
+ {
+  "id": "kei.es.mangaromance",
+  "name": "Manga Romance",
+  "baseUrl": "https://mangaromance19.com",
+  "origin": "keiyoushi",
+  "date": "2026-11-23",
+  "reason": "removed upstream"
+ },
+ {
+  "id": "kei.ja.mangagun",
+  "name": "NihonKuni",
+  "baseUrl": "https://nihonkuni.com",
+  "origin": "keiyoushi",
+  "date": "2026-11-23",
+  "reason": "removed upstream"
  }
 ]

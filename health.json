@@ -480,14 +480,6 @@
 "sample": "A Boy And His Crossdressing Older Brother",
 "status": "ok"
 },
-"kei.en.hadesscans": {
-"chapters": 0,
-"checked": "2026-11-23",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "kei.en.hentai1io": {
 "chapters": 122,
 "checked": "2026-11-23",
@@ -1195,6 +1187,16 @@
 "pages": 0,
 "popular": 0,
 "status": "dead"
+},
+"kei.en.noveldex": {
+"chapters": 13,
+"checked": "2026-11-23",
+"image": "ok",
+"lastOk": "2026-11-23",
+"pages": 61,
+"popular": 24,
+"sample": "TS Punishment",
+"status": "ok"
 },
 "kei.en.nyanukafe": {
 "chapters": 90,
@@ -2013,14 +2015,6 @@
 "sample": "A mi joven esposa y yo",
 "status": "ok"
 },
-"kei.es.mangaromance": {
-"chapters": 0,
-"checked": "2026-11-23",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
-},
 "kei.es.mangasnosekai": {
 "chapters": 0,
 "checked": "2026-11-23",
@@ -2540,7 +2534,7 @@
 "sample": "俺だけレベルアップな件",
 "status": "partial"
 },
-"kei.ja.mangagun": {
+"kei.ja.nihonkuni": {
 "chapters": 201,
 "checked": "2026-11-23",
 "image": "ok",
@@ -2711,13 +2705,14 @@
 "status": "ok"
 },
 "kei.pt.fleurblanche": {
-"chapters": 0,
+"chapters": 109,
 "checked": "2026-11-23",
-"deadSince": "2026-11-17",
-"lastOk": "2026-11-17",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"image": "ok",
+"lastOk": "2026-11-23",
+"pages": 6,
+"popular": 20,
+"sample": "Jinx",
+"status": "ok"
 },
 "kei.pt.flowermanga": {
 "blocked": true,

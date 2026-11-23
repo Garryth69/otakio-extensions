@@ -8,6 +8,9 @@ check for more than 90 days), **site closed**, **opt-out** (the site owner asked
 
 | Date | Extension | Site | Reason |
 |---|---|---|---|
+| 2026-11-23 | Hades Scans | hadesscans.com | removed upstream |
+| 2026-11-23 | Manga Romance | mangaromance19.com | removed upstream |
+| 2026-11-23 | NihonKuni | nihonkuni.com | removed upstream |
 | 2026-11-19 | HentaiRead | hentairead.com | blocked by anti-bot protection (Cloudflare or bot check) |
 | 2026-11-19 | ReadComicsOnline | readcomicsonline.ru | blocked by anti-bot protection (Cloudflare or bot check) |
 | 2026-11-19 | MangaDoor | mangadoor.com | blocked by anti-bot protection (Cloudflare or bot check) |
