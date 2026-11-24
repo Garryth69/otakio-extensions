@@ -1,7 +1,7 @@
 -- @id otakio.flamecomics
 -- @name Flame Comics
 -- @lang en
--- @version 2
+-- @version 3
 -- @nsfw false
 -- @baseUrl https://flamecomics.xyz
 -- Native Otakio extension: Flame Comics (Next.js data routes).
@@ -10,7 +10,7 @@ local U = Engines.util
 local BASE = "https://flamecomics.xyz"
 local CDN = "https://cdn.flamecomics.xyz/uploads/images/series/"
 
-local p = U.newParser({id = "OTAKIO_FLAMECOMICS", name = "Flame Comics", baseUrl = BASE, lang = "en", version = 2, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_FLAMECOMICS", name = "Flame Comics", baseUrl = BASE, lang = "en", version = 3, engine = "native"}, {})
 
 local buildId
 
@@ -47,7 +47,10 @@ end
 
 local function addSeries(dt, list, query)
 	query = query and string.lower(query)
-	for _, s in ipairs(list or {}) do
+	for i, s in ipairs(list or {}) do
+		if i % 50 == 0 then
+			coroutine.yield(false) -- the whole catalog comes in one page: keep the screen moving
+		end
 		if nn(s.series_id) and (not query or string.find(string.lower(s.title or ""), query, 1, true)) then
 			U.addManga(dt, p, s.title or "", "/series/" .. tostring(s.series_id), cover(s))
 		end

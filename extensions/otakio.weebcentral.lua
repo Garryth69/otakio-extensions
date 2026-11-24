@@ -1,7 +1,7 @@
 -- @id otakio.weebcentral
 -- @name Weeb Central
 -- @lang en
--- @version 1
+-- @version 2
 -- @nsfw false
 -- @baseUrl https://weebcentral.com
 -- Native Otakio extension: Weeb Central (large English catalog, successor of MangaSee).
@@ -10,7 +10,7 @@ local U = Engines.util
 local BASE = "https://weebcentral.com"
 local LIMIT = 32
 
-local p = U.newParser({id = "OTAKIO_WEEBCENTRAL", name = "Weeb Central", baseUrl = BASE, lang = "en", version = 1, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_WEEBCENTRAL", name = "Weeb Central", baseUrl = BASE, lang = "en", version = 2, engine = "native"}, {})
 
 p.Filters = {
 	{Name = "Sort", Type = "radio", Tags = {"Best Match", "Popularity", "Latest Updates", "Alphabet", "Recently Added"}}
@@ -78,7 +78,10 @@ function p:getChapters(manga, dt)
 	end
 	local list = Http.getDocument(BASE .. "/series/" .. seriesId .. "/full-chapter-list", U.headers(self))
 	local out = {}
-	for _, a in ipairs(list:select("div[x-data] > a")) do
+	for i, a in ipairs(list:select("div[x-data] > a")) do
+		if i % 100 == 0 then
+			coroutine.yield(false) -- long series (1000+ chapters): keep the screen moving
+		end
 		local name = a:selectFirst("span.flex > span")
 		local time = a:selectFirst("time[datetime]")
 		out[#out + 1] = {Name = name and name:text() or U.trim(a:text()), Link = U.pathOf(a:attr("abs:href")), Date = time and string.sub(time:attr("datetime"), 1, 10)}
