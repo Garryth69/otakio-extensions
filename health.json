@@ -218,7 +218,7 @@
 "status": "dead"
 },
 "kei.en.bunmanga": {
-"chapters": 581,
+"chapters": 582,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
@@ -875,7 +875,8 @@
 },
 "popular": 20,
 "sample": "Absolute Threshold",
-"status": "ok"
+"status": "ok",
+"unverified": "2026-11-24"
 },
 "kei.en.mangaowlio": {
 "chapters": 191,
@@ -1017,13 +1018,13 @@
 "status": "dead"
 },
 "kei.en.manhwa18tx": {
-"chapters": 261,
+"chapters": 88,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 19,
+"pages": 20,
 "popular": 24,
-"sample": "The World After The End",
+"sample": "Damn Reincarnation",
 "status": "ok"
 },
 "kei.en.manhwa68": {
@@ -1036,13 +1037,13 @@
 "status": "dead"
 },
 "kei.en.manhwabuddy": {
-"chapters": 56,
+"chapters": 94,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 15,
+"pages": 26,
 "popular": 24,
-"sample": "Performance (Sex) Report",
+"sample": "Emperor of Solo Play",
 "status": "ok"
 },
 "kei.en.manhwacomics": {
@@ -1056,13 +1057,13 @@
 "status": "partial"
 },
 "kei.en.manhwaddict": {
-"chapters": 261,
+"chapters": 91,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 19,
+"pages": 18,
 "popular": 24,
-"sample": "The World After The End",
+"sample": "Damn Reincarnation",
 "status": "ok"
 },
 "kei.en.manhwaden": {
@@ -1076,13 +1077,13 @@
 "status": "ok"
 },
 "kei.en.manhwagalaxy": {
-"chapters": 261,
+"chapters": 89,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 19,
+"pages": 21,
 "popular": 24,
-"sample": "The World After The End",
+"sample": "Damn Reincarnation",
 "status": "ok"
 },
 "kei.en.manhwahubto": {
@@ -1140,6 +1141,10 @@
 "image": "ok",
 "lastOk": "2026-11-24",
 "pages": 14,
+"pending": {
+"since": "2026-11-24",
+"status": "partial"
+},
 "popular": 20,
 "sample": "One Piece",
 "status": "ok"
@@ -1190,7 +1195,7 @@
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 11,
+"pages": 1,
 "popular": 5,
 "sample": "The Lone Necromancer",
 "status": "ok"
@@ -1485,12 +1490,12 @@
 "status": "ok"
 },
 "kei.en.rosesquadscans": {
-"chapters": 4,
+"chapters": 1,
 "checked": "2026-11-24",
 "lastOk": "2026-11-24",
 "pages": 0,
 "popular": 20,
-"sample": "Omune-chan no Sainan",
+"sample": "Introduction to the Theory of Love",
 "status": "partial"
 },
 "kei.en.rubycomics": {
@@ -1514,18 +1519,14 @@
 "status": "ok"
 },
 "kei.en.seinagi": {
-"chapters": 8,
-"checked": "2026-11-23",
-"image": "ok",
+"chapters": 0,
+"checked": "2026-11-24",
+"deadSince": "2026-11-24",
 "lastOk": "2026-11-23",
-"pages": 12,
-"pending": {
-"since": "2026-11-24",
+"pages": 0,
+"popular": 0,
+"site": "gone",
 "status": "dead"
-},
-"popular": 10,
-"sample": "Boku wa Tomodachi ga Sukunai Biyori",
-"status": "ok"
 },
 "kei.en.seraphicdeviltry": {
 "chapters": 6,
@@ -1568,13 +1569,13 @@
 "status": "ok"
 },
 "kei.en.suryascans": {
-"chapters": 20,
+"chapters": 45,
 "checked": "2026-11-24",
 "image": "avif",
 "lastOk": "2026-11-24",
-"pages": 12,
+"pages": 11,
 "popular": 234,
-"sample": "The Third-Generation Chaebol Who Takes It All",
+"sample": "The God of Ad-Lib",
 "status": "ok"
 },
 "kei.en.thunderscans": {
@@ -1588,13 +1589,13 @@
 "status": "ok"
 },
 "kei.en.timelesstoons": {
-"chapters": 13,
+"chapters": 15,
 "checked": "2026-11-24",
 "image": "avif",
 "lastOk": "2026-11-24",
-"pages": 12,
-"popular": 205,
-"sample": "Bloodshed Goddess Biography",
+"pages": 35,
+"popular": 206,
+"sample": "Afumi no Umi: When the Water's surface ripples",
 "status": "ok"
 },
 "kei.en.toongod": {
@@ -1798,13 +1799,13 @@
 "status": "dead"
 },
 "kei.en.yaoiscanme": {
-"chapters": 30,
+"chapters": 56,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 43,
+"pages": 7,
 "popular": 24,
-"sample": "7 Sexy Days With 8 Sexy Men",
+"sample": "Degenerate",
 "status": "ok"
 },
 "kei.en.zazamanga": {
@@ -1884,6 +1885,10 @@
 "image": "ok",
 "lastOk": "2026-11-24",
 "pages": 4,
+"pending": {
+"since": "2026-11-24",
+"status": "partial"
+},
 "popular": 50,
 "sample": "Jardín de Mayo (Novela)",
 "status": "ok"
@@ -1929,11 +1934,11 @@
 "status": "ok"
 },
 "kei.es.datgarscanlation": {
-"chapters": 22,
+"chapters": 250,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 19,
+"pages": 6,
 "popular": 20,
 "sample": "Una Historia Sobre Un Abuelo Y Abuela De Regreso A Su Juventud",
 "status": "ok"
@@ -1963,7 +1968,7 @@
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 31,
+"pages": 42,
 "popular": 19,
 "sample": "Okubyou Kurage to Koishirazu",
 "status": "ok"
@@ -2013,7 +2018,7 @@
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 33,
+"pages": 34,
 "popular": 20,
 "sample": "Ao to Midori",
 "status": "ok"
@@ -2033,7 +2038,7 @@
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 19,
+"pages": 18,
 "popular": 20,
 "sample": "Zettai ni Shujuu ga Gyakuten Suru Yuri Ecchi Anthology",
 "status": "ok"
@@ -2050,14 +2055,10 @@
 },
 "kei.es.lolivault": {
 "chapters": 11,
-"checked": "2026-11-23",
+"checked": "2026-11-24",
 "image": "ok",
-"lastOk": "2026-11-23",
+"lastOk": "2026-11-24",
 "pages": 22,
-"pending": {
-"since": "2026-11-24",
-"status": "partial"
-},
 "popular": 25,
 "sample": "A mi joven esposa y yo",
 "status": "ok"
@@ -2158,28 +2159,20 @@
 },
 "kei.es.noranofansub": {
 "chapters": 124,
-"checked": "2026-11-23",
+"checked": "2026-11-24",
 "image": "ok",
-"lastOk": "2026-11-23",
+"lastOk": "2026-11-24",
 "pages": 7,
-"pending": {
-"since": "2026-11-24",
-"status": "dead"
-},
 "popular": 25,
 "sample": "Boku no Ushiro ni Majo ga Iru",
 "status": "ok"
 },
 "kei.es.pzykosis666hfansub": {
 "chapters": 9,
-"checked": "2026-11-23",
+"checked": "2026-11-24",
 "image": "ok",
-"lastOk": "2026-11-23",
+"lastOk": "2026-11-24",
 "pages": 31,
-"pending": {
-"since": "2026-11-24",
-"status": "dead"
-},
 "popular": 25,
 "sample": "El Secreto de la Hermosa Editora en Jefe",
 "status": "ok"
@@ -2216,14 +2209,10 @@
 },
 "kei.es.seinagi": {
 "chapters": 1,
-"checked": "2026-11-23",
+"checked": "2026-11-24",
 "image": "ok",
-"lastOk": "2026-11-23",
+"lastOk": "2026-11-24",
 "pages": 6,
-"pending": {
-"since": "2026-11-24",
-"status": "dead"
-},
 "popular": 25,
 "sample": "Amagami Precious Diary",
 "status": "ok"
@@ -2806,17 +2795,17 @@
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 20,
+"pages": 31,
 "popular": 14,
 "sample": "Savage Hero",
 "status": "ok"
 },
 "kei.pt.hanmokkuscan": {
-"chapters": 9,
+"chapters": 89,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 11,
+"pages": 14,
 "popular": 10,
 "sample": "Cultivator From the Future",
 "status": "ok"
@@ -2982,25 +2971,21 @@
 "status": "partial"
 },
 "kei.pt.noindexscan": {
-"chapters": 121,
+"chapters": 0,
 "checked": "2026-11-24",
-"image": "ok",
+"deadSince": "2026-11-24",
 "lastOk": "2026-11-24",
-"pages": 37,
-"pending": {
-"since": "2026-11-24",
+"pages": 0,
+"popular": 0,
+"site": "blocked",
 "status": "dead"
-},
-"popular": 25,
-"sample": "Teacher’s Efforts",
-"status": "ok"
 },
 "kei.pt.pinkrosa": {
 "chapters": 56,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 38,
+"pages": 34,
 "popular": 20,
 "sample": "Kanchigai no Atelier Meister",
 "status": "ok"
@@ -3040,7 +3025,7 @@
 "deadSince": "2026-11-02",
 "pages": 0,
 "popular": 0,
-"site": "up",
+"site": "blocked",
 "status": "dead"
 },
 "kei.pt.tiamanhwa": {
@@ -3125,14 +3110,14 @@
 "status": "partial"
 },
 "kei.ru.mangachan": {
-"chapters": 0,
+"chapters": 262,
 "checked": "2026-11-24",
-"deadSince": "2026-11-23",
-"lastOk": "2026-11-22",
-"pages": 0,
-"popular": 0,
-"site": "gone",
-"status": "dead"
+"image": "bad",
+"lastOk": "2026-11-24",
+"pages": 56,
+"popular": 20,
+"sample": "Girl the Wild's",
+"status": "partial"
 },
 "kei.ru.mangalib": {
 "chapters": 313,
@@ -3294,24 +3279,20 @@
 },
 "otakio.dongmanmanhua": {
 "chapters": 11,
-"checked": "2026-11-23",
+"checked": "2026-11-24",
 "image": "ok",
-"lastOk": "2026-11-23",
+"lastOk": "2026-11-24",
 "pages": 55,
-"pending": {
-"since": "2026-11-24",
-"status": "partial"
-},
-"popular": 1323,
+"popular": 1324,
 "sample": "我们公会的爱豆",
 "status": "ok"
 },
 "otakio.flamecomics": {
-"chapters": 312,
+"chapters": 314,
 "checked": "2026-11-24",
 "image": "ok",
 "lastOk": "2026-11-24",
-"pages": 17,
+"pages": 18,
 "popular": 155,
 "sample": "Omniscient Reader's Viewpoint",
 "status": "ok"
@@ -3588,17 +3569,13 @@
 },
 "otakio.vercomicsporno": {
 "chapters": 1,
-"checked": "2026-11-23",
-"image": "ok",
-"lastOk": "2026-11-23",
+"checked": "2026-11-24",
+"image": "bad",
+"lastOk": "2026-11-24",
 "pages": 48,
-"pending": {
-"since": "2026-11-24",
-"status": "partial"
-},
 "popular": 24,
 "sample": "Sexo con Demonios XXX",
-"status": "ok"
+"status": "partial"
 },
 "otakio.webtoons": {
 "chapters": 11,

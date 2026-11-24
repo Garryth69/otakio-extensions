@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 159 working</summary>
+<summary>195 sources, 158 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -174,7 +174,6 @@ Status:
 | Ruby Comics | rubycomics.net | 🟢 works | keiyoushi theme | yes |
 | S2Manga | s2read.com | 🟢 works | keiyoushi theme |  |
 | Scythe Scans | scythescans.com | 🟢 works | keiyoushi theme |  |
-| Seinagi | reader.seinagi.org.es | 🟢 works | keiyoushi theme |  |
 | SeraphicDeviltry | seraphic-deviltry.com | 🟢 works | keiyoushi theme | yes |
 | Siren Scans | sirenscans.com | 🟢 works | keiyoushi theme |  |
 | Sleepy Translations | sleepytranslations.com | 🟢 works | keiyoushi theme |  |
@@ -229,6 +228,7 @@ Status:
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
+| Seinagi | reader.seinagi.org.es | 🔴 down | keiyoushi theme |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
 | ToonGod | www.toongod.org | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
@@ -240,7 +240,7 @@ Status:
 ## Portuguese (Brazil)
 
 <details>
-<summary>45 sources, 33 working</summary>
+<summary>45 sources, 32 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -255,7 +255,6 @@ Status:
 | Euphoria Scan | euphoriascan.com | 🟢 works | keiyoushi theme | yes |
 | Fleur Blanche | squadxfbs.com | 🟢 works | keiyoushi theme | yes |
 | GALAX Scans | galaxscanlator.blogspot.com | 🟢 works | keiyoushi theme |  |
-| Hanami Heaven | hanamiheaven.org | 🟢 works | keiyoushi theme | yes |
 | Hanmokku Scan | hanmokkuscan.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hentai Teca | hentaiteca.online | 🟢 works | keiyoushi theme | yes |
 | Hentai Teca.net | hentaiteca.net | 🟢 works | keiyoushi theme | yes |
@@ -284,6 +283,7 @@ Status:
 | MR Tenzus | mrtenzus.com | 🟡 partial | keiyoushi theme | yes |
 | Nocturne Summer | nocfsb.com | 🟡 partial | keiyoushi theme |  |
 | Pink Sea Unicorn | psunicorn.com | 🟡 partial | keiyoushi theme | yes |
+| Hanami Heaven | hanamiheaven.org | 🔴 down | keiyoushi theme | yes |
 | MiniTwo Scan | minitwoscan.com | 🔴 down | keiyoushi theme |  |
 | Portal Yaoi | portalyaoi.com | 🔴 down | keiyoushi theme | yes |
 | Temaki mangás | temakimangas.blogspot.com | 🔴 down | keiyoushi theme | yes |
@@ -295,7 +295,7 @@ Status:
 ## Spanish
 
 <details>
-<summary>55 sources, 41 working</summary>
+<summary>55 sources, 40 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -338,13 +338,13 @@ Status:
 | TopComicPorno | topcomicporno.com | 🟢 works | keiyoushi theme | yes |
 | Uchuujin Projects | uchuujinmangas.com | 🟢 works | keiyoushi theme |  |
 | UnderTranslations | undertranslations.com | 🟢 works | keiyoushi theme |  |
-| VerComicsPorno | vercomicsporno.xxx | 🟢 works | native (Otakio) | yes |
 | ZonaTMO | zonatmo.to | 🟢 works | native (Otakio) |  |
 | ApollComics | apollcomics.es | 🟡 partial | keiyoushi theme | yes |
 | Asia Lotus | asialotuss.com | 🟡 partial | keiyoushi theme | yes |
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |
+| VerComicsPorno | vercomicsporno.xxx | 🟡 partial | native (Otakio) | yes |
 | Yuri-Online | yuri-online.com | 🟡 partial | keiyoushi theme |  |
 | BarManga | archiviumbar.com | 🔴 down | keiyoushi theme |  |
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
@@ -424,9 +424,9 @@ Status:
 | Usagi | web.usagi.one | 🟢 works | keiyoushi theme |  |
 | AllHentai | 20.allhen.online | 🟡 partial | keiyoushi theme | yes |
 | HentaiLib | hentailib.me | 🟡 partial | keiyoushi theme | yes |
+| MangaChan | im.manga-chan.me | 🟡 partial | keiyoushi theme |  |
 | MintManga | 2.mintmanga.one | 🟡 partial | keiyoushi theme |  |
 | HenChan | xxl.hentaichan.live | 🔴 down | keiyoushi theme | yes |
-| MangaChan | im.manga-chan.me | 🔴 down | keiyoushi theme |  |
 | YaoiChan | yaoi-chan.me | 🔴 down | keiyoushi theme | yes |
 
 </details>
