@@ -4,8 +4,10 @@ Engines.Madara {
 	name = "Hanami Heaven",
 	baseUrl = "https://hanamiheaven.org",
 	lang = "pt-BR",
-	version = 6,
+	version = 7,
 	nsfw = true,
 	extension = "kei.pt.noindexscan",
-	chapterMode = "MangaAjax",
+	mangaSubString = "todas-as-obras",
+	archiveSelector = "li.mch-catalogue-card:not(:has(.mch-catalogue-card__meta span:contains(Novel)))",
+	archiveUrlSelector = ".mch-catalogue-card__title a",
 }

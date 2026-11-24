@@ -54,6 +54,11 @@ jobs:
         working-directory: app
         run: python tools/add_sources.py --kei ../kei --max 15 --summary repo/sync.json
 
+      # keiyoushi's fixes for sources that don't work here: regenerated, kept only when a live test does better
+      - name: Update broken sources
+        working-directory: app
+        run: python tools/update_sources.py --kei ../kei --max 20 --summary repo/sync.json
+
       - name: Refresh README
         working-directory: app
         run: python tools/gen_repo_readme.py

@@ -4,7 +4,8 @@ Engines.FoolSlide {
 	name = "NIFTeam",
 	baseUrl = "https://read-nifteam.info",
 	lang = "it",
-	version = 2,
+	version = 3,
 	nsfw = false,
 	extension = "kei.it.nifteam",
+	urlModifier = "/slide",
 }

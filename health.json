@@ -1838,13 +1838,13 @@
 },
 "kei.es.bloomscans": {
 "chapters": 136,
-"checked": "2026-11-23",
-"image": "bad",
-"lastOk": "2026-11-23",
+"checked": "2026-11-24",
+"image": "ok",
+"lastOk": "2026-11-24",
 "pages": 4,
 "popular": 50,
 "sample": "Jardín de Mayo (Novela)",
-"status": "partial"
+"status": "ok"
 },
 "kei.es.bokugentranslation": {
 "chapters": 0,
@@ -2469,12 +2469,14 @@
 "status": "ok"
 },
 "kei.it.nifteam": {
-"chapters": 0,
-"checked": "2026-11-23",
-"deadSince": "2026-11-02",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 1,
+"checked": "2026-11-24",
+"image": "ok",
+"lastOk": "2026-11-24",
+"pages": 36,
+"popular": 25,
+"sample": "#DRCL Midnight Children",
+"status": "ok"
 },
 "kei.it.phoenixscans": {
 "chapters": 172,
@@ -2905,13 +2907,14 @@
 "status": "partial"
 },
 "kei.pt.noindexscan": {
-"chapters": 0,
-"checked": "2026-11-23",
-"deadSince": "2026-11-19",
-"lastOk": "2026-11-19",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 121,
+"checked": "2026-11-24",
+"image": "ok",
+"lastOk": "2026-11-24",
+"pages": 37,
+"popular": 25,
+"sample": "Teacher’s Efforts",
+"status": "ok"
 },
 "kei.pt.pinkrosa": {
 "chapters": 56,

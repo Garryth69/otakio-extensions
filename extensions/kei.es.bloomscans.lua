@@ -4,8 +4,9 @@ Engines.MangaThemesia {
 	name = "Bloom Scans",
 	baseUrl = "https://bloomscans.com",
 	lang = "es",
-	version = 4,
+	version = 5,
 	nsfw = false,
 	extension = "kei.es.bloomscans",
 	mangaUrlDirectory = "/series",
+	chapterListSelector = "#lrs-native-chapterlist li",
 }
