@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-23.
+Last automated check: 2026-11-24.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -387,7 +387,7 @@ Status:
 ## Italian
 
 <details>
-<summary>13 sources, 8 working</summary>
+<summary>13 sources, 9 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -395,13 +395,13 @@ Status:
 | GTO The Great Site | reader.gtothegreatsite.net | 🟢 works | keiyoushi theme |  |
 | Juin Jutsu Team Reader | www.juinjutsureader.ovh | 🟢 works | keiyoushi theme |  |
 | LupiTeam | lupiteam.net | 🟢 works | keiyoushi theme |  |
+| MangaWorld | www.mangaworld.me | 🟢 works | native (Otakio) |  |
 | Phoenix Scans | www.phoenixscans.com | 🟢 works | keiyoushi theme |  |
 | Shinobi Scans | shinobiscans.com | 🟢 works | keiyoushi theme |  |
 | TuttoAnimeManga | tuttoanimemanga.net | 🟢 works | keiyoushi theme |  |
 | ZeurelScan | www.zeurelscan.com | 🟢 works | native (Otakio) |  |
 | DDT Team | ddt.hastateam.com | 🔴 down | keiyoushi theme |  |
 | Hasta Team | reader.hastateam.com | 🔴 down | keiyoushi theme |  |
-| MangaWorld | www.mangaworld.mx | 🔴 down | native (Otakio) |  |
 | NIFTeam | read-nifteam.info | 🔴 down | keiyoushi theme |  |
 | Walpurgi Scan | www.walpurgiscan.it | 🔴 down | keiyoushi theme |  |
 

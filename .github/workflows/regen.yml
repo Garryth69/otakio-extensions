@@ -43,7 +43,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install lupa
+      - run: pip install -r app/tools/requirements.txt
 
       - name: Prune and follow upstream
         working-directory: app

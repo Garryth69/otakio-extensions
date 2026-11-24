@@ -1,15 +1,15 @@
 -- @id otakio.mangaworld
 -- @name MangaWorld
 -- @lang it
--- @version 1
+-- @version 2
 -- @nsfw false
--- @baseUrl https://www.mangaworld.mx
+-- @baseUrl https://www.mangaworld.me
 -- Native Otakio extension: MangaWorld (the largest Italian manga catalog).
 
 local U = Engines.util
-local BASE = "https://www.mangaworld.mx"
+local BASE = "https://www.mangaworld.me"
 
-local p = U.newParser({id = "OTAKIO_MANGAWORLD", name = "MangaWorld", baseUrl = BASE, lang = "it", version = 1, engine = "native"}, {})
+local p = U.newParser({id = "OTAKIO_MANGAWORLD", name = "MangaWorld", baseUrl = BASE, lang = "it", version = 2, engine = "native"}, {})
 
 p.Filters = {
 	{Name = "Tipologia", Type = "radio", Tags = {"Tutti", "Manga", "Manhwa", "Manhua", "Oneshot"}},
@@ -24,12 +24,18 @@ end
 local function list(url, dt)
 	local doc = Http.getDocument(url, U.headers(p))
 	local n = 0
-	for _, el in ipairs(doc:select("div.comics-grid .entry")) do
-		local a = el:selectFirst("a")
-		local img = el:selectFirst("a.thumb img")
-		if a then
+	-- cards of the archive and of the home page (2026 layout); the old grid as a fallback
+	for _, el in ipairs(doc:select("article.card, div.comics-grid .entry")) do
+		local a = el:selectFirst("a.card-cover, a.thumb, a")
+		local img = a and a:selectFirst("img")
+		local title = a and a:attr("title") or ""
+		if title == "" then
+			local t = el:selectFirst(".card-title a")
+			title = t and U.trim(t:text()) or ""
+		end
+		if a and title ~= "" then
 			n = n + 1
-			U.addManga(dt, p, a:attr("title"), (string.gsub(a:attr("abs:href"), "/$", "")), image(img and img:attr("abs:src")))
+			U.addManga(dt, p, title, (string.gsub(a:attr("abs:href"), "/$", "")), image(img and img:attr("abs:src")))
 		end
 	end
 	dt.NoPages = n < 16
@@ -72,9 +78,9 @@ end
 
 function p:getChapters(manga, dt)
 	local doc = Http.getDocument(U.absolute(BASE, manga.Link), U.headers(self))
-	local info = doc:selectFirst("div.comic-info")
+	local info = doc:selectFirst("div.manga-info, div.comic-info")
 	if info then
-		local img = info:selectFirst(".thumb > img")
+		local img = doc:selectFirst(".manga-cover img, .comic-info .thumb > img")
 		if img then
 			manga.NewImageLink = image(img:attr("abs:src"))
 		end
@@ -83,14 +89,17 @@ function p:getChapters(manga, dt)
 		dt.Description = Engines.buildInfo({
 			Author = author and author:text() or nil,
 			Status = status and status:text() or nil,
-			Genres = info:select("div.meta-data a.badge"):eachText()
-		}, doc:select("div#noidungm"):text())
+			Genres = info:select("li a[href*=genre=], div.meta-data a.badge"):eachText()
+		}, doc:select("p.manga-plot, div#noidungm"):text())
 	end
 	local out = {}
-	for i, el in ipairs(doc:select(".chapters-wrapper .chapter")) do
-		local a = el:selectFirst("a.chap")
+	for i, el in ipairs(doc:select("li.ch-row, .chapters-wrapper .chapter")) do
+		if i % 100 == 0 then
+			coroutine.yield(false) -- 1000+ chapters (One Piece): keep the screen moving
+		end
+		local a = el:selectFirst("a.ch, a.chap")
 		if a then
-			local nameEl = el:selectFirst("span.d-inline-block")
+			local nameEl = el:selectFirst(".ch-name, span.d-inline-block")
 			local name = nameEl and nameEl:text() or U.trim(a:text())
 			out[#out + 1] = {
 				n = tonumber(string.match(string.lower(name), "capitolo%s+([%d%.]+)")),
@@ -114,7 +123,7 @@ end
 
 function p:prepareChapter(chapter, dt)
 	local doc = Http.getDocument(U.absolute(BASE, chapter.Link), U.headers(self))
-	for _, img in ipairs(doc:select("div#page img.page-image")) do
+	for _, img in ipairs(doc:select("img.reader-page, div#page img.page-image")) do
 		dt[#dt + 1] = image(img:attr("abs:src"))
 	end
 end

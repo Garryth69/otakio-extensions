@@ -28,14 +28,22 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install lupa
+      - run: pip install -r app/tools/requirements.txt
 
       - name: Validate
         working-directory: app
         run: python tools/validate_repo.py --git
 
-  # Dependabot's updates of the pinned actions merge themselves once the job above passes (minor and patch versions
-  # only: a major version waits for a person), so the workflows keep working while nobody maintains the repository
+      # the robots' own tools on this catalog, writing nothing: an update (an action, Python, lupa) that breaks them
+      # fails here, before it is merged
+      - name: Robot dry run
+        working-directory: app
+        run: |
+          python tools/prune_repo.py --dry-run --max-removals 8
+          python tools/status_report.py --out "$RUNNER_TEMP/report.md"
+
+  # Dependabot's updates merge themselves once the job above passes, major versions included: GitHub retires old
+  # action runtimes, and an update left waiting for a person would stop the workflows while nobody maintains them
   automerge:
     needs: validate
     if: github.event_name == 'pull_request' && github.actor == 'dependabot[bot]'
@@ -46,8 +54,7 @@ jobs:
     steps:
       - id: meta
         uses: dependabot/fetch-metadata@25dd0e34f4fe68f24cc83900b1fe3fe149efef98 # v3.1.0
-      - if: steps.meta.outputs.update-type != 'version-update:semver-major'
-        run: gh pr merge "$PR" --squash --delete-branch --repo "$REPO"
+      - run: gh pr merge "$PR" --squash --delete-branch --repo "$REPO"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR: ${{ github.event.pull_request.number }}

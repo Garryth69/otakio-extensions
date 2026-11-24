@@ -35,11 +35,11 @@ tab offers it with one click.
 | [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 32 |
 | [Spanish](SOURCES.md#spanish) | 55 | 40 |
 | [French](SOURCES.md#french) | 17 | 9 |
-| [Italian](SOURCES.md#italian) | 13 | 8 |
+| [Italian](SOURCES.md#italian) | 13 | 9 |
 | [Russian](SOURCES.md#russian) | 14 | 8 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **363** | **271** |
+| **Total** | **363** | **272** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 
@@ -53,6 +53,7 @@ with use.
 | `index.json` | catalog read by the app (id, name, language, version, file, status) |
 | `extensions/` | published extensions, one `.lua` per source |
 | `native/` | source code of the native extensions (sites with their own API or layout) |
+| `patches/` | engine patches: fixes for a site theme's engine that installed apps download without an update (`patches` in `index.json`, see `tools/add_patch.py` in the app repository) |
 | `SOURCES.md` | every source by language, with site, status and type (generated) |
 | `health.json` | latest automated test result of each source, with `deadSince`/`lastOk` history |
 | `removed.json`, `REMOVED.md` | sources taken out of the catalog, with date and reason |

@@ -3393,13 +3393,14 @@
 "status": "ok"
 },
 "otakio.mangaworld": {
-"chapters": 0,
-"checked": "2026-11-23",
-"deadSince": "2026-11-21",
-"lastOk": "2026-11-20",
-"pages": 0,
-"popular": 0,
-"status": "dead"
+"chapters": 1201,
+"checked": "2026-11-24",
+"image": "ok",
+"lastOk": "2026-11-24",
+"pages": 13,
+"popular": 20,
+"sample": "One Piece",
+"status": "ok"
 },
 "otakio.mangotoons": {
 "chapters": 3862,
