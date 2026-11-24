@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 155 working</summary>
+<summary>195 sources, 159 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -101,6 +101,7 @@ Status:
 | Kun Manga Online | www.kunmanga.online | 🟢 works | keiyoushi theme |  |
 | Lagoon Scans | lagoonscans.com | 🟢 works | keiyoushi theme |  |
 | LHTranslation | lhtranslation.net | 🟢 works | keiyoushi theme |  |
+| Lily Manga | lilymanga.net | 🟢 works | keiyoushi theme |  |
 | Lovesjane Scans | lovesjane.site | 🟢 works | keiyoushi theme |  |
 | Lua Scans | luacomic.org | 🟢 works | keiyoushi theme |  |
 | Luna Toons | lunatoons.net | 🟢 works | keiyoushi theme |  |
@@ -129,6 +130,7 @@ Status:
 | Manhuanext | manhuanext.com | 🟢 works | keiyoushi theme |  |
 | ManhuaPlus (Unoriginal) | manhuaplus.org | 🟢 works | keiyoushi theme |  |
 | Manhwa Reads | manhwareads.com | 🟢 works | keiyoushi theme |  |
+| Manhwa Toon | www.manhwatoon.me | 🟢 works | keiyoushi theme |  |
 | Manhwa18.cc | manhwa18.cc | 🟢 works | keiyoushi theme | yes |
 | Manhwa18TX | manhwa18tx.com | 🟢 works | keiyoushi theme |  |
 | ManhwaBuddy | manhwabuddy.com | 🟢 works | keiyoushi theme |  |
@@ -150,9 +152,11 @@ Status:
 | OctopusManga | octopusmanga.com | 🟢 works | keiyoushi theme | yes |
 | Omega Scans | omegascans.org | 🟢 works | keiyoushi theme | yes |
 | Orchisasia | www.orchisasia.org | 🟢 works | keiyoushi theme | yes |
+| Paritehaber | www.paritehaber.com | 🟢 works | keiyoushi theme | yes |
 | Petrotechsociety | www.petrotechsociety.org | 🟢 works | keiyoushi theme | yes |
 | Pornhwaz | www.pornhwaz.com | 🟢 works | keiyoushi theme | yes |
 | Rackus | rackusreads.com | 🟢 works | keiyoushi theme |  |
+| Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟢 works | keiyoushi theme |  |
 | Read Berserk Manga | readberserk.com | 🟢 works | keiyoushi theme |  |
 | Read Chainsaw Man Manga Online | ww6.readchainsawman.com | 🟢 works | keiyoushi theme | yes |
 | Read Fairy Tail & Edens Zero Manga Online | ww9.readfairytail.com | 🟢 works | keiyoushi theme |  |
@@ -200,7 +204,6 @@ Status:
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
-| Read Attack on Titan Shingeki no Kyojin Manga | ww12.readsnk.com | 🟡 partial | keiyoushi theme |  |
 | Read Black Clover Manga Online | ww10.readblackclover.com | 🟡 partial | keiyoushi theme |  |
 | Rose Squad Scans | rosesquadscans.aishiteru.org | 🟡 partial | keiyoushi theme | yes |
 | TopManhua.net | topmanhua.net | 🟡 partial | keiyoushi theme |  |
@@ -215,18 +218,15 @@ Status:
 | Kaizen Scan | kaizenscan.com | 🔴 down | keiyoushi theme | yes |
 | Kissmanga.in | kissmanga.in | 🔴 down | keiyoushi theme |  |
 | Lgbtics | lgbtics.com | 🔴 down | keiyoushi theme | yes |
-| Lily Manga | lilymanga.net | 🔴 down | keiyoushi theme |  |
 | LinkManga | linkmanga.com | 🔴 down | yuzono theme |  |
 | Manhua Zonghe | www.manhuazonghe.com | 🔴 down | keiyoushi theme | yes |
 | ManhuaUS | manhuaus.com | 🔴 down | keiyoushi theme |  |
-| Manhwa Toon | www.manhwatoon.me | 🔴 down | keiyoushi theme |  |
 | Manhwa18.today | www.manhwa18.today | 🔴 down | keiyoushi theme | yes |
 | Manhwa68 | manhwa68.com | 🔴 down | keiyoushi theme | yes |
 | ManhwaManhua | manhwamanhua.com | 🔴 down | keiyoushi theme | yes |
 | MeiToon | meitoon.org | 🔴 down | keiyoushi theme |  |
 | Mist Scans | mistscans.org | 🔴 down | keiyoushi theme |  |
 | NovelCrow | novelcrow.com | 🔴 down | keiyoushi theme | yes |
-| Paritehaber | www.paritehaber.com | 🔴 down | keiyoushi theme | yes |
 | Rage Scans | ragescans.com | 🔴 down | keiyoushi theme |  |
 | Raven Scans | ravenscans.org | 🔴 down | keiyoushi theme |  |
 | Setsu Scans | setsuscans.com | 🔴 down | keiyoushi theme |  |
@@ -424,9 +424,9 @@ Status:
 | Usagi | web.usagi.one | 🟢 works | keiyoushi theme |  |
 | AllHentai | 20.allhen.online | 🟡 partial | keiyoushi theme | yes |
 | HentaiLib | hentailib.me | 🟡 partial | keiyoushi theme | yes |
-| MangaChan | im.manga-chan.me | 🟡 partial | keiyoushi theme |  |
 | MintManga | 2.mintmanga.one | 🟡 partial | keiyoushi theme |  |
 | HenChan | xxl.hentaichan.live | 🔴 down | keiyoushi theme | yes |
+| MangaChan | im.manga-chan.me | 🔴 down | keiyoushi theme |  |
 | YaoiChan | yaoi-chan.me | 🔴 down | keiyoushi theme | yes |
 
 </details>
