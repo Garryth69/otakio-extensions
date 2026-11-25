@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-24.
+Last automated check: 2026-11-25.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 158 working</summary>
+<summary>195 sources, 156 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -45,7 +45,6 @@ Status:
 | AllPornComic | allporncomic.com | 🟢 works | keiyoushi theme | yes |
 | AllPornComic.io | allporncomic.io | 🟢 works | keiyoushi theme | yes |
 | AP Comics | apcomics.org | 🟢 works | keiyoushi theme | yes |
-| Aqua Manga | aquareader.org | 🟢 works | keiyoushi theme |  |
 | Arena Scans | arenascan.com | 🟢 works | keiyoushi theme |  |
 | Art Lapsa | artlapsa.com | 🟢 works | keiyoushi theme |  |
 | AsmHentai | asmhentai.com | 🟢 works | native (Otakio) | yes |
@@ -130,7 +129,6 @@ Status:
 | Manhuanext | manhuanext.com | 🟢 works | keiyoushi theme |  |
 | ManhuaPlus (Unoriginal) | manhuaplus.org | 🟢 works | keiyoushi theme |  |
 | Manhwa Reads | manhwareads.com | 🟢 works | keiyoushi theme |  |
-| Manhwa Toon | www.manhwatoon.me | 🟢 works | keiyoushi theme |  |
 | Manhwa18.cc | manhwa18.cc | 🟢 works | keiyoushi theme | yes |
 | Manhwa18TX | manhwa18tx.com | 🟢 works | keiyoushi theme |  |
 | ManhwaBuddy | manhwabuddy.com | 🟢 works | keiyoushi theme |  |
@@ -203,10 +201,12 @@ Status:
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
 | Manga 18x | manga18x.net | 🟡 partial | keiyoushi theme | yes |
 | Manhwa Comics | manhwacomics.com | 🟡 partial | keiyoushi theme | yes |
+| Manhwa Toon | www.manhwatoon.me | 🟡 partial | keiyoushi theme |  |
 | Read Black Clover Manga Online | ww10.readblackclover.com | 🟡 partial | keiyoushi theme |  |
 | Rose Squad Scans | rosesquadscans.aishiteru.org | 🟡 partial | keiyoushi theme | yes |
 | TopManhua.net | topmanhua.net | 🟡 partial | keiyoushi theme |  |
 | Zinmanga | mangazin.org | 🟡 partial | keiyoushi theme |  |
+| Aqua Manga | aquareader.org | 🔴 down | keiyoushi theme |  |
 | Borat Scans | boratscans.com | 🔴 down | keiyoushi theme |  |
 | BrainRotComics | brainrotcomics.com | 🔴 down | keiyoushi theme |  |
 | Comic Asura | comicasura.net | 🔴 down | keiyoushi theme |  |
@@ -299,7 +299,6 @@ Status:
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
-| Bloom Scans | bloomscans.com | 🟢 works | keiyoushi theme |  |
 | Bymichi Scan | bymichiby.com | 🟢 works | keiyoushi theme | yes |
 | Cerberus Series | legionscans.com/wp | 🟢 works | keiyoushi theme |  |
 | Dark Room Fansub | lector-darkroomfansub.blogspot.com | 🟢 works | keiyoushi theme | yes |
@@ -338,13 +337,14 @@ Status:
 | TopComicPorno | topcomicporno.com | 🟢 works | keiyoushi theme | yes |
 | Uchuujin Projects | uchuujinmangas.com | 🟢 works | keiyoushi theme |  |
 | UnderTranslations | undertranslations.com | 🟢 works | keiyoushi theme |  |
+| VerComicsPorno | vercomicsporno.xxx | 🟢 works | native (Otakio) | yes |
 | ZonaTMO | zonatmo.to | 🟢 works | native (Otakio) |  |
 | ApollComics | apollcomics.es | 🟡 partial | keiyoushi theme | yes |
 | Asia Lotus | asialotuss.com | 🟡 partial | keiyoushi theme | yes |
+| Bloom Scans | bloomscans.com | 🟡 partial | keiyoushi theme |  |
 | Manga  TV | mangatv.net | 🟡 partial | keiyoushi theme |  |
 | Mundo Manhwa | mundomanhwa.com | 🟡 partial | keiyoushi theme | yes |
 | TopComicPorno.net | topcomicporno.net | 🟡 partial | keiyoushi theme | yes |
-| VerComicsPorno | vercomicsporno.xxx | 🟡 partial | native (Otakio) | yes |
 | Yuri-Online | yuri-online.com | 🟡 partial | keiyoushi theme |  |
 | BarManga | archiviumbar.com | 🔴 down | keiyoushi theme |  |
 | Bega Translation | begatranslation.com | 🔴 down | keiyoushi theme |  |
