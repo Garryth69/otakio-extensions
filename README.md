@@ -31,15 +31,15 @@ tab offers it with one click.
 | Language | Sources | 🟢 working |
 |---|---:|---:|
 | [Multi-language](SOURCES.md#multi-language) | 10 | 8 |
-| [English](SOURCES.md#english) | 195 | 156 |
-| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 33 |
-| [Spanish](SOURCES.md#spanish) | 55 | 39 |
+| [English](SOURCES.md#english) | 195 | 154 |
+| [Portuguese (Brazil)](SOURCES.md#portuguese-brazil) | 45 | 34 |
+| [Spanish](SOURCES.md#spanish) | 55 | 41 |
 | [French](SOURCES.md#french) | 17 | 9 |
 | [Italian](SOURCES.md#italian) | 13 | 10 |
 | [Russian](SOURCES.md#russian) | 14 | 8 |
 | [Japanese](SOURCES.md#japanese) | 9 | 8 |
 | [Chinese](SOURCES.md#chinese) | 5 | 4 |
-| **Total** | **363** | **275** |
+| **Total** | **363** | **276** |
 
 **[Full list of sources, with site, status and type → SOURCES.md](SOURCES.md)**
 
