@@ -1,7 +1,7 @@
 # Sources
 
 Every source in the [Otakio extension repository](README.md), by language. Working sources come first.
-Last automated check: 2026-11-27.
+Last automated check: 2026-11-28.
 
 Status:
 - **🟢 works:** listing, chapters and pages tested;
@@ -35,7 +35,7 @@ Status:
 ## English
 
 <details>
-<summary>195 sources, 154 working</summary>
+<summary>195 sources, 152 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -54,7 +54,6 @@ Status:
 | Athrea Scans | athreascans.com | 🟢 works | keiyoushi theme |  |
 | Battle In 5 Seconds After Meeting | www.deatte5.com | 🟢 works | keiyoushi theme |  |
 | Bun Manga | bunmanga.com | 🟢 works | keiyoushi theme |  |
-| CartoonPorn | cartoonporn.to | 🟢 works | keiyoushi theme | yes |
 | Cocomic | cocomic.co | 🟢 works | keiyoushi theme |  |
 | Comizy | comizy.io | 🟢 works | keiyoushi theme |  |
 | Cucumber Manga | cucumbermanga.com | 🟢 works | keiyoushi theme | yes |
@@ -187,12 +186,12 @@ Status:
 | Violet Scans | violetmanga.com | 🟢 works | keiyoushi theme |  |
 | Weeb Central | weebcentral.com | 🟢 works | native (Otakio) |  |
 | Writer Scans | writerscans.com | 🟢 works | keiyoushi theme |  |
-| WuxiaWorld | wuxiaworld.site | 🟢 works | keiyoushi theme |  |
 | YakshaComics | yakshacomics.com | 🟢 works | keiyoushi theme |  |
 | Yaoihub | yaoihub.org | 🟢 works | keiyoushi theme | yes |
 | YaoiScan (Unoriginal) | yaoiscan.me | 🟢 works | keiyoushi theme |  |
 | Zazamanga | www.zazamanga.com | 🟢 works | keiyoushi theme |  |
 | Zinmanga.net | www.zinmanga.net | 🟢 works | keiyoushi theme |  |
+| CartoonPorn | cartoonporn.to | 🟡 partial | keiyoushi theme | yes |
 | Gourmet Scans | gourmetsupremacy.com | 🟡 partial | keiyoushi theme |  |
 | KaliScan.org (unoriginal) | kaliscan.org | 🟡 partial | keiyoushi theme |  |
 | MadaraDex | madaradex.org | 🟡 partial | keiyoushi theme |  |
@@ -233,6 +232,7 @@ Status:
 | ToonGod | www.toongod.org | 🔴 down | keiyoushi theme |  |
 | WebtoonXYZ | www.webtoon.xyz | 🔴 down | keiyoushi theme |  |
 | Wildtoon | wildtoon.com | 🔴 down | keiyoushi theme | yes |
+| WuxiaWorld | wuxiaworld.site | 🔴 down | keiyoushi theme |  |
 | YaoiScan | yaoiscan.com | 🔴 down | keiyoushi theme |  |
 
 </details>
@@ -240,7 +240,7 @@ Status:
 ## Portuguese (Brazil)
 
 <details>
-<summary>45 sources, 34 working</summary>
+<summary>45 sources, 32 working</summary>
 
 | Source | Site | Status | Type | 18+ |
 |---|---|---|---|:---:|
@@ -254,7 +254,6 @@ Status:
 | Duo Scans | duoscanlators.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Euphoria Scan | euphoriascan.com | 🟢 works | keiyoushi theme | yes |
 | Fleur Blanche | squadxfbs.com | 🟢 works | keiyoushi theme | yes |
-| GALAX Scans | galaxscanlator.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hanmokku Scan | hanmokkuscan.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Hentai Teca | hentaiteca.online | 🟢 works | keiyoushi theme | yes |
 | Hentai Teca.net | hentaiteca.net | 🟢 works | keiyoushi theme | yes |
@@ -270,7 +269,6 @@ Status:
 | Monte Tai | montetaiscanlator.xyz | 🟢 works | keiyoushi theme |  |
 | Nebulosa Scan | nebulosascan.com | 🟢 works | keiyoushi theme |  |
 | Ninja Scan | ninjacomics.xyz | 🟢 works | keiyoushi theme |  |
-| Pink Rosa | scanpinkrosa.blogspot.com | 🟢 works | keiyoushi theme |  |
 | Tankou Hentai | tankouhentai.com | 🟢 works | keiyoushi theme | yes |
 | Tia Manhwa | tiamanhwa.com | 🟢 works | keiyoushi theme | yes |
 | ToonBR | beta.toonbr.com | 🟢 works | native (Otakio) |  |
@@ -279,10 +277,12 @@ Status:
 | Yaoi Fan Club | yaoifanclub.com | 🟢 works | keiyoushi theme |  |
 | Yuri on Air | yurionair.top | 🟢 works | keiyoushi theme |  |
 | FlowerManga.net | flowermangas.net | 🟡 partial | keiyoushi theme |  |
+| GALAX Scans | galaxscanlator.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | Hunters Scan | readhunters.xyz | 🟡 partial | keiyoushi theme |  |
 | Little Tyrant | tiraninha.world | 🟡 partial | keiyoushi theme |  |
 | MR Tenzus | mrtenzus.com | 🟡 partial | keiyoushi theme | yes |
 | Nocturne Summer | nocfsb.com | 🟡 partial | keiyoushi theme |  |
+| Pink Rosa | scanpinkrosa.blogspot.com | 🟡 partial | keiyoushi theme |  |
 | Pink Sea Unicorn | psunicorn.com | 🟡 partial | keiyoushi theme | yes |
 | Hanami Heaven | hanamiheaven.org | 🔴 down | keiyoushi theme | yes |
 | MiniTwo Scan | minitwoscan.com | 🔴 down | keiyoushi theme |  |
